@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-21",
+  "weekday": "일요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "런치플레이션(점심값 인플레이션)에 간편식·버거·뷔페로 쏠리는 수요",
+      "body": "외식 물가 급등으로 소비자들이 도시락·간편식(HMR)과 저가 버거 프랜차이즈, 중저가 뷔페로 대거 이동하고 있다. 이마트 국·탕류 매출 30%↑, CU 김밥 27%↑, GS25 도시락 20%↑. 반면 오마카세 폐점 증가 등 레스토랑 업계는 어려움을 겪고 있음.",
+      "source": "Seoul Economic Daily, 2026-06-20",
+      "source_url": "https://en.sedaily.com/finance/2026/06/20/lunchflation-drives-boom-in-ready-meals-buffets-and-burgers"
+    },
+    {
+      "rank": 2,
+      "title": "홍콩 디저트 '양지감로(杨枝甘露)', 한국 디저트 트렌드로 부상",
+      "body": "여름 시즌을 맞아 망고·자몽·사고가 들어간 홍콩식 디저트 '양지감로'가 한국에서 새로운 디저트 트렌드로 떠오르고 있다. 편의점(GS25, CU)과 카페에서 잇따라 제품을 출시하며 소셜미디어를 중심으로 입소문 확산 중. GS25 '스푼으로 먹는 양즈간루' 6월 5일 출시.",
+      "source": "Seoul Economic Daily, 2026-06-20",
+      "source_url": "https://en.sedaily.com/news/2026/06/20/hong-kong-dessert-yangzhi-ganlu-emerges-as-koreas-next"
+    },
+    {
+      "rank": 3,
+      "title": "계란값 급등에 정부, 미국·태국산 신선란 2,112만개 수입 추진",
+      "body": "농림축산식품부는 고병원성 AI(AI)에 따른 산란계 살처분과 사육밀도 개선 영향으로 치솟는 계란값을 잡기 위해 미국과 태국에서 신선란 2,112만개를 단계적으로 수입하기로 결정. 추가 확대도 검토 중. 제과·제빵업계와 외식업계 타격 확대 우려.",
+      "source": "Seoul Economic Daily, 2026-06-20",
+      "source_url": "https://en.sedaily.com/news/2026/06/20/korea-to-boost-egg-imports-as-prices-climb"
+    },
+    {
+      "rank": 4,
+      "title": "간편점, 월드컵 멕시코전 특수…삼각김밥 165%·샌드위치 102%↑",
+      "body": "2026 북중미 월드컵 멕시코전 당일 편의점 업계가 또 한 번 특수를 누렸다. 광화문 등 응원 집결지 인근 편의점에서 삼각김밥(165%), 샌드위치(102%), 김밥 등 간편식 매출이 급증. 맥주 매출도 최대 7배까지 증가하며 월드컵 특수가 외식·식품업계에 활력.",
+      "source": "Seoul Economic Daily, 2026-06-20",
+      "source_url": "https://en.sedaily.com/finance/2026/06/20/convenience-stores-score-another-world-cup-boom-on-mexico"
+    },
+    {
+      "rank": 5,
+      "title": "K-라면, 매운맛으로 글로벌 표준 재정의…수출 2.2조원 돌파",
+      "body": "한국 라면 수출이 사상 최고인 2.2조원을 기록하며 식품 수출 1위 품목으로 자리잡았다. '불닭볶음면' 등 매운맛 라면이 글로벌 스테디셀러로 자리잡으며, K-푸드의 대표 주자로 부상. 라면이 단순 간식을 넘어 '소울푸드'로 인정받는 추세.",
+      "source": "Seoul Economic Daily, 2026-06-20",
+      "source_url": "https://en.sedaily.com/news/2026/06/20/korean-ramen-reshapes-global-standards-with-addictive-spicy"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "아라비카 원두 (ICE Coffee C)",
+      "price": "275.10",
+      "unit": "USd/Lb",
+      "daily": -0.99,
+      "monthly": 1.83,
+      "yoy": -13.78,
+      "comment": "월간 상승세(중남미 공급 차질)에도 전년비 큰 폭 하락, 단기 반등 시도 중"
+    },
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "4143.00",
+      "unit": "USD/T",
+      "daily": -0.02,
+      "monthly": 6.04,
+      "yoy": -51.02,
+      "comment": "전년 고점 대비 급락했으나 월간 회복세, 수급 불안 지속"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "13.59",
+      "unit": "USd/Lb",
+      "daily": -1.88,
+      "monthly": -9.46,
+      "yoy": -15.59,
+      "comment": "월간·연간 약세 지속, 브라질 작황 호조가 하방 압력"
+    },
+    {
+      "name": "WTI 원유 (NYMEX)",
+      "price": "76.54",
+      "unit": "USD/bbl",
+      "daily": -0.08,
+      "monthly": -22.10,
+      "yoy": 2.15,
+      "comment": "중동 정세 불안 완화와 수요 우려로 월간 급락, 70달러선 위협"
+    },
+    {
+      "name": "밀 (CBOT Wheat)",
+      "price": "605.75",
+      "unit": "USd/Bu",
+      "daily": -1.14,
+      "monthly": -9.22,
+      "yoy": 6.69,
+      "comment": "흑해 곡물 협정 연장 기대감으로 하락, 전년비로는 강세"
+    },
+    {
+      "name": "대두 (CBOT Soybean)",
+      "price": "1122.75",
+      "unit": "USd/Bu",
+      "daily": -0.82,
+      "monthly": -7.17,
+      "yoy": 5.13,
+      "comment": "미국 재고 전망 상향으로 월간 약세, 전년비 양호"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,530",
+    "d7_pct": 0.32,
+    "d30_pct": 4.75,
+    "d60_pct": 1.52,
+    "yoy_pct": 1.64
+  },
+  "fao_insight": "6월 셋째 주 FAO 식량가격지수는 곡물 및 유지류 약세로 전월비 소폭 하락했으나 전년비 높은 수준 유지. 중동발 원자재 공급망 리스크와 AI에 의한 계란/가금류 수급 불안이 식품 원가 상승 요인으로 작용. 고환율(1,530원대)이 수입 식재료 원가 부담을 가중시키며 외식업계의 가격 인상 압박으로 이어지는 상황.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "📊 '런치플레이션'이 바꾸는 외식 소비 지형도",
+      "body": "고물가 외식비 부담이 소비 패턴을 근본적으로 변화시키고 있음. HMR·편의점 도시락·저가 버거로의 수요 이동이 가속화되며, 중저가 외식 프랜차이즈(Lotteria, Ashley)는 수혜를 보는 반면 고급 레스토랑·오마카세는 폐점 증가. 향후 간편식 시장과 가성비 외식 브랜드의 성장이 지속될 전망."
+    },
+    {
+      "rank": 2,
+      "title": "📊 계란값·원자재 동반 상승이 식음료 업계에 미치는 영향",
+      "body": "AI로 인한 계란 수급 불안에 더해 코코아·설탕·원두 등 주요 원자재 가격 변동성 확대가 제과·제빵·커피 업계의 원가 부담을 가중. 정부의 계란 수입 확대 조치는 단기적 완화 요인이지만, 중장기적 원자재 모니터링 및 대체 소재 개발 필요성 대두."
+    },
+    {
+      "rank": 3,
+      "title": "📊 K-푸드의 글로벌 확장: 라면 수출 2.2조 시대",
+      "body": "K-라면이 글로벌 스테디셀러로 자리잡으며 수출 2.2조원 기록. '매운맛'이라는 차별화 전략이 글로벌 소비자 취향에 성공적으로 안착. K-분식(떡볶이 등)의 세계화 움직임도 가속화되며 K-푸드의 수출 다변화가 기대됨."
+    }
+  ],
+  "keywords": [
+    {
+      "rank": 1,
+      "keyword": "런치플레이션",
+      "trend": "up",
+      "comment": "외식 물가 급등으로 HMR·저가 외식 수요 폭발적 증가"
+    },
+    {
+      "rank": 2,
+      "keyword": "계란값",
+      "trend": "up",
+      "comment": "AI 여파로 계란 공급 차질, 정부 수입 확대 추진 중"
+    },
+    {
+      "rank": 3,
+      "keyword": "K-라면 수출",
+      "trend": "up",
+      "comment": "사상 최대 2.2조원 수출, 매운맛으로 글로벌 시장 공략"
+    },
+    {
+      "rank": 4,
+      "keyword": "WTI 원유",
+      "trend": "down",
+      "comment": "중동 휴전 기대감에 월간 22% 급락, 식품 제조물류비 완화 기대"
+    },
+    {
+      "rank": 5,
+      "keyword": "양지감로 디저트",
+      "trend": "up",
+      "comment": "홍콩식 망고 디저트, 편의점·카페 중심으로 한국 상륙"
+    },
+    {
+      "rank": 6,
+      "keyword": "USD/KRW 환율",
+      "trend": "up",
+      "comment": "1,530원대 고환율 지속, 수입 식자재 원가 부담 가중"
+    }
+  ]
+}

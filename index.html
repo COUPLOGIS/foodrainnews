@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>식품·외식·디저트 업계 데일리 리포트</title>
+<style>
+  :root { --bg: #0d1117; --card: #161b22; --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --border: #30363d; --green: #3fb950; --red: #f85149; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; padding: 20px; }
+  .container { max-width: 960px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 20px; }
+  .date-nav { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+  .date-nav a { padding: 4px 12px; border-radius: 6px; background: var(--card); color: var(--accent); text-decoration: none; font-size: 0.85rem; border: 1px solid var(--border); }
+  .date-nav a:hover { background: #1f2937; }
+  .date-nav a.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-bottom: 12px; }
+  .card h3 { font-size: 1rem; margin-bottom: 6px; }
+  .card .meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 8px; }
+  .card p { font-size: 0.9rem; color: #c9d1d9; }
+  .section-title { font-size: 1.1rem; font-weight: 600; margin: 24px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .stat { font-size: 0.85rem; }
+  .stat strong { color: var(--accent); }
+  .up { color: var(--red); }
+  .down { color: var(--green); }
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; margin-right: 4px; }
+  .tag-up { background: rgba(248,81,73,0.15); color: var(--red); }
+  .tag-down { background: rgba(63,185,80,0.15); color: var(--green); }
+  .source-url { word-break: break-all; color: var(--muted); font-size: 0.75rem; }
+  .loading { text-align: center; color: var(--muted); padding: 40px; }
+  .error { text-align: center; color: var(--red); padding: 40px; }
+  @media (max-width: 640px) {
+    .grid-2 { grid-template-columns: 1fr; }
+    .main-grid { grid-template-columns: 1fr !important; }
+    .comod-grid { grid-template-columns: 1fr !important; }
+    h1 { font-size: 1.2rem; }
+    .stat { font-size: 0.78rem; }
+    .date-nav a { font-size: 0.78rem; padding: 3px 8px; }
+    body { padding: 12px; }
+    .card { padding: 12px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>🍽️ 식품·외식·디저트 업계 데일리 리포트</h1>
+  <p class="subtitle">매일 아침 7시 업데이트 · 자동 수집</p>
+
+  <div class="date-nav" id="dateNav">
+    <!-- JavaScript로 동적 생성 -->
+  </div>
+
+  <div id="content"><div class="loading">📡 리포트 로딩 중...</div></div>
+</div>
+
+<script>
+const REPORT_DATES = ["2026-06-25", "2026-06-24", "2026-06-23", "2026-06-22", "2026-06-21"];
+const DATA_URL = 'data/';
+
+async function loadReport(date) {
+  try {
+    const resp = await fetch(DATA_URL + date + '.json');
+    if (!resp.ok) throw new Error('Not found');
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
+function renderNav(dates, activeDate) {
+  const nav = document.getElementById('dateNav');
+  if (!dates.length) {
+    nav.innerHTML = '<span style="color:var(--muted);font-size:0.85rem;">데이터 없음</span>';
+    return;
+  }
+  nav.innerHTML = dates.map(d => {
+    const [y, m, day] = d.split('-');
+    const w = new Date(y, m - 1, day);
+    const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
+    const label = `${m}/${day}(${weekdays[w.getDay()]})`;
+    const cls = d === activeDate ? 'active' : '';
+    return `<a href="?date=${d}" class="${cls}">${label}</a>`;
+  }).join('');
+}
+
+function renderReport(data) {
+  const container = document.getElementById('content');
+
+  // Exchange rate 계산
+  const exch = data.exchange;
+  const curRate = parseFloat(exch.usdkrw.replace(/,/g, ''));
+  const calcRate = (pct) => Math.round(curRate / (1 + pct / 100));
+  const fmt = (n) => n.toLocaleString();
+  const exchClass = exch.d7_pct < 0 ? 'down' : 'up';
+
+  container.innerHTML = `
+    <div style="display:grid; grid-template-columns:1fr 2fr; gap:12px;" class="main-grid">
+      <div class="card">
+        <div class="section-title" style="margin:0 0 8px; border:none;">💱 환율</div>
+        <div class="stat">USD/KRW: <strong style="font-size:1.1rem;">${exch.usdkrw}</strong></div>
+        <div style="margin-top:8px; font-size:0.8rem;">
+          <div style="display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid var(--border); flex-wrap:wrap; gap:2px;">
+            <span>7일 전</span>
+            <span><span class="${exchClass}">${exch.d7_pct > 0 ? '+' : ''}${exch.d7_pct}%</span> <span style="color:var(--muted);">(${fmt(calcRate(exch.d7_pct))}원)</span></span>
+          </div>
+          <div style="display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid var(--border); flex-wrap:wrap; gap:2px;">
+            <span>30일 전</span>
+            <span><span class="${exch.d30_pct > 0 ? 'up' : 'down'}">${exch.d30_pct > 0 ? '+' : ''}${exch.d30_pct}%</span> <span style="color:var(--muted);">(${fmt(calcRate(exch.d30_pct))}원)</span></span>
+          </div>
+          <div style="display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid var(--border); flex-wrap:wrap; gap:2px;">
+            <span>60일 전</span>
+            <span><span class="${exch.d60_pct > 0 ? 'up' : 'down'}">${exch.d60_pct > 0 ? '+' : ''}${exch.d60_pct}%</span> <span style="color:var(--muted);">(${fmt(calcRate(exch.d60_pct))}원)</span></span>
+          </div>
+          <div style="display:flex; justify-content:space-between; padding:4px 0; flex-wrap:wrap; gap:2px;">
+            <span>전년비</span>
+            <span><span class="${exch.yoy_pct > 0 ? 'up' : 'down'}">${exch.yoy_pct > 0 ? '+' : ''}${exch.yoy_pct}%</span> <span style="color:var(--muted);">(${fmt(calcRate(exch.yoy_pct))}원)</span></span>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="section-title" style="margin:0 0 8px; border:none;">📦 원자재</div>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px;" class="comod-grid">
+          ${data.commodities.map(c => `
+            <div style="padding:6px 8px; border:1px solid var(--border); border-radius:6px; background:rgba(255,255,255,0.03);">
+              <div style="font-size:0.8rem; font-weight:600; margin-bottom:2px;">${c.name}</div>
+              <div style="font-size:1rem; font-weight:700; color:var(--accent);">$${c.price}</div>
+              <div style="font-size:0.7rem; color:var(--muted);">${c.unit}</div>
+              <div style="display:flex; gap:8px; margin-top:4px; font-size:0.7rem; flex-wrap:wrap;">
+                <span>일간 <span class="${c.daily > 0 ? 'up' : 'down'}">${c.daily > 0 ? '+' : ''}${c.daily}%</span></span>
+                <span>월간 <span class="${c.monthly > 0 ? 'up' : 'down'}">${c.monthly > 0 ? '+' : ''}${c.monthly}%</span></span>
+                <span>연간 <span class="${c.yoy > 0 ? 'up' : 'down'}">${c.yoy > 0 ? '+' : ''}${c.yoy}%</span></span>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    </div>
+
+
+    <div class="card">
+      <div class="section-title" style="margin:0 0 8px; border:none;">🌾 FAO 식량가격지수</div>
+      <p style="font-size:0.9rem;">${data.fao_insight}</p>
+    </div>
+
+    <div class="section-title">📰 주요 뉴스</div>
+    ${data.issues.map(i => `
+      <div class="card">
+        <h3>${i.rank}. ${i.title}</h3>
+        <div class="meta">${i.source}</div>
+        <p>${i.body}</p>
+        <div class="source-url"><a href="${i.source_url}" target="_blank" rel="noopener" style="color:var(--accent);">${i.source_url}</a></div>
+      </div>
+    `).join('')}
+
+    <div class="section-title">💡 인사이트</div>
+    ${data.insights.map(i => `
+      <div class="card">
+        <h3>${i.rank}. ${i.title}</h3>
+        <p>${i.body}</p>
+      </div>
+    `).join('')}
+
+    <div class="section-title">🔍 주요 키워드</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      ${data.keywords.map(k => {
+        const tc = k.trend === 'up' ? 'tag-up' : (k.trend === 'down' ? 'tag-down' : 'tag');
+        return `<span class="tag ${tc}">${k.keyword}</span>`;
+      }).join('')}
+    </div>
+    <div style="margin-top:8px;">
+      ${data.keywords.map(k => {
+        const icon = k.trend === 'up' ? '▲ 상승' : (k.trend === 'down' ? '▼ 하락' : '➡ 유지');
+        const cls = k.trend === 'up' ? 'up' : (k.trend === 'down' ? 'down' : '');
+        return `<div class="card" style="padding:8px 12px; margin-bottom:4px;">
+          <span style="font-size:0.85rem;"><strong>${k.keyword}</strong> <span class="${cls}">(${icon})</span></span>
+          <p style="font-size:0.8rem; color:var(--muted); margin-top:2px;">${k.comment}</p></div>`;
+      }).join('')}
+    </div>
+
+    <div style="text-align:center; color:var(--muted); font-size:0.8rem; margin-top:30px; padding:16px 0;">
+      🤖 Hermes Agent 자동 수집 · 매일 07:00 업데이트<br>
+      데이터 출처: 연합뉴스, EBN, 머니투데이, KF뉴스 등 · 원자재: TradingEconomics/ICE
+    </div>
+  `;
+}
+
+async function init() {
+  const dates = REPORT_DATES;
+  if (!dates.length) {
+    document.getElementById('content').innerHTML =
+      '<div class="error">⚠️ 데이터 파일을 찾을 수 없습니다.<br><small style="color:var(--muted);">data/ 디렉토리에 YYYY-MM-DD.json 파일이 필요합니다.</small></div>';
+    document.getElementById('dateNav').innerHTML = '';
+    return;
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  let activeDate = params.get('date');
+  if (!activeDate || !dates.includes(activeDate)) {
+    activeDate = dates[0]; // 최신 날짜
+  }
+
+  renderNav(dates, activeDate);
+  const data = await loadReport(activeDate);
+  if (data) {
+    renderReport(data);
+  } else {
+    document.getElementById('content').innerHTML =
+      '<div class="error">데이터를 불러올 수 없습니다.</div>';
+  }
+}
+
+init();
+</script>
+</body>
+</html>
