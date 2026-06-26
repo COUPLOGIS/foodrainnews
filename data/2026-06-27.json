@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-27",
+  "weekday": "토요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "코코아 가격, 아이보리코스트 폭우로 급등…서아프리카 작황 우려 재부각",
+      "body": "뉴욕 ICE 코코아 선물 가격이 6월 26일 아이보리코스트의 과도한 강우로 인한 작황 우려로 급등세를 보였다. 서아프리카 주요 산지에 6월 들어 평년 대비 30% 이상 많은 비가 내리며 검은꼬투리병(Black Pod) 확산 위험이 커졌다. ICE 코코아 재고는 1.75년래 최고치인 294만8천여 백으로 증가했으나, 중장기 공급 불확실성이 투기적 매수세를 자극했다. 초콜릿·제과업계는 원가 압박이 지속될 것으로 전망된다.",
+      "source": "Barchart / Yahoo Finance, 2026-06-26",
+      "source_url": "https://finance.yahoo.com/markets/commodities/articles/cocoa-prices-sharply-higher-excessive-182435095.html"
+    },
+    {
+      "rank": 2,
+      "title": "WTI 원유, 배럴당 71.41달러로 약보합…월간 24% 급락 속 물류비 부담 완화 전망",
+      "body": "서부텍사스산원유(WTI) 선물 가격이 6월 26일 배럴당 71.41달러에 개장하며 전 거래일 대비 소폭 하락했다. 6월 한 달간 약 24% 급락한 수준으로, 글로벌 경기 둔화 우려와 OPEC+ 증산 전망이 하방 압력으로 작용했다. 유가 하락은 식품·외식업계의 물류비 및 포장재 비용 부담을 완화하는 긍정적 요인이지만, 원자재 가격 변동성 확대로 중장기 구매 전략 수립에 어려움이 가중되고 있다.",
+      "source": "Forbes Advisor, 2026-06-26",
+      "source_url": "https://www.forbes.com/advisor/investing/oil-prices-today/"
+    },
+    {
+      "rank": 3,
+      "title": "아라비카 커피 원두, 파운드당 273.02센트로 하락…브라질 풍작 전망에 공급 우려 완화",
+      "body": "ICE 아라비카 커피 선물(9월물) 가격이 6월 26일 파운드당 273.02센트로 전일 대비 1.22% 하락 마감했다. 브라질의 2026/27년 커피 생산량이 사상 최대치를 기록할 것으로 전망되며 공급 우려가 완화된 영향이다. 반면 로부스타 원두는 여전히 톤당 3,500달러 선에서 거래되며 강세를 유지, 인스턴트 커피 및 커피믹스 제조사들의 원가 부담은 지속되고 있다. 국내 커피 프랜차이즈 업계는 하반기 원두 가격 안정화 가능성에 주목하고 있다.",
+      "source": "TradingEconomics, 2026-06-26",
+      "source_url": "https://tradingeconomics.com/commodity/coffee"
+    },
+    {
+      "rank": 4,
+      "title": "설탕 #11 선물, 14.53센트로 3% 급등…브라질 사탕수수 에탄올 전환 우려",
+      "body": "ICE 설탕 #11 선물 가격이 6월 26일 파운드당 14.53센트로 전일 대비 3.07% 급등했다. 브라질의 사탕수수 에탄올 전환 비중 확대가 설탕 공급 감소로 이어질 것이라는 우려가 가격 상승을 견인했다. 6월 한 달간 약 2.8% 상승했으나 전년 동기 대비 8% 낮은 수준이다. 국내 제과·음료업계는 설탕 가격 반등을 예의주시하고 있으며, 대체 감미료 사용 확대를 검토 중이다.",
+      "source": "TradingEconomics, 2026-06-26",
+      "source_url": "https://tradingeconomics.com/commodity/sugar"
+    },
+    {
+      "rank": 5,
+      "title": "CBOT 밀·대두 선물 동반 하락…곡물 시장 전반 약세",
+      "body": "시카고상품거래소(CBOT)에서 6월 26일 밀 선물(9월물)은 부셸당 579.47센트로 전일 대비 1.95% 하락했으며, 대두 선물(7월물)도 부셸당 11.16달러로 약세를 보였다. USDA의 6월 WASDE 보고서에서 글로벌 곡물 재고량이 예상보다 높게 전망된 것이 하락 요인으로 작용했다. 밀 가격은 월간 6.9% 하락했으나 전년比 10.4% 높은 수준이며, 대두는 바이오디젤 수요가 가격을 일부 지지하고 있다. 국내 제분·사료업계는 원가 부담이 다소 완화될 것으로 기대한다.",
+      "source": "TradingEconomics / Macrotrends, 2026-06-26",
+      "source_url": "https://tradingeconomics.com/commodity/wheat"
+    },
+    {
+      "rank": 6,
+      "title": "월드 오브 커피 브뤼셀 2026 개막…글로벌 커피 트렌드와 신기술 공개",
+      "body": "스페셜티커피협회(SCA) 주최 '월드 오브 커피 브뤼셀 2026'이 6월 25일부터 27일까지 벨기에 브뤼셀에서 개최됐다. 전 세계 80여 개국에서 1,200개 이상의 커피 기업이 참가해 최신 로스팅 기술, 지속가능한 생두 유통, 스페셜티 트렌드를 공유했다. 국내에서도 다수의 로스터리와 커피 유통사가 참관했으며, 국내 커피 시장 고도화를 위한 글로벌 트렌드 벤치마킹이 활발히 이뤄졌다.",
+      "source": "Black Water Issue (인스타그램), 2026-06-25~27",
+      "source_url": "https://www.instagram.com/blackwaterissue/"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "아라비카 원두 (ICE Coffee C)",
+      "price": "273.02",
+      "unit": "USd/Lb",
+      "daily": -1.35,
+      "monthly": 1.17,
+      "yoy": -11.17,
+      "comment": "전일比 1.4% 하락, 브라질 사상 최대 작황 전망으로 공급 우려 완화"
+    },
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,350",
+      "unit": "USD/T",
+      "daily": 2.29,
+      "monthly": 34.32,
+      "yoy": -55.94,
+      "comment": "전일比 2.3% 상승, 아이보리코스트 폭우로 작황 우려 재부각"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.53",
+      "unit": "USd/Lb",
+      "daily": 2.90,
+      "monthly": 2.78,
+      "yoy": -8.08,
+      "comment": "전일比 2.9% 급등, 브라질 에탄올 전환 우려로 반등 지속"
+    },
+    {
+      "name": "WTI 원유 (NYMEX)",
+      "price": "71.00",
+      "unit": "USD/bbl",
+      "daily": -0.66,
+      "monthly": -24.0,
+      "yoy": 9.5,
+      "comment": "월간 24% 급락, 글로벌 경기 둔화 우려 반영…물류비 부담 완화 기대"
+    },
+    {
+      "name": "밀 (CBOT Wheat)",
+      "price": "579.47",
+      "unit": "USd/Bu",
+      "daily": -3.62,
+      "monthly": -6.91,
+      "yoy": 10.43,
+      "comment": "전일比 3.6% 급락, USDA 재고 전망 상향 조정으로 약세"
+    },
+    {
+      "name": "대두 (CBOT Soybean)",
+      "price": "1,116.00",
+      "unit": "USd/Bu",
+      "daily": -3.58,
+      "monthly": -3.0,
+      "yoy": 10.5,
+      "comment": "전일比 3.6% 하락, 차익 실현 매물 출회…바이오디젤 수요는 지지"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,540",
+    "d7_pct": 1.0,
+    "d30_pct": 2.3,
+    "d60_pct": 4.5,
+    "yoy_pct": 13.5
+  },
+  "fao_insight": "2026년 5월 FAO 세계식량가격지수는 130.8포인트로 전월(130.7) 대비 0.2% 하락했으나 전년 동기 대비 2.9% 상승했다. 곡물 가격지수는 밀 가격 전년比 28% 급등으로 전월 대비 2.6% 상승했으며, 설탕 가격지수는 브라질 사탕수수 에탄올 전환 우려로 7.5% 급등했다. FAO 6월 식량전망에 따르면 2026/27년 세계 곡물 생산량은 전년比 2% 감소한 29억 8,200만 톤으로 전망되며, 엘니뇨 가능성과 에너지·비료 가격 변동성이 주요 리스크 요인이다. ICC(국제코코아기구)는 서아프리카 이상 기후로 코코아 가격 변동성이 당분간 지속될 것으로 전망했다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "원자재 양극화: 코코아·설탕 급등 vs 곡물·유가 하락…식품업계 차별화된 대응 필요",
+      "body": "2026년 6월 마지막 주, 식품 원자재 시장은 극명한 양극화를 보이고 있다. 코코아(월간 +34%)와 설탕(+2.8%)은 기후 리스크와 에너지 전환 정책으로 강세를 보이는 반면, 밀(-6.9%), 대두(-3.0%), 원유(-24%)는 하락세다. 식품 제조사들은 품목별로 차별화된 구매 전략이 필요하며, 특히 제과·음료 업계는 코코아·설탕 가격 상승에 따른 마진 압박에 대비해야 한다. 유가 급락은 물류비 부담을 줄여주는 긍정적 신호다."
+    },
+    {
+      "rank": 2,
+      "title": "커피 원두 가격 안정화 조짐…국내 프랜차이즈 하반기 메뉴 가격 전략 변화 예고",
+      "body": "아라비카 원두 가격이 6월 말 파운드당 273센트까지 하락하며 연초 대비 11% 낮은 수준을 유지하고 있다. 브라질 2026/27년 커피 생산량이 사상 최대치로 전망되면서 하반기 추가 하락 가능성이 제기된다. 국내 커피 프랜차이즈 업계는 그간 지속된 원두 가격 상승을 명분으로 한 가격 인상 기조에서 벗어나, 하반기에는 가격 동결 또는 프로모션 확대 전략으로 전환할 가능성이 높아지고 있다."
+    },
+    {
+      "rank": 3,
+      "title": "K-푸드 글로벌 확장, 베트남·중동 시장 중심 가속화",
+      "body": "국내 식품업계의 해외 진출이 동남아와 중동 시장을 중심으로 가속화되고 있다. KOTRA는 오는 9월 중국 정저우·창사에서 프랜차이즈 로드쇼를 개최해 10개 외식기업의 중국 시장 진출을 지원할 예정이다. 농심·오뚜기·삼양식품 등 라면 3사는 중동·아프리카 시장에서 현지화 제품으로 점유율을 확대 중이며, CJ제일제당은 베트남·인도네시아에서 K-푸드 간편식 라인업을 강화하고 있다. 월드컵 특수와 맞물려 하반기 K-푸드 수출은 더욱 탄력을 받을 전망이다."
+    }
+  ],
+  "keywords": [
+    {
+      "rank": 1,
+      "keyword": "코코아 가격 급등",
+      "trend": "up",
+      "comment": "아이보리코스트 폭우로 공급 불안, 제과·초콜릿 업계 원가 압박 지속"
+    },
+    {
+      "rank": 2,
+      "keyword": "커피 원두 하락 안정화",
+      "trend": "down",
+      "comment": "브라질 풍작 전망으로 아라비카 273센트까지 하락, 하반기 추가 하락 가능"
+    },
+    {
+      "rank": 3,
+      "keyword": "유가 급락·물류비 완화",
+      "trend": "down",
+      "comment": "WTI 월간 24% 급락, 식품·외식업계 물류비 및 포장재 비용 부담 감소 기대"
+    },
+    {
+      "rank": 4,
+      "keyword": "설탕 반등",
+      "trend": "up",
+      "comment": "브라질 에탄올 전환 우려로 3% 급등, 음료·제과업계 대체 감미료 검토 확대"
+    },
+    {
+      "rank": 5,
+      "keyword": "K-푸드 글로벌 확장",
+      "trend": "up",
+      "comment": "중국·중동·동남아 중심 외식 프랜차이즈 및 간편식 수출 확대, 월드컵 특수 기대"
+    },
+    {
+      "rank": 6,
+      "keyword": "저당·제로슈거 트렌드",
+      "trend": "up",
+      "comment": "건강식 수요 증가로 저당·고단백 제품 전 카테고리 확산, 매출 고성장 지속"
+    },
+    {
+      "rank": 7,
+      "keyword": "곡물 가격 약세",
+      "trend": "down",
+      "comment": "밀·대두 USDA 재고 전망 상향으로 동반 하락, 제분·사료업계 원가 부담 완화"
+    }
+  ],
+  "foodrain_mentions": [
+    {
+      "source": "cafe",
+      "keyword": "푸드레인",
+      "title": "홍콩관광청, 최대 50% 할인과 500홍콩달러 혜택 담은 '홍콩 썸머 펀' 진행",
+      "link": "http://cafe.naver.com/rankingking/14395",
+      "author": "랭킹킹",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "푸드레인",
+      "title": "푸드레인 | 디저트납품·카페·디저트·냉동직배송 | 갓 만든 듯한 완벽한 디저트",
+      "link": "https://www.instagram.com/p/DMJo1vty3bK/",
+      "author": "foodrain",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "푸드레인",
+      "title": "푸드레인 | 디저트납품·카페·디저트·냉동직배송 | 디저트 랭킹 1위!",
+      "link": "https://www.instagram.com/p/DLgxeT4RAkH/",
+      "author": "foodrain",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "푸드레인",
+      "title": "푸드레인 | 디저트납품·카페·디저트·냉동직배송 | 놓칠 수 없는 혜택!",
+      "link": "https://www.instagram.com/p/DLCFLQDxEf2/",
+      "author": "foodrain",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "푸드레인",
+      "title": "푸드레인 | 디저트납품·카페·디저트·냉동직배송 | NO오븐, 냉동 완제품 디저트",
+      "link": "https://www.instagram.com/p/DL1dfR5Rx3p/",
+      "author": "foodrain",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "푸드레인",
+      "title": "푸드레인 | 디저트납품·카페·디저트·냉동직배송 | 올여름, 푸드레인과 함께",
+      "link": "https://www.instagram.com/p/DIu4-URSpf4/",
+      "author": "foodrain",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "FOODRAIN",
+      "title": "FOODRAIN (@foodrain76) • Instagram photos and videos",
+      "link": "https://www.instagram.com/foodrain76/",
+      "author": "foodrain76",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "FOODRAIN",
+      "title": "FOODRAIN MARKET PLACE (@foodrainmarketplace) - Instagram",
+      "link": "https://www.instagram.com/foodrainmarketplace/",
+      "author": "foodrainmarketplace",
+      "date": "20260627"
+    },
+    {
+      "source": "instagram",
+      "keyword": "FOODRAIN",
+      "title": "FOOD RAIN LAGOS (@foodrainlagos) - Instagram",
+      "link": "https://www.instagram.com/foodrainlagos/",
+      "author": "foodrainlagos",
+      "date": "20260627"
+    }
+  ]
+}
