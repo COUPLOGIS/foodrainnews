@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-05",
+  "weekday": "일요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "FAO 6월 세계식량가격지수 130.3…두 달 연속 하락, 품목별 엇갈려",
+      "body": "유엔 식량농업기구(FAO)가 발표한 6월 세계식량가격지수가 130.3포인트로 전월 대비 0.3% 하락하며 두 달 연속 내림세를 이어갔다. 곡물(밀 -4.4%), 설탕(-5.7%), 유제품은 하락한 반면 유지류와 육류는 상승하는 품목별 엇갈린 흐름을 보였다. FAO는 2026년 세계 곡물 생산량 30억 톤을 전망하며 하반기 공급 안정에 긍정적 신호를 보냈다.",
+      "source": "농림축산식품부/브릿지경제, 2026-07-04",
+      "source_url": "https://www.viva100.com/article/20260704500127"
+    },
+    {
+      "rank": 2,
+      "title": "대상웰라이프 '뉴케어 당플랜', 2026 국제 우수 미각상 3관왕 쾌거",
+      "body": "대상웰라이프의 혈당 관리 영양식 '뉴케어 당플랜'이 벨기에 국제식음료품평원(ITI) 주관 '2026 국제 우수 미각상'에서 3관왕을 달성했다. 호두맛이 최고 등급 3스타를, 인절미맛·검은깨맛이 각각 2스타를 수상하며 우수한 풍미를 입증했다. 건강기능식품의 맛 품질 경쟁이 본격화되는 가운데 이룬 성과로 주목받고 있다.",
+      "source": "식품음료신문, 2026-07-04",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=200703"
+    },
+    {
+      "rank": 3,
+      "title": "건기식협회, 한국식품과학회 국제학술대회서 건강기능식품 규제 세미나 성료",
+      "body": "한국건강기능식품협회가 7월 2일 대전컨벤션센터에서 열린 '2026 한국식품과학회 국제학술대회'에서 건강기능식품 글로벌 규제 세미나를 성공적으로 개최했다고 4일 밝혔다. 미국·EU·일본의 건강기능식품 표시 규정 및 승인 절차를 비교 분석하며 K-건기식의 해외 진출 전략을 논의했다.",
+      "source": "식품저널, 2026-07-04",
+      "source_url": "https://www.foodnews.co.kr/news/articleView.html?idxno=119239"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "아라비카 원두 (ICE Coffee C)",
+      "price": "315.65",
+      "unit": "USd/Lb",
+      "daily": -2.67,
+      "monthly": 21.78,
+      "yoy": 7.86,
+      "comment": "ICE 커피 선물, 전일 대비 2.67% 하락했으나 월간 21.78% 급등 지속"
+    },
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "4949.00",
+      "unit": "USD/T",
+      "daily": -1.14,
+      "monthly": 20.47,
+      "yoy": -43.63,
+      "comment": "ICE 코코아 선물, 월간 20% 반등에도 전년比 44% 폭락으로 변동성 극심"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.85",
+      "unit": "USd/Lb",
+      "daily": -0.93,
+      "monthly": 3.27,
+      "yoy": -9.34,
+      "comment": "ICE 설탕 #11, FAO 6월 설탕가격지수 5.7% 하락과 동조화"
+    },
+    {
+      "name": "WTI 원유 (NYMEX)",
+      "price": "68.78",
+      "unit": "USD/bbl",
+      "daily": 0.13,
+      "monthly": -28.37,
+      "yoy": 2.66,
+      "comment": "NYMEX WTI, 월간 28.37% 급락 — 호르무즈 해협 긴장 완화 영향 지속"
+    },
+    {
+      "name": "밀 (CBOT Wheat)",
+      "price": "590.50",
+      "unit": "USd/Bu",
+      "daily": -0.25,
+      "monthly": -2.07,
+      "yoy": 7.80,
+      "comment": "CBOT 밀 선물, FAO 곡물 지수 하락과 함께 약보합세"
+    },
+    {
+      "name": "대두 (CBOT Soybean)",
+      "price": "1131.75",
+      "unit": "USd/Bu",
+      "daily": 0.49,
+      "monthly": -2.87,
+      "yoy": 7.15,
+      "comment": "CBOT 대두 선물, 전일 소폭 반등했으나 월간 약세 지속"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,532",
+    "d7_pct": -0.8,
+    "d30_pct": 0.0,
+    "d60_pct": 3.7,
+    "yoy_pct": 12.9
+  },
+  "fao_insight": "2026년 6월 FAO 세계식량가격지수는 130.3포인트로 전월(130.8) 대비 0.3% 하락하며 두 달 연속 내림세다. 곡물·설탕·유제품 가격이 하락했으나 육류 가격은 사상 최고치를 경신했고 식용유도 상승세를 이어가 품목별 양극화가 뚜렷하다. FAO의 2026년 세계 곡물 생산량 30억 톤 전망은 하반기 공급망 안정에 긍정적 신호지만, 기후 변수와 지정학적 리스크는 여전한 하방 압력이다. 주말을 맞아 국내 식품업계 뉴스는 제한적이었으며, 월요일부터 본격적인 업계 동향이 재개될 전망이다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "FAO 육류가격 사상 최고치, 글로벌 공급망 불안 지속",
+      "body": "6월 FAO 육류가격지수가 사상 최고치를 기록했다. 주요 축산국의 생산 감소와 중동 지역의 수입 수요 증가가 맞물리며 국제 육류 가격을 끌어올리고 있다. 국내 식품업계는 원재료 수입 부담 증가에 대비해 공급망 다변화 전략을 서둘러야 한다."
+    },
+    {
+      "rank": 2,
+      "title": "곡물·설탕 가격 하락, 가공식품 원가 부담 완화 신호",
+      "body": "6월 FAO 곡물가격지수와 설탕가격지수가 동반 하락하며 제빵·제과·음료 업계의 원가 부담이 완화될 조짐이다. FAO의 2026년 세계 곡물 생산량 30억 톤 전망은 하반기 곡물 가격 안정에 긍정적 신호다. 다만 이상기후와 환율 변동성은 여전히 리스크 요인으로 남아 있다."
+    },
+    {
+      "rank": 3,
+      "title": "K-푸드 수출 호조 속 건강기능식품 품질 경쟁 심화",
+      "body": "2026년 상반기 K-푸드 수출이 전년 대비 18.7% 증가하며 글로벌 입지를 확대 중이다. 국내에서는 대상웰라이프의 ITI 3관왕 수상에서 보듯 건강기능식품의 맛·품질 경쟁이 본격화되고 있으며, 건기식협회의 글로벌 규제 세미나 등 해외 진출을 위한 제도적 기반 마련도 활발하다."
+    }
+  ],
+  "keywords": [
+    {
+      "rank": 1,
+      "keyword": "제로슈거",
+      "trend": "up",
+      "comment": "시장 규모 1조원 돌파, 전년比 32% 성장. 음료 넘어 식품·주류 전반 확산"
+    },
+    {
+      "rank": 2,
+      "keyword": "K-푸드",
+      "trend": "up",
+      "comment": "수출액 전년比 18.7% 증가, 글로벌 검색량 34% 상승. 라면·김·소스류 수출 호조"
+    },
+    {
+      "rank": 3,
+      "keyword": "건강기능식품",
+      "trend": "up",
+      "comment": "대상웰라이프 ITI 수상·건기식협회 규제 세미나 등 업계 R&D·글로벌화 가속"
+    },
+    {
+      "rank": 4,
+      "keyword": "FAO 식량가격지수",
+      "trend": "down",
+      "comment": "두 달 연속 하락으로 글로벌 식량 인플레이션 압력 완화. 곡물·설탕 주도"
+    },
+    {
+      "rank": 5,
+      "keyword": "로코노미",
+      "trend": "up",
+      "comment": "지역 특산물 활용 식품 개발 확산. 스토리텔링 마케팅으로 차별화"
+    }
+  ],
+  "foodrain_mentions": [
+    {
+      "source": "blog",
+      "keyword": "푸드레인",
+      "title": "푸드레인 활용법과 식재료 선택 기준 이야기",
+      "link": "https://blog.naver.com/leisepd7572/223980955050",
+      "author": "leisepd7572",
+      "date": "20260705"
+    },
+    {
+      "source": "blog",
+      "keyword": "푸드레인",
+      "title": "카페 디저트 납품 최소주문 제한없는 푸드레인 도매",
+      "link": "https://blog.naver.com/tlsgp7823/222792336935",
+      "author": "tlsgp7823",
+      "date": "20260705"
+    },
+    {
+      "source": "blog",
+      "keyword": "푸드레인",
+      "title": "카페 디저트 납품 다이렉트 냉동차량 도매 직배송 푸드레인",
+      "link": "https://blog.naver.com/amicapink/222782569287",
+      "author": "amicapink",
+      "date": "20260705"
+    },
+    {
+      "source": "instagram",
+      "keyword": "FOODRAIN",
+      "title": "FOODRAIN MARKET PLACE (@foodrainmarketplace)",
+      "link": "https://www.instagram.com/foodrainmarketplace/",
+      "author": "foodrainmarketplace",
+      "date": "20260705"
+    },
+    {
+      "source": "instagram",
+      "keyword": "FOODRAIN",
+      "title": "FOODRAIN MARKET PLACE - Instagram Reel",
+      "link": "https://www.instagram.com/reel/DLILi7UNheT/",
+      "author": "foodrainmarketplace",
+      "date": "20260705"
+    }
+  ]
+}
