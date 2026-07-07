@@ -65,41 +65,5 @@
   ],
   "news": [],
   "insights": [],
-  "keywords": [
-    {
-      "keyword": "식품",
-      "naver_search_est": 50,
-      "naver_blog_est": 50,
-      "instagram_est": 18,
-      "google_trend_summary": "Our new report on this summer’s defining trends, based on US Google Trends data."
-    },
-    {
-      "keyword": "외식",
-      "naver_search_est": 100,
-      "naver_blog_est": 50,
-      "instagram_est": 4,
-      "google_trend_summary": "Подготовлено с помощью Trends. Узнайте, как Google Trends используется по всему миру новостными аген"
-    },
-    {
-      "keyword": "디저트",
-      "naver_search_est": 50,
-      "naver_blog_est": 50,
-      "instagram_est": 16,
-      "google_trend_summary": "Картинки. Войти. Google. Расширенный поиск."
-    },
-    {
-      "keyword": "건강식",
-      "naver_search_est": 100,
-      "naver_blog_est": 50,
-      "instagram_est": 16,
-      "google_trend_summary": "Картинки. Войти. Google. Расширенный поиск."
-    },
-    {
-      "keyword": "간편식",
-      "naver_search_est": 100,
-      "naver_blog_est": 50,
-      "instagram_est": 16,
-      "google_trend_summary": "Картинки. Войти. Google. Расширенный поиск."
-    }
-  ]
+  "keywords": []
 }
