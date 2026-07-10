@@ -1,106 +1,129 @@
 {
   "date": "2026-07-10",
+  "weekday": "금",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "원자재·물류·포장재 트리플 악재 — 7월이 마지노선",
+      "body": "원유가·원재료·물류비 동반 상승으로 식품업계 내부 경고음. 배달플랫폼 수수료 인상에 자사몰 전환 가속(버거킹 +21%). 중동전쟁 장기화로 호르무즈 해협 리스크 지속.",
+      "source": "데일리안, 파이낸셜뉴스 2026-07-07",
+      "source_url": "https://www.dailian.co.kr/news/view/1642929/"
+    },
+    {
+      "rank": 2,
+      "title": "커피 원두 가격 폭등 지속 — Arabica 16% 급등",
+      "body": "Arabica $3.20~$3.50/lb 유지 (5개월 최고), Robusta +9%. 엘니뇨 우려로 2027/28년 작황 위험. 카페 원가 압박 심화.",
+      "source": "TradingEconomics, Reuters 2026-07-06",
+      "source_url": "https://tradingeconomics.com/commodity/coffee"
+    },
+    {
+      "rank": 3,
+      "title": "KREI 2026 식품외식산업 7대 이슈: 혼밥 웰니스 + 정중동",
+      "body": "1인가구 증가로 소포장·프리미엄 간편식 수요 확대. 외식업계 검증된 변화만 추구, 신메뉴보다 스테디셀러 업그레이드에 집중. 자사몰 D2C 트렌드 확산.",
+      "source": "KREI, 식품외식경제 2026",
+      "source_url": "https://www.foodbank.co.kr/news/articleView.html?idxno=67010"
+    }
+  ],
   "commodities": [
     {
-      "name": "코코아",
-      "today_price": 3000,
-      "7d_ago": 2900,
-      "30d_ago": 2800,
-      "60d_ago": 2750,
-      "1y_ago": 2500,
-      "yoy_change_percent": 20.0
+      "name": "아라비카 원두 (ICE Coffee C)",
+      "price": "328.50",
+      "unit": "USd/Lb",
+      "daily": -8.0,
+      "monthly": 12.0,
+      "yoy": 0.0,
+      "comment": "7/9 8% 하락했으나 5개월 최고치 구간. 엘니뇨 리스크 지속"
     },
     {
-      "name": "설탕",
-      "today_price": 700,
-      "7d_ago": 680,
-      "30d_ago": 650,
-      "60d_ago": 630,
-      "1y_ago": 600,
-      "yoy_change_percent": 16.67
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "0",
+      "unit": "USD/T",
+      "daily": 0.0,
+      "monthly": 0.0,
+      "yoy": 0.0,
+      "comment": "뉴욕시장 신고치. 서아프리카 수확 호조, 아시아 생산 증가 전망"
     },
     {
-      "name": "WTI 원유",
-      "today_price": 80,
-      "7d_ago": 79,
-      "30d_ago": 75,
-      "60d_ago": 72,
-      "1y_ago": 70,
-      "yoy_change_percent": 14.29
+      "name": "설탕 (Sugar #11)",
+      "price": "0",
+      "unit": "USd/Lb",
+      "daily": 0.0,
+      "monthly": 0.0,
+      "yoy": 0.0,
+      "comment": ""
+    },
+    {
+      "name": "WTI 원유 (NYMEX)",
+      "price": "0",
+      "unit": "USD/bbl",
+      "daily": 0.0,
+      "monthly": 0.0,
+      "yoy": 0.0,
+      "comment": "중동전쟁 장기화 리스크"
+    },
+    {
+      "name": "밀 (CBOT Wheat)",
+      "price": "0",
+      "unit": "USd/Bu",
+      "daily": 0.0,
+      "monthly": 0.0,
+      "yoy": 0.0,
+      "comment": ""
+    },
+    {
+      "name": "대두 (CBOT Soybean)",
+      "price": "0",
+      "unit": "USd/Bu",
+      "daily": 0.0,
+      "monthly": 0.0,
+      "yoy": 0.0,
+      "comment": "미국 날씨 불안 + 중국 수요 기대로 급등"
     }
   ],
-  "exchange_rates": [
+  "exchange": {
+    "usdkrw": "1,381",
+    "d7_pct": 0.0,
+    "d30_pct": 0.0,
+    "d60_pct": 0.0,
+    "yoy_pct": 0.0
+  },
+  "fao_insight": "FAO 식량가격지수: 유채씨유 상승 지속, 해바라기유 안정. USDA 2026 식품물가 전망: 가정식 +2.8%, 외식 +3.6%, 소고기 +7.5%, 계란 -30.4%",
+  "insights": [
     {
-      "currency": "USD",
-      "today_rate": 1350,
-      "7d_ago": 1345,
-      "7d_change_percent": 0.37,
-      "7d_rate_before_change": 1345,
-      "30d_ago": 1330,
-      "30d_change_percent": 1.5,
-      "30d_rate_before_change": 1330,
-      "60d_ago": 1320,
-      "60d_change_percent": 2.27,
-      "60d_rate_before_change": 1320,
-      "1y_ago": 1300,
-      "1y_change_percent": 3.85,
-      "1y_rate_before_change": 1300
+      "rank": 1,
+      "title": "푸드레인 영향: 원자재 트리플 악재 → 발주처 마진 압박",
+      "body": "카페·베이커리·디저트샵이 원자재+물류비 상승으로 마진 축소 → 발주 감소 리스크. BUT 오프라인 취식 트렌드(자사몰 확대)는 배달 의존도 낮은 카페 디저트에는 긍정적. 분기 단가 계약 제안으로 방어."
     },
     {
-      "currency": "JPY",
-      "today_rate": 9.2,
-      "7d_ago": 9.15,
-      "7d_change_percent": 0.55,
-      "7d_rate_before_change": 9.15,
-      "30d_ago": 9.0,
-      "30d_change_percent": 2.22,
-      "30d_rate_before_change": 9.0,
-      "60d_ago": 8.9,
-      "60d_change_percent": 3.37,
-      "60d_rate_before_change": 8.9,
-      "1y_ago": 8.8,
-      "1y_change_percent": 4.55,
-      "1y_rate_before_change": 8.8
+      "rank": 2,
+      "title": "푸드레인 영향: 커피 폭등 → 카페 폐업 리스크",
+      "body": "커피값이 카페 운영비 15~25%. 원두 대체 블렌딩·대체음료 컨설팅 제공이 푸드레인의 차별화 포인트. 카페 폐업률 상승 시 발주량 감소 대비 필요."
+    },
+    {
+      "rank": 3,
+      "title": "푸드레인 전략: 소포장·스테디셀러 중심으로 전환",
+      "body": "1인가구 증가에 소포장 SKU 확대. 신메뉴보다 검증된 스테디셀러 업그레이드에 집중. B2B 직거래 주문 시스템 구축 검토."
     }
   ],
-  "news": [],
-  "insights": [],
   "keywords": [
     {
-      "keyword": "식품",
-      "naver_search_est": 70,
-      "naver_blog_est": 0,
-      "instagram_est": 14,
-      "google_trend_summary": "Google Trends is a website by Google that provides users the ability to analyze the popularity of to"
+      "rank": 1,
+      "keyword": "트리플 악재",
+      "trend": "up",
+      "comment": "원자재·포장재·물류비 동시 상승, 업계 경고등"
     },
     {
-      "keyword": "외식",
-      "naver_search_est": 70,
-      "naver_blog_est": 0,
-      "instagram_est": 0,
-      "google_trend_summary": "Google Trends is a website by Google that provides users the ability to analyze the popularity of to"
+      "rank": 2,
+      "keyword": "커피 폭등",
+      "trend": "up",
+      "comment": "Arabica 5개월 최고치, 엘니뇨 리스크"
     },
     {
-      "keyword": "디저트",
-      "naver_search_est": 70,
-      "naver_blog_est": 30,
-      "instagram_est": 14,
-      "google_trend_summary": "정보 없음"
-    },
-    {
-      "keyword": "건강식",
-      "naver_search_est": 50,
-      "naver_blog_est": 35,
-      "instagram_est": 0,
-      "google_trend_summary": "Our new report on this summer’s defining trends, based on US Google Trends data."
-    },
-    {
-      "keyword": "간편식",
-      "naver_search_est": 100,
-      "naver_blog_est": 35,
-      "instagram_est": 14,
-      "google_trend_summary": "Our new report on this summer’s defining trends, based on US Google Trends data."
+      "rank": 3,
+      "keyword": "자사몰 D2C",
+      "trend": "up",
+      "comment": "배달앱 수수료 부담으로 직거래 전환 가속"
     }
   ],
-  "keyword_analysis_summary": "주요 키워드 '건강식', '간편식', '디저트', '외식', '식품' 모두 높은 관심도를 보이며, 특히 건강 지향 및 간편함 추구 트렌드가 두드러집니다."
+  "foodrain_mentions": []
 }
