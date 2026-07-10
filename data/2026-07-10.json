@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-10",
+  "commodities": [
+    {
+      "name": "코코아",
+      "today_price": 3000,
+      "7d_ago": 2900,
+      "30d_ago": 2800,
+      "60d_ago": 2750,
+      "1y_ago": 2500,
+      "yoy_change_percent": 20.0
+    },
+    {
+      "name": "설탕",
+      "today_price": 700,
+      "7d_ago": 680,
+      "30d_ago": 650,
+      "60d_ago": 630,
+      "1y_ago": 600,
+      "yoy_change_percent": 16.67
+    },
+    {
+      "name": "WTI 원유",
+      "today_price": 80,
+      "7d_ago": 79,
+      "30d_ago": 75,
+      "60d_ago": 72,
+      "1y_ago": 70,
+      "yoy_change_percent": 14.29
+    }
+  ],
+  "exchange_rates": [
+    {
+      "currency": "USD",
+      "today_rate": 1350,
+      "7d_ago": 1345,
+      "7d_change_percent": 0.37,
+      "7d_rate_before_change": 1345,
+      "30d_ago": 1330,
+      "30d_change_percent": 1.5,
+      "30d_rate_before_change": 1330,
+      "60d_ago": 1320,
+      "60d_change_percent": 2.27,
+      "60d_rate_before_change": 1320,
+      "1y_ago": 1300,
+      "1y_change_percent": 3.85,
+      "1y_rate_before_change": 1300
+    },
+    {
+      "currency": "JPY",
+      "today_rate": 9.2,
+      "7d_ago": 9.15,
+      "7d_change_percent": 0.55,
+      "7d_rate_before_change": 9.15,
+      "30d_ago": 9.0,
+      "30d_change_percent": 2.22,
+      "30d_rate_before_change": 9.0,
+      "60d_ago": 8.9,
+      "60d_change_percent": 3.37,
+      "60d_rate_before_change": 8.9,
+      "1y_ago": 8.8,
+      "1y_change_percent": 4.55,
+      "1y_rate_before_change": 8.8
+    }
+  ],
+  "news": [],
+  "insights": [],
+  "keywords": [
+    {
+      "keyword": "식품",
+      "naver_search_est": 70,
+      "naver_blog_est": 0,
+      "instagram_est": 14,
+      "google_trend_summary": "Google Trends is a website by Google that provides users the ability to analyze the popularity of to"
+    },
+    {
+      "keyword": "외식",
+      "naver_search_est": 70,
+      "naver_blog_est": 0,
+      "instagram_est": 0,
+      "google_trend_summary": "Google Trends is a website by Google that provides users the ability to analyze the popularity of to"
+    },
+    {
+      "keyword": "디저트",
+      "naver_search_est": 70,
+      "naver_blog_est": 30,
+      "instagram_est": 14,
+      "google_trend_summary": "정보 없음"
+    },
+    {
+      "keyword": "건강식",
+      "naver_search_est": 50,
+      "naver_blog_est": 35,
+      "instagram_est": 0,
+      "google_trend_summary": "Our new report on this summer’s defining trends, based on US Google Trends data."
+    },
+    {
+      "keyword": "간편식",
+      "naver_search_est": 100,
+      "naver_blog_est": 35,
+      "instagram_est": 14,
+      "google_trend_summary": "Our new report on this summer’s defining trends, based on US Google Trends data."
+    }
+  ],
+  "keyword_analysis_summary": "주요 키워드 '건강식', '간편식', '디저트', '외식', '식품' 모두 높은 관심도를 보이며, 특히 건강 지향 및 간편함 추구 트렌드가 두드러집니다."
+}
