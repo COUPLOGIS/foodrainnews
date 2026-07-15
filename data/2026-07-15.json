@@ -3,83 +3,130 @@
   "commodities": [
     {
       "name": "코코아",
-      "today_price": 3200,
+      "today_price": 3000,
+      "7d_ago": 2900,
+      "30d_ago": 2800,
+      "60d_ago": 2750,
+      "1y_ago": 2500,
       "yoy_change_percent": 20.0
     },
     {
       "name": "설탕",
-      "today_price": 720,
+      "today_price": 700,
+      "7d_ago": 680,
+      "30d_ago": 650,
+      "60d_ago": 630,
+      "1y_ago": 600,
       "yoy_change_percent": 16.67
     },
     {
       "name": "WTI 원유",
-      "today_price": 82,
+      "today_price": 80,
+      "7d_ago": 79,
+      "30d_ago": 75,
+      "60d_ago": 72,
+      "1y_ago": 70,
       "yoy_change_percent": 14.29
     }
   ],
   "exchange_rates": [
     {
       "currency": "USD",
-      "today_rate": 1355,
-      "7d_change_percent": 0.74,
+      "today_rate": 1350,
+      "7d_change_percent": 0.37,
       "7d_rate_before_change": 1345,
-      "1y_change_percent": 4.23,
+      "1y_change_percent": 3.85,
       "1y_rate_before_change": 1300
     },
     {
       "currency": "JPY",
-      "today_rate": 9.25,
-      "7d_change_percent": 1.09,
+      "today_rate": 9.2,
+      "7d_change_percent": 0.55,
       "7d_rate_before_change": 9.15,
-      "1y_change_percent": 5.11,
+      "1y_change_percent": 4.55,
       "1y_rate_before_change": 8.8
     }
   ],
   "news": [
     {
-      "title": "트렌드 Pick > 시장분석 : FIS 식품산업통계정보",
-      "summary": "**트렌드 Pick > 시장분석 : FIS 식품산업통계정보**\n월 1회(매월 말일 예정) 식품산업에 관한 이슈, 관련 특정 주제에 대한 심층 분석 내용을 게시합니다. 뉴스레터 수신방법 뉴스레터 뉴스레터 수신방법 2022-02-09 · 중동사태가 왜 라면값, 빵값, 치킨값을 올릴...",
-      "source_url": "https://www.atfis.or.kr/home/board/FB0002.do",
+      "title": "2026년 8대 식품 트렌드 (Whole Foods Market)",
+      "summary": "**2026년 8대 식품 트렌드 (Whole Foods Market)**\n📌 Oct 26, 2025 · 2026년 식탁의 키워드는 한마디로 ‘회귀와 혁신의 공존’이다. 글로벌 유기농 식품 유통의 선두주자 홀푸드마켓 (Wh...",
+      "source_url": "https://www.marketcast.co.kr/entry/2026년-식품-트렌드Whole-Foods-Market",
       "source": "Web"
     },
     {
-      "title": "美 2026년 푸드 트렌드 8 발표… \"건강한 '즉석식품' 인기 끌 것\" < 헬시라이프 < 기사본문 - 하이닥",
-      "summary": "**美 2026년 푸드 트렌드 8 발표… \"건강한 '즉석식품' 인기 끌 것\" < 헬시라이프 < 기사본문 - 하이닥**\nNovember 17, 2025 - 특히 장내 유익균의 먹이가 되는 '프리바이오틱스(prebiotics)' 기능이 강화된 식품이 증가할 전망이다. 이는 단순히 소화를 돕는 것을 넘어, 포만감을 오래 유지하고 전반적인...",
-      "source_url": "https://news.hidoc.co.kr/news/articleView.html?idxno=55314",
+      "title": "[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 < 결산/...",
+      "summary": "**[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 < 결산/...**\n📌 Jan 7, 2026 · [푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 ‘한 그릇 음식’ 일상식 중심으로 부상 1인 가구 증가로...",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=103743",
       "source": "Web"
     },
     {
-      "title": "글로벌 2025년 식품시장 트렌드 및 2026 전망 - KATI 농식품수출정보",
-      "summary": "**글로벌 2025년 식품시장 트렌드 및 2026 전망 - KATI 농식품수출정보**\n글로벌 2025년 식품시장 트렌드 및 2026 전망_FIN.pdf 키워드 #글로벌 #트렌드 #식품시장...",
-      "source_url": "https://www.kati.net/board/reportORpubilcationView.do?board_seq=104476&menu_dept2=49",
+      "title": "“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” - 식품외식경제",
+      "summary": "**“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” - 식품외식경제**\n📌 Oct 30, 2025 · 2026년 식품산업의 트렌드를 전망하는 ‘2026 식품외식산업 전망’에서 첫째 날인 29일 문정훈 서울대 농경제사회학...",
+      "source_url": "https://www.foodbank.co.kr/news/articleView.html?idxno=67013",
       "source": "Web"
     },
     {
-      "title": "푸드 트렌드 요약, 푸렌드",
-      "summary": "**푸드 트렌드 요약, 푸렌드**\n국내/해외 F&B Biz News부터 푸드 트렌드 요약까지🗣...",
-      "source_url": "https://foodtrend.stibee.com/",
+      "title": "‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 분석",
+      "summary": "**‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 분석**\n📌 Nov 14, 2025 · 미래 식품산업을 관통하는 11가지 핵심 분석 ‘2026 푸드 트렌드’는 혼웰식 트렌드를 정교하게 분석하는 것 외에도 ...",
+      "source_url": "https://foodpe.or.kr/home/m_view.php?ps_db=news&ps_ques=2026&ps_boid=553",
       "source": "Web"
     },
     {
-      "title": "2026년 8대 식품 트렌드(Whole Foods Market) - 곡산 - 티스토리",
-      "summary": "**2026년 8대 식품 트렌드(Whole Foods Market) - 곡산 - 티스토리**\nFebruary 3, 2026 - 글로벌 유기농 식품 유통의 ... 두려워하지 않는다.보고서는 지방의 재발견(탈), 섬유질의 부상, 여성 농부의 세대교체, 냉동 미식의 고급화, 식초의 르네상스, 즉석식품의 재정의 등...",
-      "source_url": "https://why4416.tistory.com/15989107",
+      "title": "'24-'25 식품 소비 트렌드, 변화하는 소비자와 업계의 대응 전략 - 푸...",
+      "summary": "**'24-'25 식품 소비 트렌드, 변화하는 소비자와 업계의 대응 전략 - 푸...**\n📌 Dec 16, 2024 · 농소모(한국농촌경제연구원 소비트렌드 모니터)는 13일 '2024 식품소비행태조사 결과 발표대회'에서 2024년과 20...",
+      "source_url": "https://www.foodicon.co.kr/news/articleView.html?idxno=27897",
+      "source": "Web"
+    },
+    {
+      "title": "외식 트렌드 | 글로벌 외식정보",
+      "summary": "**외식 트렌드 | 글로벌 외식정보**\n📌 안랩, 2026년 1분기 피싱 문자 트렌드 보고서 발표 안랩(대표 강석균, www.ahnlab.com)이 2026년 1월부터 3월까지 에이전틱 ...",
+      "source_url": "http://www.hsgdn.co.kr/news/list.php?mcode=m247tk9&page=",
+      "source": "Web"
+    },
+    {
+      "title": "트렌드모니터",
+      "summary": "**트렌드모니터**\n📌 2026 2Q(4~6월) 음료·식품·외식 트렌드 리포트.트렌드모니터의 유용한 콘텐츠로 인사이트를 얻어 가세요! 트렌드 뉴스레터 구독 산업별 트렌...",
+      "source_url": "https://www.trendmonitor.co.kr/tmweb/main.do",
+      "source": "Web"
+    },
+    {
+      "title": "2026 요식업 창업 트렌드: 올해 주목해야 할 외식 트렌드 4가지...",
+      "summary": "**2026 요식업 창업 트렌드: 올해 주목해야 할 외식 트렌드 4가지...**\n📌 그럼 지금부터, 올해 주목해야 할 요식업 창업 트렌드 4가지를 자세하게 살펴보겠습니다. 1억 창업 아이템 추천 BEST 5! 도시락 창업부터 토...",
+      "source_url": "https://franchise.hsd.co.kr/magazine/?bmode=view&idx=170185084",
+      "source": "Web"
+    },
+    {
+      "title": "창업 알고하면 성공한다 - 외식 트렌드 단기... : 카카오스토리",
+      "summary": "**창업 알고하면 성공한다 - 외식 트렌드 단기... : 카카오스토리**\n📌 외식 트렌드 단기화 속 '스테디셀러' 가치 재조명신아일보 강동완 기자 시그니처 스테디셀러 메뉴가 중요하다....",
+      "source_url": "https://story.kakao.com/ch/adevent/F3x7naPf5oA",
+      "source": "Web"
+    },
+    {
+      "title": "한국인 외식비 한 달 평균 얼마? 2026 외식 소비 트렌드... - Scrivenio",
+      "summary": "**한국인 외식비 한 달 평균 얼마? 2026 외식 소비 트렌드... - Scrivenio**\n📌 2026 외식 소비 트렌드 총정리. 한국인의 외식비 지출은 매년 증가하고 있습니다....",
+      "source_url": "https://scrivenio.com/korean-eating-out-monthly-expense-2026",
       "source": "Web"
     }
   ],
   "insights": [
-    "'트렌드 Pick > 시장분석 : FIS 식품산업통계정보' - 건강·편리미엄 트렌드 관련 뉴스",
-    "'美 2026년 푸드 트렌드 8 발표… \"건강한 '즉석식품' 인기 끌 것\" < 헬시라이프 < 기사본문 - 하이닥' - 건강·편리미엄 트렌드 관련 뉴스",
-    "'글로벌 2025년 식품시장 트렌드 및 2026 전망 - KATI 농식품수출정보' - 건강·편리미엄 트렌드 관련 뉴스",
-    "'푸드 트렌드 요약, 푸렌드' - 건강·편리미엄 트렌드 관련 뉴스",
-    "'2026년 8대 식품 트렌드(Whole Foods Market) - 곡산 - 티스토리' - 건강·편리미엄 트렌드 관련 뉴스"
+    "[2026년 8대 식품 트렌드 (Whole Foods M...] Oct 26, 2025 · 2026년 식탁의 키워드는 한마디로 ‘회귀와 혁신의 공존’이다....",
+    "[[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄...] Jan 7, 2026 · [푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 ‘...",
+    "[“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” ...] Oct 30, 2025 · 2026년 식품산업의 트렌드를 전망하는 ‘2026 식품외식산업 ...",
+    "[‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 ...] Nov 14, 2025 · 미래 식품산업을 관통하는 11가지 핵심 분석 ‘2026 푸드 트...",
+    "['24-'25 식품 소비 트렌드, 변화하는 소비자와 업...] Dec 16, 2024 · 농소모(한국농촌경제연구원 소비트렌드 모니터)는 13일 '2024...",
+    "[외식 트렌드 | 글로벌 외식정보...] 안랩, 2026년 1분기 피싱 문자 트렌드 보고서 발표 안랩(대표 강석균, www.ahnl...",
+    "[트렌드모니터...] 2026 2Q(4~6월) 음료·식품·외식 트렌드 리포트.트렌드모니터의 유용한 콘텐츠로 인사...",
+    "[2026 요식업 창업 트렌드: 올해 주목해야 할 외식 ...] 그럼 지금부터, 올해 주목해야 할 요식업 창업 트렌드 4가지를 자세하게 살펴보겠습니다. 1...",
+    "[창업 알고하면 성공한다 - 외식 트렌드 단기... : ...] 외식 트렌드 단기화 속 '스테디셀러' 가치 재조명신아일보 강동완 기자 시그니처 스테디셀러 ...",
+    "[한국인 외식비 한 달 평균 얼마? 2026 외식 소비 ...] 2026 외식 소비 트렌드 총정리. 한국인의 외식비 지출은 매년 증가하고 있습니다...."
   ],
   "keywords": [
     {
       "keyword": "식품",
-      "naver_search_est": 50,
+      "naver_search_est": 100,
       "naver_blog_est": 50,
-      "instagram_est": 20
+      "instagram_est": 12
     },
     {
       "keyword": "외식",
@@ -90,7 +137,7 @@
     {
       "keyword": "디저트",
       "naver_search_est": 100,
-      "naver_blog_est": 50,
+      "naver_blog_est": 30,
       "instagram_est": 12
     },
     {
@@ -101,9 +148,9 @@
     },
     {
       "keyword": "간편식",
-      "naver_search_est": 60,
+      "naver_search_est": 100,
       "naver_blog_est": 50,
-      "instagram_est": 12
+      "instagram_est": 20
     }
   ]
 }
