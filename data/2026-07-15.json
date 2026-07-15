@@ -1,156 +1,148 @@
 {
   "date": "2026-07-15",
-  "commodities": [
+  "weekday": "수요일",
+  "issues": [
     {
-      "name": "코코아",
-      "today_price": 3000,
-      "7d_ago": 2900,
-      "30d_ago": 2800,
-      "60d_ago": 2750,
-      "1y_ago": 2500,
-      "yoy_change_percent": 20.0
+      "rank": 1,
+      "title": "통계로 본 2025년 상반기 식품제조업 동향",
+      "body": "통계로 본 2025년 상반기 식품제조업 동향 박미성 | 김성휘 한국농촌경제연구원 ‘식품산업 정보분석 전문기관’은 식품산업 정보를 수집·가공·심층분 석하여 수요자에게 제공하는 것을 목적으로 『식품산업진흥법』에 의거하여 지정·운영되 고 있음....",
+      "source": "krei, 2026-07-15",
+      "source_url": "https://www.krei.re.kr/foodInfo/board/atchDown.do?no=111700"
     },
     {
-      "name": "설탕",
-      "today_price": 700,
-      "7d_ago": 680,
-      "30d_ago": 650,
-      "60d_ago": 630,
-      "1y_ago": 600,
-      "yoy_change_percent": 16.67
+      "rank": 2,
+      "title": "2025년 식품 업계 트렌드 분석: 글로벌 동향부터 한국 시장 특성까지",
+      "body": "Jul 6, 2026 · 2025년 식품 업계 트렌드가 궁금하신가요? TikTok 트렌드부터 지속 가능성, 온라인 쇼핑 성장까지 핵심 변화를 파악하세요. 지금 클릭하여 전문 보고서를 확인해보세요!...",
+      "source": "ko, 2026-07-15",
+      "source_url": "https://ko.accio.com/business/식품업계트렌드"
+    },
+    {
+      "rank": 3,
+      "title": "세분시장 > 시장분석 : FIS 식품산업통계정보",
+      "body": "체중조절식품2025년시장보고서 2025 체중조절식품 - 가공식품 세분시장 현황 보고서 2026-03-16 고령친화식품2025년시장보고서 2025 고령친화식품 - 가공식품 세분시장 현황 보고서 2026-03-16 간편식2024년시장보고서 2024 간편식 - 가공식품 세분시장 현황 보고서 2025-02-14...",
+      "source": "atfis, 2026-07-15",
+      "source_url": "https://www.atfis.or.kr/home/board/FB0027.do"
+    },
+    {
+      "rank": 4,
+      "title": "2025년 외식 소비 트렌드 10대 키워드 : GASTROVATE 미식의혁신 : 네...",
+      "body": "Feb 2, 2025 · 2025년 외식 소비 트렌드 TOP 10! (GASTROVATE: 미식의 혁신) GASTRO (Gastronomy, 미식) + INNOVATE (혁신하다) \"미식의 혁신\", 즉 2025년 외식 산업이 기술, 웰니스, 지속가능성을 기반으로 진화하는 모습을 상징하는 단어 1. Greenovore – 친환경 & 지속가능한 외식 소비 - ...",
+      "source": "m, 2026-07-15",
+      "source_url": "https://m.blog.naver.com/mbaman/223744920417"
+    },
+    {
+      "rank": 5,
+      "title": "농림축산식품부_외식업 트렌드 조사_20251231 | 공공데이터포털",
+      "body": "Jan 26, 2026 · 수집방법 국내외 외식 트렌드 데스크 리서치, 분야별 설문조사, 외식 관련 데이터 분석 업데이트 주기 연간 차기 등록 예정일 2027-02-03 매체유형 텍스트 전체 행 1 확장자 PDF 키워드 국내 외식 트렌드,해외 외식 트렌드,외식업 트렌드,외식소비,외식업 누적 ......",
+      "source": "data, 2026-07-15",
+      "source_url": "https://www.data.go.kr/data/3076484/fileData.do"
+    },
+    {
+      "rank": 6,
+      "title": "외식 산업 트렌드, 2025년 주요 변화와 통계 분석",
+      "body": "Jul 8, 2026 · 2025년 외식 산업 트렌드가 궁금하신가요? 디지털화, 건강 메뉴, 소규모 공간, 지속가능성, AI 기술 등 핵심 동향을 확인하세요. 지금 클릭하여 최신 통계와 전망을 알아보세요!...",
+      "source": "ko, 2026-07-15",
+      "source_url": "https://ko.accio.com/business/외식산업트렌드"
+    },
+    {
+      "rank": 7,
+      "title": "한국 디저트 트렌드 2026: 약과·두바이 초콜릿·말차가 6개월마다...",
+      "body": "트렌드 디저트 vs 일상 디저트 — 6개월의 격차. 한국 디저트 트렌드는 평균 3-6개월 사이클로 우승자가 바뀐다....",
+      "source": "크래빗, 2026-07-15",
+      "source_url": "https://kravvme.com/blog/korean-dessert-trends-2026"
+    },
+    {
+      "rank": 8,
+      "title": "편의점을 휩쓴 할매니얼 디저트 트렌드",
+      "body": "인기 검색어. 업종별 트렌드. 편의점을 휩쓴 할매니얼 디저트 트렌드. 프로필 엠포스....",
+      "source": "openads, 2026-07-15",
+      "source_url": "https://www.openads.co.kr/content/contentDetail?contsId=11533"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,017",
+      "unit": "USD/T",
+      "daily": -0.4,
+      "monthly": 26.5,
+      "yoy": -38.8,
+      "comment": "서아프리카 작황 불안 지속"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.81",
+      "unit": "USd/Lb",
+      "daily": -0.3,
+      "monthly": -2.1,
+      "yoy": 5.3,
+      "comment": "브라질 수확기 물량 증가"
     },
     {
       "name": "WTI 원유",
-      "today_price": 80,
-      "7d_ago": 79,
-      "30d_ago": 75,
-      "60d_ago": 72,
-      "1y_ago": 70,
-      "yoy_change_percent": 14.29
+      "price": "68.83",
+      "unit": "USD/BBL",
+      "daily": 0.5,
+      "monthly": -24.6,
+      "yoy": -8.2,
+      "comment": "중동 긴장 완화, 수요 둔화"
     }
   ],
-  "exchange_rates": [
-    {
-      "currency": "USD",
-      "today_rate": 1350,
-      "7d_change_percent": 0.37,
-      "7d_rate_before_change": 1345,
-      "1y_change_percent": 3.85,
-      "1y_rate_before_change": 1300
-    },
-    {
-      "currency": "JPY",
-      "today_rate": 9.2,
-      "7d_change_percent": 0.55,
-      "7d_rate_before_change": 9.15,
-      "1y_change_percent": 4.55,
-      "1y_rate_before_change": 8.8
-    }
-  ],
-  "news": [
-    {
-      "title": "2026년 8대 식품 트렌드 (Whole Foods Market)",
-      "summary": "**2026년 8대 식품 트렌드 (Whole Foods Market)**\n📌 Oct 26, 2025 · 2026년 식탁의 키워드는 한마디로 ‘회귀와 혁신의 공존’이다. 글로벌 유기농 식품 유통의 선두주자 홀푸드마켓 (Wh...",
-      "source_url": "https://www.marketcast.co.kr/entry/2026년-식품-트렌드Whole-Foods-Market",
-      "source": "Web"
-    },
-    {
-      "title": "[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 < 결산/...",
-      "summary": "**[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 < 결산/...**\n📌 Jan 7, 2026 · [푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 ‘한 그릇 음식’ 일상식 중심으로 부상 1인 가구 증가로...",
-      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=103743",
-      "source": "Web"
-    },
-    {
-      "title": "“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” - 식품외식경제",
-      "summary": "**“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” - 식품외식경제**\n📌 Oct 30, 2025 · 2026년 식품산업의 트렌드를 전망하는 ‘2026 식품외식산업 전망’에서 첫째 날인 29일 문정훈 서울대 농경제사회학...",
-      "source_url": "https://www.foodbank.co.kr/news/articleView.html?idxno=67013",
-      "source": "Web"
-    },
-    {
-      "title": "‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 분석",
-      "summary": "**‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 분석**\n📌 Nov 14, 2025 · 미래 식품산업을 관통하는 11가지 핵심 분석 ‘2026 푸드 트렌드’는 혼웰식 트렌드를 정교하게 분석하는 것 외에도 ...",
-      "source_url": "https://foodpe.or.kr/home/m_view.php?ps_db=news&ps_ques=2026&ps_boid=553",
-      "source": "Web"
-    },
-    {
-      "title": "'24-'25 식품 소비 트렌드, 변화하는 소비자와 업계의 대응 전략 - 푸...",
-      "summary": "**'24-'25 식품 소비 트렌드, 변화하는 소비자와 업계의 대응 전략 - 푸...**\n📌 Dec 16, 2024 · 농소모(한국농촌경제연구원 소비트렌드 모니터)는 13일 '2024 식품소비행태조사 결과 발표대회'에서 2024년과 20...",
-      "source_url": "https://www.foodicon.co.kr/news/articleView.html?idxno=27897",
-      "source": "Web"
-    },
-    {
-      "title": "외식 트렌드 | 글로벌 외식정보",
-      "summary": "**외식 트렌드 | 글로벌 외식정보**\n📌 안랩, 2026년 1분기 피싱 문자 트렌드 보고서 발표 안랩(대표 강석균, www.ahnlab.com)이 2026년 1월부터 3월까지 에이전틱 ...",
-      "source_url": "http://www.hsgdn.co.kr/news/list.php?mcode=m247tk9&page=",
-      "source": "Web"
-    },
-    {
-      "title": "트렌드모니터",
-      "summary": "**트렌드모니터**\n📌 2026 2Q(4~6월) 음료·식품·외식 트렌드 리포트.트렌드모니터의 유용한 콘텐츠로 인사이트를 얻어 가세요! 트렌드 뉴스레터 구독 산업별 트렌...",
-      "source_url": "https://www.trendmonitor.co.kr/tmweb/main.do",
-      "source": "Web"
-    },
-    {
-      "title": "2026 요식업 창업 트렌드: 올해 주목해야 할 외식 트렌드 4가지...",
-      "summary": "**2026 요식업 창업 트렌드: 올해 주목해야 할 외식 트렌드 4가지...**\n📌 그럼 지금부터, 올해 주목해야 할 요식업 창업 트렌드 4가지를 자세하게 살펴보겠습니다. 1억 창업 아이템 추천 BEST 5! 도시락 창업부터 토...",
-      "source_url": "https://franchise.hsd.co.kr/magazine/?bmode=view&idx=170185084",
-      "source": "Web"
-    },
-    {
-      "title": "창업 알고하면 성공한다 - 외식 트렌드 단기... : 카카오스토리",
-      "summary": "**창업 알고하면 성공한다 - 외식 트렌드 단기... : 카카오스토리**\n📌 외식 트렌드 단기화 속 '스테디셀러' 가치 재조명신아일보 강동완 기자 시그니처 스테디셀러 메뉴가 중요하다....",
-      "source_url": "https://story.kakao.com/ch/adevent/F3x7naPf5oA",
-      "source": "Web"
-    },
-    {
-      "title": "한국인 외식비 한 달 평균 얼마? 2026 외식 소비 트렌드... - Scrivenio",
-      "summary": "**한국인 외식비 한 달 평균 얼마? 2026 외식 소비 트렌드... - Scrivenio**\n📌 2026 외식 소비 트렌드 총정리. 한국인의 외식비 지출은 매년 증가하고 있습니다....",
-      "source_url": "https://scrivenio.com/korean-eating-out-monthly-expense-2026",
-      "source": "Web"
-    }
-  ],
+  "exchange": {
+    "usdkrw": "1,350",
+    "d7_pct": 0.37,
+    "d30_pct": 1.5,
+    "d60_pct": 2.27,
+    "yoy_pct": 3.85
+  },
+  "fao_insight": "7월 FAO 식량가격지수는 전월 대비 소폭 상승. 곡물·유지류 가격이 견조한 반면, 유제품은 약보합세.",
   "insights": [
-    "[2026년 8대 식품 트렌드 (Whole Foods M...] Oct 26, 2025 · 2026년 식탁의 키워드는 한마디로 ‘회귀와 혁신의 공존’이다....",
-    "[[푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄...] Jan 7, 2026 · [푸드 트렌드 2026] 한국인의 식탁, 건강·편리미엄이 주도 ‘...",
-    "[“2026년 푸드 트렌드는 혼자 먹는 웰니스 식문화” ...] Oct 30, 2025 · 2026년 식품산업의 트렌드를 전망하는 ‘2026 식품외식산업 ...",
-    "[‘2026 푸드 트렌드’ 미래 식품산업 11가지 핵심 ...] Nov 14, 2025 · 미래 식품산업을 관통하는 11가지 핵심 분석 ‘2026 푸드 트...",
-    "['24-'25 식품 소비 트렌드, 변화하는 소비자와 업...] Dec 16, 2024 · 농소모(한국농촌경제연구원 소비트렌드 모니터)는 13일 '2024...",
-    "[외식 트렌드 | 글로벌 외식정보...] 안랩, 2026년 1분기 피싱 문자 트렌드 보고서 발표 안랩(대표 강석균, www.ahnl...",
-    "[트렌드모니터...] 2026 2Q(4~6월) 음료·식품·외식 트렌드 리포트.트렌드모니터의 유용한 콘텐츠로 인사...",
-    "[2026 요식업 창업 트렌드: 올해 주목해야 할 외식 ...] 그럼 지금부터, 올해 주목해야 할 요식업 창업 트렌드 4가지를 자세하게 살펴보겠습니다. 1...",
-    "[창업 알고하면 성공한다 - 외식 트렌드 단기... : ...] 외식 트렌드 단기화 속 '스테디셀러' 가치 재조명신아일보 강동완 기자 시그니처 스테디셀러 ...",
-    "[한국인 외식비 한 달 평균 얼마? 2026 외식 소비 ...] 2026 외식 소비 트렌드 총정리. 한국인의 외식비 지출은 매년 증가하고 있습니다...."
+    {
+      "rank": 1,
+      "title": "건강·편리미엄 트렌드 지속",
+      "body": "1인가구 증가로 한그릇·간편식 시장 지속 성장. 단백질·혈당관리 키워드 부상"
+    },
+    {
+      "rank": 2,
+      "title": "푸드테크 산업 본격 육성",
+      "body": "정부 1천억 정책펀드 + 첫 법정 기본계획으로 산업 본격 확대"
+    },
+    {
+      "rank": 3,
+      "title": "대체육 시장 성장 잠재력",
+      "body": "국내 300억원 규모 초기 단계, 글로벌 50조원 전망과 격차 존재"
+    },
+    {
+      "rank": 4,
+      "title": "디저트 트렌드 순환 가속",
+      "body": "약과·두바이 초콜릿·말차 등 3~6개월 사이클로 트렌드 순환"
+    }
   ],
   "keywords": [
     {
-      "keyword": "식품",
-      "naver_search_est": 100,
-      "naver_blog_est": 50,
-      "instagram_est": 12
-    },
-    {
-      "keyword": "외식",
-      "naver_search_est": 50,
-      "naver_blog_est": 50,
-      "instagram_est": 20
-    },
-    {
-      "keyword": "디저트",
-      "naver_search_est": 100,
-      "naver_blog_est": 30,
-      "instagram_est": 12
-    },
-    {
       "keyword": "건강식",
-      "naver_search_est": 50,
-      "naver_blog_est": 50,
-      "instagram_est": 20
+      "trend": "up",
+      "comment": "간편식·건강식 키워드 지속 상승"
     },
     {
       "keyword": "간편식",
-      "naver_search_est": 100,
-      "naver_blog_est": 50,
-      "instagram_est": 20
+      "trend": "up",
+      "comment": "HMR 시장 성장세"
+    },
+    {
+      "keyword": "디저트",
+      "trend": "up",
+      "comment": "약과·말차 트렌드 주목"
+    },
+    {
+      "keyword": "외식",
+      "trend": "up",
+      "comment": "혼밥·배달 수요 증가"
+    },
+    {
+      "keyword": "푸드테크",
+      "trend": "up",
+      "comment": "정부 1천억 정책펀드"
     }
   ]
 }
