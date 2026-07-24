@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-25",
+  "weekday": "토요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "Brent $100 돌파 후 $98 안착…호르무즈發 유가 40% 폭등, 13일째 공습 지속",
+      "body": "NYT 7/24, Brent 장중 $101 돌파 후 2.5%↓ $98 마감. 목요일 Brent $100 첫 돌파(5월 이후 최고). 전쟁 시작 후 40% 급등. WTI $91 추정(+5% D). 블룸버그 RSI 과매수 신호→단기 조정 가능. 인도 원유 수입비 60% 급증. 식품업계 물류비·포장재비 폭등 지속, 하반기 추가 인상 불가피.",
+      "source": "NYT / Bloomberg, 2026-07-24",
+      "source_url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html"
+    },
+    {
+      "rank": 2,
+      "title": "블룸버그 \"밀, 7월 랠리 연장\"…러·우크라 상호 공습에 파리 밀 주간 +5%",
+      "body": "Bloomberg 7/24, 러시아-우크라이나 상호 수출 회랑 공습 격화로 밀 2년 최고치 경신. 파리 밀 주간 +5%, 옥수수 금요일 급등. 흑해 항구 선박 입항 중단·아조프해 물류 차질. CBOT 밀 $705 추정(전일比 +1.7%). 곡물가 '3중 충격'(흑해+호르무즈+폭염) 지속. 하반기 식품업계 원가 압박 최고조.",
+      "source": "Bloomberg, 2026-07-24",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-24/wheat-extends-july-rally-as-war-risks-stoke-fears-over-supply"
+    },
+    {
+      "rank": 3,
+      "title": "호르무즈·흑해 이중 봉쇄 — 글로벌 식량 공급망 '패닉', FAO 7월 지수 급반등 확실",
+      "body": "이란 IRGC 호르무즈 전면 봉쇄 선언, 미군 13일 연속 공습으로 원유·곡물 물류 양대 축 동시 마비. Bloomberg \"Crop Prices Hit 3-Year High\" 7/23. FAO 6월 130.3pt(-0.4% MoM) → 7월 급반등 확실시. 한국 곡물·사료업계 원료 조달 부담 사상 최대. 수입 밀 가격 전년比 27%↑, 2026 하반기 식품·외식 2차 도미노 인상 경고.",
+      "source": "Bloomberg / FAO / KREI, 2026-07-20~24",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-23/crop-prices-hit-3-year-high-as-black-sea-attacks-heat-stoke-food-inflation"
+    },
+    {
+      "rank": 4,
+      "title": "커피 $314.20 반등(+1.55%)·USDA 세계 생산 6%↑ 전망 — 중장기 하락 신호",
+      "body": "TradingEconomics 7/24, 아라비카 $314.20/Lb(+1.55% D, +13.68% M, +5.60% Y). 전일 7/23 Barchart -2.29% 하락 후 기술적 반등. USDA 2026-27 세계 커피 생산 1.897억 포대(+6.0%·1,080만 포대↑) 전망 — 브라질·베트남 작황 회복. 코코아 $5,331(-0.67% D) 약보합. 기호식품 원자재, 유가·곡물 대비 상대적 안정세. 제과·커피 업종 원가 피크아웃 기대.",
+      "source": "TradingEconomics / Barchart / USDA, 2026-07-24",
+      "source_url": "https://tradingeconomics.com/commodity/coffee"
+    },
+    {
+      "rank": 5,
+      "title": "CJ 27품목 8%↑·오뚜기·롯데칠성 동참 — 식품값 도미노 인상에 소비자 'PB 쇼핑' 급증",
+      "body": "CJ제일제당 햇반 12%·참치캔 10%↑, 오뚜기·롯데칠성도 주요 제품 출고가 인상 현실화. 소비자물가 +3.2%·OECD 먹거리 물가 1위. 원자재·환율·물류비·포장재 '4중 충격'에 기업들 원가 흡수 한계. 이마트·홈플러스 PB 상품 판매 급증 — 소비자 '가격 방어' 본격화. 커피·떡볶이·치킨까지 줄인상, 서민 장바구니 비상.",
+      "source": "데일리한국 / 이콘밍글, 2026-07-16~24",
+      "source_url": "https://daily.hankooki.com/news/articleView.html?idxno=1388228"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,331",
+      "unit": "USD/T",
+      "daily": 0.57,
+      "monthly": 1.60,
+      "yoy": -35.99,
+      "comment": "7/24 $5,331 소폭 반등(+0.6% D), 7월 상승폭 둔화(+1.6% M)"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.68",
+      "unit": "USd/Lb",
+      "daily": -0.41,
+      "monthly": 4.71,
+      "yoy": -11.41,
+      "comment": "7/23 $14.68 약보합(-0.4% D), 브라질 수확 압력 지속 (금요일 미반영)"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "91.00",
+      "unit": "USD/BBL",
+      "daily": 5.2,
+      "monthly": 25.0,
+      "yoy": 40.0,
+      "comment": "Brent $98(NYT 7/24), WTI $91 추정, 호르무즈 13일째 폭등, +40% YoY"
+    },
+    {
+      "name": "아라비카 커피 (ICE KC)",
+      "price": "314.20",
+      "unit": "USd/Lb",
+      "daily": 1.55,
+      "monthly": 13.68,
+      "yoy": 5.60,
+      "comment": "7/24 $314.20 반등(+1.6% D), USDA 세계 생산 +6% 전망, 중장기↓"
+    },
+    {
+      "name": "밀 (CBOT SRW)",
+      "price": "705",
+      "unit": "USd/Bu",
+      "daily": 1.7,
+      "monthly": 18.5,
+      "yoy": 29.0,
+      "comment": "7/24 추정 $705(Bloomberg 랠리), 흑해 공습+폭염, 주간 +5%"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,474",
+    "jpykrw_per_100": "900",
+    "d7_pct": -0.9,
+    "d30_pct": -2.4,
+    "d60_pct": -3.0,
+    "yoy_pct": 6.4
+  },
+  "fao_insight": "6월 FAO 식량가격지수 130.3pt(-0.4% MoM, +2.2% YoY), 2개월 연속 하락했으나 7월은 호르무즈·흑해 이중 위기로 급반등 확실시. 곡물·유지류 지수 동반 상승 예상. 육류 사상 최고치 경신 지속. 7월 지수 8월 7일 발표 예정.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "Brent $100 돌파, WTI $91 추정 — 호르무즈發 유가 40% 폭등, 식품 원가 사상 최대 위기",
+      "body": "NYT 7/24 Brent 장중 $101→$98 마감(2.5%↓). 전쟁 13일째, 인도 수입비 60%↑. 식품 물류비·포장재비·환율 3중 충격. 하반기 식품 가격 2차 인상 도미노 불가피."
+    },
+    {
+      "rank": 2,
+      "title": "밀 주간 +5%, 곡물가 3년 최고 — 흑해·호르무즈 이중 봉쇄에 식량 공급망 비상",
+      "body": "Bloomberg 7/24 밀·옥수수 금요일 급등. 러-우크라 상호 수출항 공습 격화. CBOT 밀 $705, 전년比 +29%. 한국 수입 밀 가격 27%↑, 사료·제분업계 원료 조달 부담 사상 최대."
+    },
+    {
+      "rank": 3,
+      "title": "커피 $314·코코아 $5,331 — 기호식품 원자재, 유가·곡물과 디커플링 지속",
+      "body": "커피 +1.6% 반등, USDA 세계 생산 +6% 전망(1,080만 포대↑). 코코아 YoY -36%. 제과·커피 프랜차이즈 원가 부담 점진적 완화. 타 업종 대비 원가 여력 상대적 우위."
+    },
+    {
+      "rank": 4,
+      "title": "원화 소폭 강세 지속 — USD/KRW 1,474, 수입 원재료 부담 경감 미미",
+      "body": "USD/KRW 1,474(7/23 종가), 주간 저점 1,465→소폭 반등. USD/JPY 163.75, JPY/KRW 900원/100엔. 원화 강세 효과 있으나 유가·곡물가 폭등이 압도적. 환율보다 원자재 가격이 더 큰 변수."
+    },
+    {
+      "rank": 5,
+      "title": "CJ·오뚜기·롯데칠성 줄인상 — 소비자 'PB 쇼핑' 급증, 가격 방어 본격화",
+      "body": "햇반 12%·참치 10%↑, 커피·떡볶이·치킨까지. 이마트·홈플러스 PB 판매 급증. 소비자물가 +3.2%, OECD 1위. '4중 충격'에 기업·소비자 모두 한계 도달."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "Brent $100 돌파",
+      "trend": "up",
+      "comment": "NYT 7/24, 호르무즈 13일째, 전쟁 후 40%↑, 식품 원가 압박 최고조"
+    },
+    {
+      "keyword": "밀·곡물가 랠리",
+      "trend": "up",
+      "comment": "Bloomberg 7/24, 파리 밀 +5% WoW, CBOT $705, 러-우크라 공습 격화"
+    },
+    {
+      "keyword": "식품 가격 인상",
+      "trend": "up",
+      "comment": "CJ 27품목 8%↑, 햇반 12%↑, PB 소비 급증, 소비자물가 +3.2%"
+    },
+    {
+      "keyword": "커피·코코아 안정",
+      "trend": "down",
+      "comment": "커피 $314(+1.6%), 코코아 YoY -36%, USDA 생산 +6% 전망"
+    },
+    {
+      "keyword": "원화 강세",
+      "trend": "down",
+      "comment": "USD/KRW 1,474(-1.7% WoW), 수입 부담 일부 완화, JPY/KRW 900"
+    }
+  ],
+  "foodrain_mentions": []
+}
