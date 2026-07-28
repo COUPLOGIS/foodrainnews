@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-29",
+  "weekday": "수요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "유가 6% 추가 폭락 — Brent $83.81·WTI $81, 미-이란 휴전 3일차 진입",
+      "body": "The National 7/28, Brent 6%↓ $83.81/Bbl(TradingEconomics, -5.15% D). 이란-미국 휴전 3일차, 트럼프 평화회담 가속. NYT 7/26 Brent $88.36(-8.7%), Guardian 7/27 $89.94(-7.1%). WTI 약 $81. 후티 사우디 송유관 공격 주장 지속. 월간 +13.4%로 전쟁 프리미엄 일부 잔류. 식품업계 에너지·물류비용 진정 기대.",
+      "source": "The National / TradingEconomics / NYT / Guardian, 2026-07-28",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/28/brent-oil-slides-more-than-6-as-us-iran-talks-gain-steam/"
+    },
+    {
+      "rank": 2,
+      "title": "농심 43품목 5.8%↑·오뚜기·맥주까지 — 식품업계 「도미노 인상」 8월 1일 시행",
+      "body": "머니투데이 7/25, 농심 용기라면·스낵·음료 43개 브랜드 출고가 평균 5.8%↑(8/1 시행). 봉지라면은 소비자 부담 고려 제외. 오뚜기·CJ·오비맥주 동참. 원자재 34%↑ 대비 출고가 4%↑로 「지연 반영」 누적. 유가 하락 긍정적이나 밀·커피 고공행진에 2차 인상 파동 우려.",
+      "source": "머니투데이 / 조선비즈 / 소셜밸류, 2026-07-24~28",
+      "source_url": "https://www.mt.co.kr/living/2026/07/25/2026072415372512365"
+    },
+    {
+      "rank": 3,
+      "title": "아라비카 커피 $3.40 급반등(+4.8%) — 브라질 서리·가뭄 우려 재점화",
+      "body": "TradingEconomics 7/28, 커피 340.26¢/Lb(+4.84% D, +22.48% M, +14.76% Y). 주말 2.5주 최저에서 급반등. 브라질 겨울 서리·가뭄 우려에 투기적 매수세. USDA 생산 +6% 전망 무색. 로부스타도 동반 상승. 식품업계 원두 조달비용 재차 상승 경고.",
+      "source": "TradingEconomics / Barchart, 2026-07-28",
+      "source_url": "https://tradingeconomics.com/commodity/coffee"
+    },
+    {
+      "rank": 4,
+      "title": "밀 $6.75 차익실현 지속(+29.9% YoY) — 흑해·러시아 리스크 상존",
+      "body": "Investing.com 7/28, CBOT 9월물 $6.75/Bu(-3¢ D). 7/24 $7.11(2년 최고) 대비 -5%. TradingEconomics 7/23 $7.03(+20.1% M, +29.9% Y). 유가 진정·차익실현 출회. 우크라이나 곡물항 마비·러시아 수출 제한 지속. 트럼프-젤렌스키 워싱턴 회담(7/28). 「곡물 롤러코스터」 장세.",
+      "source": "Investing.com / TradingEconomics, 2026-07-28",
+      "source_url": "https://www.investing.com/news/commodities-news/cbot-wheat-futures-expected-to-open-lower-on-profittaking-93CH-4814316"
+    },
+    {
+      "rank": 5,
+      "title": "원화 1,455원 3주 연속 강세 — 유가·환율 동반 하락에 수입물가 「이중 방어」",
+      "body": "Wise 7/28, USD/KRW 1,455원(-1.1% W). 3주 전 1,530→1,455(-4.9%). USD/JPY 162.18(Yahoo Finance), JPY/KRW 897원/100엔. 미-이란 휴전·유가 폭락에 위험선호 회복. Brent $101→$84·환율 1,530→1,455 동반 하락. 수입 밀·원두 실효 가격 할인 효과. 식품업계 숨통.",
+      "source": "Wise / Yahoo Finance, 2026-07-28",
+      "source_url": "https://wise.com/us/currency-converter/usd-to-krw-rate/history"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,290",
+      "unit": "USD/T",
+      "daily": -0.2,
+      "monthly": 14.7,
+      "yoy": -36.9,
+      "comment": "7/28 추정 $5,290(Investing.com open, 7/22 TE $5,328 -4.98%·SERP 지연), 공급 과잉 압력"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.56",
+      "unit": "USd/Lb",
+      "daily": -0.14,
+      "monthly": -1.49,
+      "yoy": -12.24,
+      "comment": "7/28 $14.56(-0.14% D·TE), 4일 연속 하락, 브라질 수확 압력"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "81.00",
+      "unit": "USD/BBL",
+      "daily": -2.7,
+      "monthly": 13.4,
+      "yoy": 16.9,
+      "comment": "7/28 ~$81(Brent $83.81 -$7 spread), 미-이란 휴전 3일차·3일 연속 급락"
+    },
+    {
+      "name": "아라비카 커피 (ICE KC)",
+      "price": "340.26",
+      "unit": "USd/Lb",
+      "daily": 4.84,
+      "monthly": 22.48,
+      "yoy": 14.76,
+      "comment": "7/28 $3.40(+4.84% D·TE), 브라질 서리 우려로 급반등, 월간 +22%"
+    },
+    {
+      "name": "밀 (CBOT SRW)",
+      "price": "675",
+      "unit": "USd/Bu",
+      "daily": 0.7,
+      "monthly": 20.1,
+      "yoy": 29.9,
+      "comment": "7/28 $6.75(-3¢ D·Investing.com), $7.11 고점 대비 -5%, 흑해 리스크 상존"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,455",
+    "jpykrw_per_100": "897",
+    "d7_pct": -1.5,
+    "d30_pct": -3.6,
+    "d60_pct": -2.3,
+    "yoy_pct": 6.2
+  },
+  "fao_insight": "6월 FAO 식량가격지수 130.3pt(-0.4% MoM, +2.2% YoY). 7월은 호르무즈·흑해 위기로 급반등 확실시. 그러나 3일 연속 유가 폭락(Brent $84, peak $101 대비 -17%)으로 상승폭 제한 가능. 밀 +29.9%·커피 +14.8%·WTI +16.9% YoY. 7월 지수 8/7 발표.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "Brent $83.81 — 3일간 -17% 폭락, 전쟁 프리미엄 급속 소멸…식품업계 에너지 비용 진정 신호",
+      "body": "Brent $101(7/24)→$83.81(-17%). 미-이란 3일 연속 휴전. 트럼프 평화회담 모멘텀. 후티 송유관 공격은 여전. 식품업계 물류·에너지비용 하락 기대."
+    },
+    {
+      "rank": 2,
+      "title": "커피 $3.40 급반등(+4.8%) — 브라질 기상 리스크에 식품업계 원두 조달비용 재차 상승 경고",
+      "body": "2.5주 최저에서 급반등. 서리·가뭄 우려 재점화. USDA 생산 +6% 전망 무색. 커피값 변동성 확대로 식품·외식업계 원두 전략 차질."
+    },
+    {
+      "rank": 3,
+      "title": "원화 1,455원·유가 $81 — 「이중 방어」 효과, 수입 원자재 실효 가격 할인",
+      "body": "환율 -4.9%(3주)·유가 -20%(peak 대비). 수입 밀·원두·원유 실효 가격 동시 하락. 식품업계 환차익+원유비용 감소로 숨통."
+    },
+    {
+      "rank": 4,
+      "title": "식품 「도미노 인상」 가속 — 농심 5.8%↑·오뚜기·맥주, 8월 1일 본격 시행",
+      "body": "농심 43품목 8/1 시행. 오뚜기·CJ·오비맥주 동참. 원자재↑ 대비 출고가↑ 지연 누적. 유가 하락 긍정적이나 밀·커피 고공행진이 2차 파동 위험."
+    },
+    {
+      "rank": 5,
+      "title": "밀 $6.75, 고점 대비 -5%…「곡물 롤러코스터」에 식품업계 밀가루 원가 불확실성 지속",
+      "body": "$7.11→$6.75(4일 연속↓), +29.9% YoY. 트럼프-젤렌스키 회담. 흑해 곡물항 마비·러시아 제한 지속. 식품업계 밀가루 원가 여전히 위험 구간."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "유가 3일 연속 폭락/Brent $84",
+      "trend": "down",
+      "comment": "Brent $101→$83.81(-17%), 미-이란 휴전 3일차, 트럼프 평화회담"
+    },
+    {
+      "keyword": "식품 가격 인상 도미노/8월 시행",
+      "trend": "up",
+      "comment": "농심 5.8%↑ 8/1 시행, 오뚜기·CJ·맥주 동참, 2차 파동 우려"
+    },
+    {
+      "keyword": "커피 $3.40 급반등/브라질 서리",
+      "trend": "up",
+      "comment": "+4.84% D·+22.5% M, 브라질 서리·가뭄 우려 재점화"
+    },
+    {
+      "keyword": "원화 1,455원 강세/이중 방어",
+      "trend": "down",
+      "comment": "3주 -4.9%, 유가·환율 동반 하락, 수입 원자재 실효가격 할인"
+    },
+    {
+      "keyword": "밀 변동성/곡물 롤러코스터",
+      "trend": "up",
+      "comment": "$7.11→$6.75, +29.9% YoY, 차익실현 vs 흑해 리스크"
+    }
+  ],
+  "foodrain_mentions": []
+}
