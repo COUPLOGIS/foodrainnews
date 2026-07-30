@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-31",
+  "weekday": "금요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "이란 평화협정 붕괴→WTI $85↑→외교 재개→$84 롤러코스터 — 휴전 파기 2일 만에 다시 협상 테이블",
+      "body": "StockwireX 7/29, 미-이란 잠정 평화협정 붕괴로 WTI $84.79(+7%↑). 7/30 새벽 $85.98까지 급등 후 외교 재개 소식에 $83.70으로 반락(-0.9%). CNBC 「이란 공격 중단」→Reuters 「美 공습 일시 중단」→다시 협상. 유가 2차 변동성 폭발에 식품업계 물류비 예측 불가.",
+      "source": "StockwireX / SundayGuardianLive / CNBC / Reuters, 2026-07-29~30",
+      "source_url": "https://stockwirex.com/news/oil-price-surge-us-iran-peace-deal-collapse-july-2026/"
+    },
+    {
+      "rank": 2,
+      "title": "농심發 도미노 인상 D-1 — 8월 1일 컵라면·새우깡↑, CJ 27품목 8%↑, 오뚜기 29품목 최대 17%↑",
+      "body": "농심 8/1부터 용기라면·스낵·음료 출고가 평균 5.8%↑ D-1. CJ제일제당 햇반·만두·생선구이 27품목 8%↑ 동시 시행. 오뚜기 카레·당면·케첩 29품목 6~17%↑. 정부 압박에도 줄줄이 인상. 「라면→햇반→카레」 도미노, 유가 변동성에 2차 인상 우려.",
+      "source": "한국독수리뉴스 / 주간한국, 2026-07-29~30",
+      "source_url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=103078"
+    },
+    {
+      "rank": 3,
+      "title": "커피 $3.15 3일 랠리 붕괴 — 7/28 $3.39→7/30 $3.15(-7%), 브라질 헤알 약세가 추가 하방 압력",
+      "body": "TradingEconomics·Barchart 7/30, 아라비카 9월물 $3.258(7/29 -4.01%)→7/30 추정 $3.145(-3.5% 추가). 3일 +10% 랠리 후 이틀 -7.3% 반납. 브라질 헤알 약세가 아라비카 하방 압력. ICE 재고 2.5년 최저는 여전히 상방 요인. 「커피값, 롤러코스터 멈추지 않는다」.",
+      "source": "TradingEconomics / Barchart / MarketWatch / Cocoaintel, 2026-07-29~30",
+      "source_url": "https://www.barchart.com/futures/quotes/KCU26"
+    },
+    {
+      "rank": 4,
+      "title": "원화 ₩1,434 5주 연속 강세(-5.3%) — 이란發 달러 약세 지속, 수입 밀·원두·원유 실효가격 할인",
+      "body": "Wise 7/30, USD/KRW 저점 ₩1,420.55, 현재 ₩1,434. 5주 전 ₩1,514→₩1,434(-5.3%). USD/JPY 162엔, JPY/KRW 885원/100엔. 이란 위기 재점화에도 달러 약세=원화 강세 역설 지속. CJ·농심 원자재 수입비용 완충 효과. 유가 변동성 상쇄 요인.",
+      "source": "Wise / KoreaRoute / XE, 2026-07-30",
+      "source_url": "https://wise.com/gb/currency-converter/usd-to-krw-rate/history"
+    },
+    {
+      "rank": 5,
+      "title": "밀 $6.63 강보합 — USDA 동계 밀 생산량 29%↓·1963년 이후 63년 만 최저, 흑해 리스크 상존",
+      "body": "Yahoo Finance 7/30, CBOT 밀 $6.64½(+0.3% intraday). FarmProgress USDA 동계 밀 생산 9.905억 부셸(-29% YoY), 1963년 이후 최저. 러시아·우크라이나 흑해 공격 지속. 차익실현에 2년 최고가 $7.11 대비 -6.7%. 「곡물 공급 위기는 구조적」.",
+      "source": "Yahoo Finance / FarmProgress / UkrAgroConsult, 2026-07-30",
+      "source_url": "https://www.farmprogress.com/wheat/double-dose-of-war-plus-weather-scare-puts-wheat-on-bullish-track"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,220",
+      "unit": "USD/T",
+      "daily": -0.4,
+      "monthly": 3.0,
+      "yoy": -36.0,
+      "comment": "7/30 추정 $5,220(Cocoaintel -0.61%·London→NY 추정), StoneX 26/27년 균형 전망"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.45",
+      "unit": "USd/Lb",
+      "daily": -0.37,
+      "monthly": -3.63,
+      "yoy": -11.64,
+      "comment": "7/30 $14.45(-0.37% D·TE), 5일 연속 하락, 브라질 수확 압력 지속"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "83.70",
+      "unit": "USD/BBL",
+      "daily": -0.9,
+      "monthly": 20.0,
+      "yoy": 19.0,
+      "comment": "7/30 $83.70(-0.9% D), 이란 휴전 붕괴→$85.98↑→외교 재개→반락, 극심한 변동성"
+    },
+    {
+      "name": "아라비카 커피 (ICE KC)",
+      "price": "314.50",
+      "unit": "USd/Lb",
+      "daily": -3.5,
+      "monthly": 9.0,
+      "yoy": 10.0,
+      "comment": "7/30 추정 $3.145, 3일 +10%↑→이틀 -7.3%↓, 브라질 헤알 약세·ICE 재고 2.5년 최저"
+    },
+    {
+      "name": "밀 (CBOT SRW)",
+      "price": "663",
+      "unit": "USd/Bu",
+      "daily": 0.3,
+      "monthly": 17.0,
+      "yoy": 26.0,
+      "comment": "7/30 $6.63(+0.3% D), USDA 동계밀 -29% YoY·63년 최저, $7.11 고점 대비 -6.7%"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,434",
+    "jpykrw_per_100": "885",
+    "d7_pct": -2.9,
+    "d30_pct": -5.0,
+    "d60_pct": -3.5,
+    "yoy_pct": 6.0
+  },
+  "fao_insight": "6월 FAO 식량가격지수 130.3pt(-0.4% MoM, +2.2% YoY). 7월은 이란 평화협정 붕괴→WTI $85↑→외교 재개→$84↓ 롤러코스터로 유가 기여도 불확실. 밀 +17%·커피 +9% MoM 상승 압력 vs 설탕 -3.6%·코코아 보합이 하방 상쇄. 7월 지수 8/7 발표 예정.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "이란 휴전 붕괴→협상 재개 — 72시간 만에 뒤집힌 유가, 식품업계 「공포의 변동성」 8월로 진입",
+      "body": "WTI $79→$86→$84. 휴전 파기→외교 재개 반복에 유가 예측 불가. 8월 식품 도미노 인상과 맞물려 최악 시나리오."
+    },
+    {
+      "rank": 2,
+      "title": "D-1 도미노 인상 — 농심·CJ·오뚜기 줄줄이 8월 1일, 정부 압박 무력화…「식탁 물가 쇼크」 임박",
+      "body": "컵라면·햇반·카레 동시 인상. 유가 재변동성으로 2차 인상 파동 가능성. 서민 식탁 직격탄."
+    },
+    {
+      "rank": 3,
+      "title": "커피 $3.39→$3.15 이틀 -7% — 3일 랠리 과열 해소, 그러나 ICE 재고 2.5년 최저·엘니뇨 상방 압력",
+      "body": "단기 조정이지만 구조적 공급 부족 해소 안 돼. 원두 확보 경쟁 지속. 식품업계 매수 타이밍 고민."
+    },
+    {
+      "rank": 4,
+      "title": "원화 5주 -5.3% 초강세 — 수입 원자재 할인에 라면·과자값 인상폭 상쇄 효과, 그러나 한계 명확",
+      "body": "₩1,434로 밀·원두·원유 수입비용 절감. 도미노 인상 충격을 일부 완충하나, 절대 원가 상승이 더 커."
+    },
+    {
+      "rank": 5,
+      "title": "미국 밀 생산 63년 만 최저 — USDA 29%↓, 기후·전쟁 이중 충격에 「구조적 공급 위기」 고착화",
+      "body": "동계 밀 9.9억 부셸로 1963년 수준. 흑해 전쟁·가뭄 겹쳐 가용 물량 급감. 국내 제분업계 비상."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "이란 휴전 붕괴→외교 재개/유가 롤러코스터/WTI $85",
+      "trend": "up",
+      "comment": "72시간 만에 뒤집힌 유가, $79→$86→$84 급변, 8월 변동성 경고"
+    },
+    {
+      "keyword": "식품 도미노 인상 D-1/8월 1일 농심·CJ·오뚜기",
+      "trend": "up",
+      "comment": "컵라면·햇반·카레 동시 인상, 정부 압박 무력화, 2차 파동 우려"
+    },
+    {
+      "keyword": "커피 $3.15 3일 랠리 붕괴/-7%/헤알 약세",
+      "trend": "down",
+      "comment": "과열 해소 중이나 ICE 재고 2.5년 최저, 엘니뇨로 재반등 가능"
+    },
+    {
+      "keyword": "원화 1,434원 5주 -5.3%/이란發 달러 약세",
+      "trend": "down",
+      "comment": "이란 위기에도 달러 약세 지속, 수입 원자재 실효가격 할인"
+    },
+    {
+      "keyword": "USDA 밀 생산 29%↓/63년 최저/구조적 공급 위기",
+      "trend": "up",
+      "comment": "기후·전쟁 이중 충격에 제분업계 비상, 하반기 빵값 추가 인상 압력"
+    }
+  ],
+  "foodrain_mentions": []
+}
