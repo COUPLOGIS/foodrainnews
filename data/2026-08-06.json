@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-06",
+  "weekday": "목요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "트럼프 「호르무즈 합의 오늘 타결」 시사 — WTI $82→$76 7.6% 폭락, 5개월 만에 유가 정상화 임박… 식품 물류비 급감 기대",
+      "body": "8/5 트럼프 「이란과 생산적 종일 협상, 호르무즈 재개방 합의 수요일 도출」 발표(Fox News). 미·오만·이란 3자 「합의 근접」(Al Jazeera). WTI $74.49~$76 급락, Brent $80 붕괴. 유가 전쟁 프리미엄 5일 만에 +$20→+$6으로 70% 소멸.",
+      "source": "Fox News / Al Jazeera / CNBC, 2026-08-05",
+      "source_url": "https://www.foxnews.com/live-news/iran-war-trump-deal-strait-of-hormuz-reopen-08-05-2026"
+    },
+    {
+      "rank": 2,
+      "title": "엔화 157→160.66 급락, JPY/KRW 905→889 — 원화 상대적 강세 지속, 식품 수입 원가 이중 완화(유가↓+환율↓) 신호",
+      "body": "8/5 USD/KRW ₩1,429(Investing.com), USD/JPY ¥160.66(XE.com). 엔화 157→161로 2.5% 급락에 JPY/KRW 905→889(-1.8%). 원화 ₩1,427→1,429 소폭 조정 불구 엔화 대비 강세. 유가·환율 동시 하락에 3분기 수입 원가 급감 전망.",
+      "source": "Investing.com / XE.com, 2026-08-05",
+      "source_url": "https://www.investing.com/currencies/usd-krw"
+    },
+    {
+      "rank": 3,
+      "title": "코코아 $5,800~$6,100 널뛰기 — 가나 생산 45만톤 급감 우려(Barchart), ICE 재고 2.5년 최저… 연중 최대 변동성 구간",
+      "body": "8/4 뉴욕 코코아 $5,815→$6,108 급반등 후 8/5 $5,950 부근 마감 추정(Cocoaintel). 가나 COCOBOD 2026/27 생산 75만→45~55만톤 하향 전망에 투기적 매수. 런던·뉴욕 디커플링 지속. +4% M, -29% Y.",
+      "source": "Cocoaintel / Barchart, 2026-08-05",
+      "source_url": "https://www.cocoaintel.com/new-york-cocoa-continues-to-rally-as-london-slips-on-a-consolidation-day-with-limited-fundamental-news-4-august-2026/"
+    },
+    {
+      "rank": 4,
+      "title": "설탕 14.96¢ 3주 최고치 — Covrig 글로벌 적자 전환(-30만톤)에 투기적 매수, 15¢ 돌파가 분기 방향 결정",
+      "body": "8/5 Sugar #11 14.96¢/Lb(+1.8%·Investing.com), 3주 최고. Covrig Analytics 2026/27 전망: +10만톤 흑자→-30만톤 적자로 급반전. 브라질 중남부 수확 호조 불구 글로벌 수급 타이트닝 신호. -2% M, -8% Y.",
+      "source": "Investing.com / Barchart, 2026-08-05",
+      "source_url": "https://www.investing.com/commodities/us-sugar-no11"
+    },
+    {
+      "rank": 5,
+      "title": "밀 CBOT $6.42(+0.8%) 상승 — USDA 63년 최저 생산+흑해 리스크가 하방 경직성, 8/12 WASDE가 방향 결정",
+      "body": "CBOT 9월물 $6.42¼/Bu(+3¾¢·+0.8%·GX94), TE CFD $6.44(+0.86% D·+6.27% M·+26.65% Y). 유가 폭락에도 밀 독자 강세 — USDA 최저 생산 전망+우크라이나 수출 차질. WASDE 8/12 보고서가 최대 변수.",
+      "source": "GX94 Radio / TradingEconomics, 2026-08-05",
+      "source_url": "https://www.gx94radio.com/2026/08/05/august-5-closing-commodity-prices/"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "5,950",
+      "unit": "USD/T",
+      "daily": -2.3,
+      "monthly": 4.0,
+      "yoy": -29.2,
+      "comment": "8/5 추정 $5,950, 8/4 $6,089→$6,108 급반등 후 소폭 하락, 가나 생산 급감 우려+ICE 재고 2.5년 최저"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "14.96",
+      "unit": "USd/Lb",
+      "daily": 1.8,
+      "monthly": -1.5,
+      "yoy": -8.0,
+      "comment": "8/5 $14.96(+1.8%·Investing.com), Covrig 적자 전환으로 3주 최고, 15¢ 돌파 시 상승 추세 확정"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "75.50",
+      "unit": "USD/BBL",
+      "daily": -8.2,
+      "monthly": 18.0,
+      "yoy": 11.0,
+      "comment": "8/5 $75.50(Investing.com·TE 종합), 호르무즈 합의 임박에 $82→$76 폭락, 전쟁 프리미엄 70% 소멸"
+    },
+    {
+      "name": "아라비카 커피 (ICE KC)",
+      "price": "324.00",
+      "unit": "USd/Lb",
+      "daily": -0.3,
+      "monthly": 4.0,
+      "yoy": 13.4,
+      "comment": "8/5 추정 $3.24, ICE 재고 2.5년 최저 불구 유가 폭락에 동조 약세, 브라질 수확 호조가 상방 제한"
+    },
+    {
+      "name": "밀 (CBOT SRW)",
+      "price": "642.25",
+      "unit": "USd/Bu",
+      "daily": 0.8,
+      "monthly": 6.3,
+      "yoy": 26.7,
+      "comment": "8/5 CBOT $6.42¼(+3¾¢·GX94), 유가 폭락에도 독자 강세, USDA 63년 최저 생산+흑해 리스크 지속"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,429",
+    "jpykrw_per_100": "889",
+    "d7_pct": -2.8,
+    "d30_pct": -3.5,
+    "d60_pct": -2.0,
+    "yoy_pct": 4.5
+  },
+  "fao_insight": "6월 FAO 식량가격지수 130.3pt(-0.4% MoM). 7월 이란 전쟁發 Brent $69→$96(+39% MoM) 반영 시 136pt↑ 전망. 8/5 호르무즈 합의 임박→Brent $80으로 정상화. 7월 지수 8/7 발표 예정 — 전쟁 프리미엄 최고조 반영 시 133~137pt, 이후 8월 급락 예상.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "호르무즈 합의 임박 — 5개월 전쟁發 유가 프리미엄 70% 소멸, 8월 식품 물류비·원재료비 급감 시나리오 현실화",
+      "body": "WTI $92(전쟁 고점)→$75.50, 5거래일만에 $16.50 하락. 호르무즈 재개방 시 유가 $65~70 정상화, 하반기 식품 원가 부담 급감."
+    },
+    {
+      "rank": 2,
+      "title": "원화·엔화 디커플링 — JPY/KRW 905→889, 엔저 가속에 한국산 식품 가격경쟁력 상대적 약화 우려",
+      "body": "엔화 157→161 추가 약세, BOJ 개입 효과 소멸 중. 일본산 수입 식재료 저렴, 수출 경쟁에서는 한국 불리."
+    },
+    {
+      "rank": 3,
+      "title": "설탕 Covrig 적자 전환이 신호탄 — 2024년 이후 2년 만의 글로벌 공급 부족, 원당·백당 하반기 가격 상승 가능성",
+      "body": "브라질 풍작 불구 인도 수출 제한+EU 사탕무 감산이 적자 전환 견인. Sugar #11 15¢ 돌파 시 제과·음료 원가 경고."
+    },
+    {
+      "rank": 4,
+      "title": "식품 도미노 인상 D+6 — 유가 $16↓+원화 ₩1,420대 안정, 업계 인상 명분 완전 붕괴… 소비자·정치권 인하 압박 본격화 전망",
+      "body": "농심·CJ·오뚜기 인상 발효 6일차에 유가 폭락+원화 강세. 업계가 제시한 인상 명분 동시 소멸. 인상 철회·축소 도미노 주목."
+    },
+    {
+      "rank": 5,
+      "title": "밀 $6.42 유가 급락에도 독자 강세 — 공급 측면 리스크(USDA·흑해)가 수요 측면 리스크(경기 둔화) 압도",
+      "body": "유가 7.6%↓에도 밀 +0.8%↑. 공급 충격이 매크로 불안보다 강력. WASDE 8/12 발표가 하반기 제분가 방향 결정."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "호르무즈 합의 임박/WTI $76 폭락/유가 전쟁 프리미엄 70% 소멸/식품 물류비 급감",
+      "trend": "down",
+      "comment": "트럼프 「합의 수요일 도출」 선언, 유가 5일 만에 -$16.50, Brent $80 붕괴"
+    },
+    {
+      "keyword": "엔저 가속 ¥160.66/원화 ₩1,429 안정/JPY/KRW 889/수입 원가 이중 완화",
+      "trend": "down",
+      "comment": "엔화 157→161 추가 약세, BOJ 개입 효과 소멸, 원화 상대적 강세 지속"
+    },
+    {
+      "keyword": "설탕 14.96¢ 3주 최고/Covrig 적자 전환/15¢ 돌파 주목/제과·음료 원가 경고",
+      "trend": "up",
+      "comment": "2024년 이후 첫 글로벌 설탕 적자 전망, Sugar #11 3주 최고치"
+    },
+    {
+      "keyword": "식품 도미노 인상 D+6/유가 폭락+원화 강세/인상 명분 붕괴/인하 압박 본격화",
+      "trend": "up",
+      "comment": "농심·CJ 인상 6일차, 인상 명분 동시 소멸, 소비자단체·정치권 인하 촉구"
+    },
+    {
+      "keyword": "밀 유가 하락에도 독자 강세/WASDE 8/12 대기/USDA 63년 최저 생산/흑해 리스크",
+      "trend": "up",
+      "comment": "공급 충격이 수요 불안 압도, WASDE 보고서가 하반기 방향 결정"
+    }
+  ],
+  "foodrain_mentions": []
+}
