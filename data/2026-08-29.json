@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-29",
+  "weekday": "토요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "밀 3년 최고 경신 $7.58 — 흑해 리스크에 곡물 대란 경고 지속",
+      "body": "CBOT 밀 8/28 $758.18(+2.08%, 월간 +14.75%, 전년比 +46.37%). 우크라 곡물 수출 차질·러시아 흑해 항만 공격 지속으로 공급 불안 가중. JP모건·HSBC 식량 쇼크 경고 재확인, 제분·라면·빵 원가 압박 심화.",
+      "source": "TradingEconomics / MacroMicro, 2026-08-28",
+      "source_url": "https://tradingeconomics.com/commodity/wheat"
+    },
+    {
+      "rank": 2,
+      "title": "코코아 +5.1% 급등 $6,487 — 가나 2026/27 작황 13% 하향",
+      "body": "코코아 8/28 $6,487.54(+5.10%, 월간 +25.12%). 가나 코코아위원회 2026/27 생산 750만→650만톤(-13%) 하향 조정이 상승 견인. 초콜릿·제과 원가 재확대, 추석 성수기 인상 압력 가중.",
+      "source": "TradingEconomics / Barchart, 2026-08-28",
+      "source_url": "https://tradingeconomics.com/commodity/cocoa"
+    },
+    {
+      "rank": 3,
+      "title": "유가 반락 $82.9 — 美·이란 협상 교착, 주간 4.3% 하락",
+      "body": "WTI 8/28 $82.89(-0.77%), Brent $88~90대. 외교적 돌파 기대 후퇴·호르무즈 통행 회복 더딘 가운데 주간 하락 마감. 해상 운임·물류비 하방 압력은 다소 완화, 수입 원가 안도 요인 재부각.",
+      "source": "BOE Report / Yahoo Finance, 2026-08-28",
+      "source_url": "https://boereport.com/2026/08/28/oil-on-track-for-weekly-loss-even-as-iran-tensions-simmer/"
+    },
+    {
+      "rank": 4,
+      "title": "커피 소폭 반등 $312.4 — ICE 인증 재고 26년 최저 경계감",
+      "body": "아라비카 8/28 $312.40(+0.89%), 2일 급락 후 반등. ICE 인증 재고 1999년 이후 최저 수준까지 감소, 연말 C가격 $3/lb 전망. 브라질 수출 확대 기대와 재고 최저가 팽팽히 맞서는 구도.",
+      "source": "TradingEconomics / Perfect Daily Grind, 2026-08-28",
+      "source_url": "https://tradingeconomics.com/commodity/coffee"
+    },
+    {
+      "rank": 5,
+      "title": "식품 가격 인상 도미노 지속 — 풀무원·오뚜기 라면 평균 11%",
+      "body": "오뚜기 라면류 다음달 10일부터 평균 11% 인상, 풀무원·CJ 햇반·만두 등 가격 조정 릴레이. 밀가루·설탕·코코아 등 원부재료 급등이 원인. 추석 앞두고 체감물가 부담 심화, 정부 물가안정 압박과 충돌.",
+      "source": "매경헬스 / 소셜밸류, 2026-08-28",
+      "source_url": "https://www.mkhealth.co.kr/news/articleView.html?idxno=59795"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아 (ICE NY Cocoa)",
+      "price": "6,487.54",
+      "unit": "USD/T",
+      "daily": 5.10,
+      "monthly": 25.12,
+      "yoy": -15.03,
+      "comment": "8/28 TE 실측, 가나 작황 -13%로 급등"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "18.21",
+      "unit": "USd/Lb",
+      "daily": 0.0,
+      "monthly": 25.17,
+      "yoy": 10.51,
+      "comment": "8/27 TE 실측·8/28 지연, 월간 +25%"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "82.89",
+      "unit": "USD/BBL",
+      "daily": -0.77,
+      "monthly": 0.2,
+      "yoy": 28.0,
+      "comment": "8/28 BOE 실측, 협상 교착·주간 -4.3%"
+    },
+    {
+      "name": "아라비카 커피 (ICE KC)",
+      "price": "312.40",
+      "unit": "USd/Lb",
+      "daily": 0.89,
+      "monthly": -4.11,
+      "yoy": -21.28,
+      "comment": "8/28 TE 실측, ICE 재고 26년 최저"
+    },
+    {
+      "name": "밀 (CBOT SRW)",
+      "price": "758.18",
+      "unit": "USd/Bu",
+      "daily": 2.08,
+      "monthly": 14.75,
+      "yoy": 46.37,
+      "comment": "8/28 TE 실측, 흑해 리스크·3년 최고"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,386",
+    "jpykrw_per_100": "869",
+    "d7_pct": -1.5,
+    "d30_pct": -5.6,
+    "d60_pct": -7.5,
+    "yoy_pct": -0.9
+  },
+  "fao_insight": "7월 FAO 식량가격지수 131.1pt(+0.6% MoM, 3년 반 최고). 8월은 밀 $7.58(전년比 +46.4%)·코코아 월간 +25.1%·설탕 +25.2% 반영 시 추가 상승 전망.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "곡물 대란 경고 — 밀 3년 최고 $7.58 경신",
+      "body": "흑해 공급 차질 지속. 제분·라면·빵 원가 압박 가중, 공공비축 재고율 우려 재점화."
+    },
+    {
+      "rank": 2,
+      "title": "코코아 급등 — 가나 작황 하향이 촉발",
+      "body": "가나 2026/27 생산 -13% 하향. 초콜릿·제과 원가 재확대, 추석 성수기 인상 압력."
+    },
+    {
+      "rank": 3,
+      "title": "유가 반락 — 물류비 부담 완화 신호",
+      "body": "협상 교착·주간 -4.3%. 해상 운임 하방 압력, 수입 원가 안도 요인 재부각."
+    },
+    {
+      "rank": 4,
+      "title": "커피 재고 최저 — 원두 원가 구조적 상승",
+      "body": "ICE 인증 재고 26년 최저. 단기 반락에도 구조적 공급 부족 잔존, 안심 이르다."
+    },
+    {
+      "rank": 5,
+      "title": "식품 인상 도미노 — 추석 물가 부담 심화",
+      "body": "오뚜기 라면 11%·풀무원·CJ 릴레이 인상. 원자재 급등이 원인, 정부 압박과 충돌."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "밀 3년 최고 $7.58",
+      "trend": "up",
+      "comment": "흑해 공급 차질, JP모건·HSBC 쇼크 경고"
+    },
+    {
+      "keyword": "코코아 +5.1% 급등",
+      "trend": "up",
+      "comment": "가나 작황 13% 하향"
+    },
+    {
+      "keyword": "유가 반락 $82.9",
+      "trend": "down",
+      "comment": "美·이란 협상 교착, 주간 -4.3%"
+    },
+    {
+      "keyword": "커피 ICE 재고 26년 최저",
+      "trend": "up",
+      "comment": "1999년 이후 최저, 공급 경계감"
+    },
+    {
+      "keyword": "식품 가격 인상 도미노",
+      "trend": "up",
+      "comment": "오뚜기 11%·풀무원·CJ 릴레이"
+    }
+  ],
+  "foodrain_mentions": []
+}
