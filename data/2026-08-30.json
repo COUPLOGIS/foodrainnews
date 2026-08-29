@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-30",
+  "weekday": "일요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "코코아 7.5% 급등 $6,635 — 8월 상승폭 28%로 확대",
+      "body": "ICE NY 코코아는 8/28 $6,634.61로 전일 대비 7.48% 상승했다. 월간 상승률은 27.96%이며 가나 작황 하향과 공급 불안이 추석 성수기 제과·초콜릿 원가 압박을 다시 높인다.",
+      "source": "TradingEconomics, 2026-08-28",
+      "source_url": "https://tradingeconomics.com/commodity/cocoa"
+    },
+    {
+      "rank": 2,
+      "title": "WTI $83.12·Brent $89.20 — 호르무즈 일부 물량 회복에 주간 하락",
+      "body": "8/28 유가는 미·이란 외교 교착에도 호르무즈를 통한 일부 원유 흐름과 수요 우려를 반영해 하락했다. WTI는 $83.12, Brent는 $89.20 부근으로 식품 수입 물류비의 단기 상방 압력을 다소 낮췄다.",
+      "source": "CNBC / Reuters, 2026-08-28",
+      "source_url": "https://www.cnbc.com/2026/08/28/oil-on-track-for-weekly-loss-even-as-iran-tensions-simmer.html"
+    },
+    {
+      "rank": 3,
+      "title": "밀 3년 고점권 $7.58 — 흑해 리스크에 제분 원가 부담 지속",
+      "body": "밀 CFD는 8/28 758.18센트/부셸로 2.08% 올랐고 월간 14.75%, 전년 대비 46.37% 상승했다. 같은 날 시카고 9월물도 $7.67로 마감해 빵·면류의 원가 경계가 이어진다.",
+      "source": "TradingEconomics / GX94, 2026-08-28",
+      "source_url": "https://tradingeconomics.com/commodity/wheat"
+    },
+    {
+      "rank": 4,
+      "title": "팔도도 라면·음료 21종 5.5~5.8% 인상 예고",
+      "body": "팔도는 다음 달부터 왕뚜껑·비락식혜 등을 포함한 21개 품목의 출고가를 품목별 평균 5.5~5.8% 인상한다. 라면·과자·빵·음료 가격 조정이 이어지며 추석 전 장바구니 부담이 커지고 있다.",
+      "source": "Seoul Economic Daily, 2026-08-21",
+      "source_url": "https://en.sedaily.com/finance/2026/08/21/paldo-to-raise-prices-on-21-products-including"
+    },
+    {
+      "rank": 5,
+      "title": "친환경 바이오 포장·원료가 식품 수출 경쟁력의 핵심으로",
+      "body": "CJ제일제당의 PHA 상용화가 원가 부담이 큰 식품 사업을 보완할 친환경 바이오 성장축으로 평가됐다. 수출 시장에서 친환경 생산은 선택이 아니라 거래 유지 요건으로 부상하고 있다.",
+      "source": "Nate News / HTV, 2026-08-26",
+      "source_url": "https://news.nate.com/view/20260826n26665"
+    }
+  ],
+  "commodities": [
+    {"name":"코코아 (ICE NY Cocoa)","price":"6,634.61","unit":"USD/T","daily":7.48,"monthly":27.96,"yoy":-13.10,"comment":"8/28 TE 실측, 공급 불안에 급등"},
+    {"name":"설탕 (Sugar #11)","price":"18.21","unit":"USd/Lb","daily":0.0,"monthly":25.17,"yoy":10.51,"comment":"8/27 TE 실측값, 주말 신규 종가 미반영"},
+    {"name":"WTI 원유","price":"83.12","unit":"USD/BBL","daily":-0.50,"monthly":0.20,"yoy":28.00,"comment":"8/28 장중 실측, 주간 약세·호르무즈 일부 흐름"},
+    {"name":"아라비카 커피 (ICE KC)","price":"312.40","unit":"USd/Lb","daily":0.89,"monthly":-4.11,"yoy":-21.28,"comment":"8/28 기준 폴백, ICE 재고 저점 경계"},
+    {"name":"밀 (CBOT SRW)","price":"758.18","unit":"USd/Bu","daily":2.08,"monthly":14.75,"yoy":46.37,"comment":"8/28 TE 실측, 흑해 공급 리스크"}
+  ],
+  "exchange": {"usdkrw":"1,386","jpykrw_per_100":"870","d7_pct":-1.50,"d30_pct":-5.60,"d60_pct":-7.50,"yoy_pct":-0.90},
+  "fao_insight":"7월 FAO 식량가격지수는 131.1pt로 전월 대비 0.6%, 전년 대비 1.0% 상승해 2023년 1월 이후 최고였다. 8월 코코아 +28%, 밀 +14.8% 상승은 향후 가공식품 원가 압력을 높이는 요인이다.",
+  "insights": [
+    {"rank":1,"title":"코코아 급등 재개","body":"8/28 하루 +7.5%, 월간 +28%. 추석 제과·초콜릿 판촉의 마진 방어를 점검할 시점이다."},
+    {"rank":2,"title":"곡물 원가가 더 큰 구조적 리스크","body":"밀은 전년 대비 +46.4%다. 원유 하락 효과보다 면·빵·제분 원가의 상승 지속성을 우선 관리해야 한다."},
+    {"rank":3,"title":"유가 하락은 일시적 물류비 완화","body":"호르무즈 일부 흐름이 가격을 낮췄지만 긴장과 항로 불확실성은 남아 있어 운임·보험료를 분리 점검해야 한다."},
+    {"rank":4,"title":"가격 인상 범위가 라면에서 음료까지 확대","body":"팔도 인상 예고는 식품 인플레이션의 제품군 확산을 보여준다. 행사·소용량·PB 대응이 중요하다."},
+    {"rank":5,"title":"친환경성은 수출 거래 조건으로 전환","body":"PHA 등 친환경 바이오 소재와 재활용 포장은 비용이 아니라 해외 유통 접근성을 좌우하는 요소가 되고 있다."}
+  ],
+  "keywords": [
+    {"keyword":"코코아 8월 +28%","trend":"up","comment":"가나 작황·공급 불안 재부각"},
+    {"keyword":"밀 3년 고점권","trend":"up","comment":"흑해 리스크, 전년 대비 +46%"},
+    {"keyword":"WTI 주간 하락","trend":"down","comment":"호르무즈 일부 물량 흐름 반영"},
+    {"keyword":"라면·음료 가격 인상","trend":"up","comment":"팔도 21종 5.5~5.8% 예고"},
+    {"keyword":"친환경 바이오 포장","trend":"up","comment":"수출 경쟁력과 연결"}
+  ],
+  "foodrain_mentions": []
+}
