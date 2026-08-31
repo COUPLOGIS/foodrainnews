@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-01",
+  "weekday": "화요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "글로벌 식품업계, 맛·건강·지속가능성 결합한 리포뮬레이션 확대",
+      "body": "글로벌 식품업계의 리포뮬레이션이 저염·저당을 넘어 관능 보완과 신기술, 환경·사회적 가치까지 결합하는 방향으로 확장되고 있다는 분석이 나왔다. 맛을 유지하며 성분을 개선하는 제품 설계가 핵심 과제로 부각됐다.",
+      "source": "식품음료신문, 2026-08-31",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201094"
+    },
+    {
+      "rank": 2,
+      "title": "K-프랜차이즈 해외 진출, 현지 정착형 운영모델이 과제로",
+      "body": "한국프랜차이즈산업협회는 농식품부·aT와 외식 프랜차이즈의 해외 진출 시행착오를 줄이기 위한 지원과 현장 정보 제공을 강화할 계획이다. 점포 수 확대뿐 아니라 현지에서 지속 가능한 운영체계 구축이 과제로 제시됐다.",
+      "source": "식품음료신문, 2026-08-31",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201091"
+    },
+    {
+      "rank": 3,
+      "title": "서울우유 파머스그릭, 출시 3개월 만에 누적 100만개 판매",
+      "body": "서울우유협동조합은 5월 출시한 프리미엄 그릭요거트 파머스그릭 5종의 누적 판매량이 약 3개월 만에 100만개를 넘었다고 밝혔다. 락토프리와 파우치형을 포함한 제품군으로 발효유 수요를 공략하고 있다.",
+      "source": "뉴시스, 2026-08-31",
+      "source_url": "https://www.newsis.com/view/NISX20260831_0003768895"
+    },
+    {
+      "rank": 4,
+      "title": "CJ 비비고, 미국 프로스포츠 경기장에서 K-김 샘플링",
+      "body": "CJ제일제당은 미국 MLS 로스앤젤레스FC와 MLB 샌프란시스코 자이언츠 홈경기장에서 비비고 김 샘플링 행사를 진행했다. 현지 스포츠 관람객과의 접점을 통해 미국 내 K-김 인지도 확대를 추진한다.",
+      "source": "NBN미디어, 2026-08-31",
+      "source_url": "https://www.nbntv.kr/news/articleView.html?idxno=340719"
+    },
+    {
+      "rank": 5,
+      "title": "정부, 할당관세 물품 반출 지연과 사재기 차단 추진",
+      "body": "정부는 할당관세 적용 물품의 반출 지연과 사재기 행위를 원천 차단하겠다는 방침을 밝혔다. 수입 원료·식품의 통관 및 유통 단계 대응이 원가 안정성에 영향을 줄 수 있다.",
+      "source": "식품음료신문, 2026-08-31",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201089"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "6,769.26",
+      "unit": "USD/T",
+      "daily": 1.82,
+      "monthly": 13.98,
+      "yoy": -8.77,
+      "comment": "8/31 TradingEconomics CFD 벤치마크 기준"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "17.79",
+      "unit": "USd/Lb",
+      "daily": 1.31,
+      "monthly": 18.52,
+      "yoy": 8.87,
+      "comment": "8/31 TradingEconomics CFD 벤치마크 기준"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "86.23",
+      "unit": "USD/BBL",
+      "daily": 3.4,
+      "monthly": 7.33,
+      "yoy": 33.42,
+      "comment": "8/31 TradingEconomics CFD 기준; Forbes 시가 $84.98과 시점 차이"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "314.00",
+      "unit": "USd/Lb",
+      "daily": 0.37,
+      "monthly": 3.05,
+      "yoy": -21.12,
+      "comment": "8/31 TradingEconomics 아라비카 CFD 기준"
+    },
+    {
+      "name": "밀 (CBOT 프록시)",
+      "price": "757.01",
+      "unit": "USd/Bu",
+      "daily": -1.3,
+      "monthly": 16.28,
+      "yoy": 50.73,
+      "comment": "8/31 TradingEconomics CFD 기준; 개별 CBOT 월물 결제가는 상이할 수 있는 추정값"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,368.33",
+    "jpykrw_per_100": "856.9",
+    "d7_pct": -0.99,
+    "d30_pct": -6.37,
+    "d60_pct": 0,
+    "yoy_pct": 3.61
+  },
+  "fao_insight": "원자재는 8월 31일 TradingEconomics 벤치마크 추종 CFD 기준이며, 밀은 개별 CBOT 월물과 차이 날 수 있는 프록시다. USD/KRW는 8월 31일 21:25 UTC 인용치이며, 7일 변화율은 8월 25일 인용치와의 비교 추정, 60일 변화율은 동일 시계열 미확보로 0 처리했다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "코코아·설탕 동반 상승, 제과·디저트 원가 점검 필요",
+      "body": "코코아는 한 달 13.98%, 설탕은 18.52% 상승했다. 추석 판촉과 가을 신제품의 원료 커버 시점, SKU별 마진을 함께 점검할 필요가 있다."
+    },
+    {
+      "rank": 2,
+      "title": "유가 급등은 배송·냉장 물류비 상방 변수",
+      "body": "WTI는 하루 3.40% 올라 배럴당 86달러대다. 신선식품과 외식 배달 채널은 유류할증과 냉장 운송비를 별도로 모니터링해야 한다."
+    },
+    {
+      "rank": 3,
+      "title": "건강 지향 제품은 맛 품질이 재구매의 핵심",
+      "body": "리포뮬레이션과 그릭요거트 판매 사례는 저당·기능성만으로는 부족하고 맛·제형·섭취 편의의 동시 설계가 중요하다는 신호다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "식품",
+      "trend": "flat",
+      "comment": "일반어 관심은 뚜렷한 방향보다 건강·가성비 세부 수요로 분화된 것으로 추정"
+    },
+    {
+      "keyword": "외식",
+      "trend": "down",
+      "comment": "폭염 이후 집밥·간편 섭취 전환 영향으로 단기 관심 약세로 추정"
+    },
+    {
+      "keyword": "디저트",
+      "trend": "up",
+      "comment": "편의점과 SNS 기반 바이럴 디저트 수요가 이어지는 것으로 추정"
+    },
+    {
+      "keyword": "건강식",
+      "trend": "up",
+      "comment": "저당·고단백·기능성 수요가 제품 개발의 주요 구매 동인"
+    },
+    {
+      "keyword": "간편식",
+      "trend": "up",
+      "comment": "집밥과 편의점 간편 섭취 수요 확산 신호"
+    }
+  ],
+  "foodrain_mentions": []
+}
