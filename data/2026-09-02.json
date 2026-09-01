@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-02",
+  "weekday": "수요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "치폴레, 아시아 첫 진출국으로 한국 선택",
+      "body": "미국 멕시칸 패스트캐주얼 브랜드 치폴레가 한국을 아시아 첫 진출국으로 정하고 강남 1호점과 연내 추가 출점을 추진한다. 한국을 아시아 시장 공략 거점으로 삼는 전략이다.",
+      "source": "조선비즈, 2026-09-01",
+      "source_url": "https://biz.chosun.com/distribution/food/2026/09/01/RU2KJ5I5HVAUJMHGIDAEN3PXN4/"
+    },
+    {
+      "rank": 2,
+      "title": "식품영업 행정절차 간소화, 음식점 바가지요금 처분 강화",
+      "body": "식약처는 식품접객업 등의 영업 변경신고 때 허가증 원본 제출과 신고증 보관 의무를 없앴다. 가격표 미게시 또는 게시가격 초과 수수에 대한 처분은 강화하고 일부 품목의 소분 판매를 허용한다.",
+      "source": "식품음료신문, 2026-09-01",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201096"
+    },
+    {
+      "rank": 3,
+      "title": "롯데칠성 처음처럼, 알코올 도수 15.7도로 조정",
+      "body": "롯데칠성음료는 처음처럼의 도수를 16도에서 15.7도로 낮춘다. 저도주 선호와 취하기보다 즐기는 음주 경험으로의 소비 이동을 반영한 조치다.",
+      "source": "ZDNet Korea, 2026-09-01",
+      "source_url": "https://zdnet.co.kr/view/?no=20260901092245"
+    },
+    {
+      "rank": 4,
+      "title": "식약처 2027년 예산안 8,829억원 편성",
+      "body": "식약처의 2027년도 정부 예산안은 전년보다 6.1% 늘어난 8,829억원으로 편성됐다. 안심 먹거리, 안전 시스템의 디지털·AI 전환, K-식의약 경쟁력 강화가 주요 투자 분야다.",
+      "source": "식품음료신문, 2026-09-01",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201103"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "6,510.08",
+      "unit": "USD/T",
+      "daily": -3.85,
+      "monthly": 9.62,
+      "yoy": -12.26,
+      "comment": "9/1 TradingEconomics CFD 벤치마크 기준"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "18.37",
+      "unit": "USd/Lb",
+      "daily": 3.16,
+      "monthly": 22.4,
+      "yoy": 13.76,
+      "comment": "9/1 TradingEconomics CFD 벤치마크 기준"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "90.70",
+      "unit": "USD/BBL",
+      "daily": 5.76,
+      "monthly": 12.89,
+      "yoy": 38.28,
+      "comment": "9/1 TradingEconomics CFD 벤치마크 기준"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "309.74",
+      "unit": "USd/Lb",
+      "daily": -0.57,
+      "monthly": 1.65,
+      "yoy": -18.96,
+      "comment": "9/1 TradingEconomics 아라비카 CFD 기준"
+    },
+    {
+      "name": "밀 (CBOT 프록시)",
+      "price": "765.50",
+      "unit": "USd/Bu",
+      "daily": 1.19,
+      "monthly": 17.59,
+      "yoy": 49.22,
+      "comment": "9/1 TradingEconomics CFD 기준; 개별 CBOT 월물과 차이 가능"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,374.47",
+    "jpykrw_per_100": "864.5",
+    "d7_pct": -0.68,
+    "d30_pct": -4.55,
+    "d60_pct": -10.64,
+    "yoy_pct": null
+  },
+  "fao_insight": "원자재 5개 품목은 9월 1일 TradingEconomics CFD 벤치마크 관측치다. USD/KRW는 검색으로 확인된 8월 28일 공개 환율값이며 7·30·60일 변화율은 일별 공개 인용치 비교 추정이다. 100엔당 원화는 8월 26일 USD/JPY와의 교차계산 추정치다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "설탕·유가 동반 급등, 가공·물류 원가 압력 확대",
+      "body": "설탕은 하루 3.16%, 한 달 22.40% 올랐고 WTI는 하루 5.76% 상승했다. 제과·음료의 감미 원료와 냉장·배달 물류비를 SKU와 채널별로 점검할 시점이다."
+    },
+    {
+      "rank": 2,
+      "title": "밀 강세가 베이커리·면류 원가 변수로 지속",
+      "body": "CBOT 프록시 밀은 한 달 17.59%, 전년 대비 49.22% 상승했다. 장기 판촉·추석 이후 베이커리와 면류의 원가 반영 시점 및 대체 원료를 확인할 필요가 있다."
+    },
+    {
+      "rank": 3,
+      "title": "해외 외식 브랜드 진입과 저도주 수요 변화",
+      "body": "치폴레의 한국 진출은 패스트캐주얼 경쟁을 자극할 수 있고, 처음처럼의 도수 조정은 가벼운 음주 경험 수요를 보여준다. 외식·주류 기업은 메뉴 현지화와 저부담 옵션을 함께 검토할 만하다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "저당·제로",
+      "trend": "up",
+      "comment": "저당 소스와 제로 신제품 확대가 이어지는 건강관리형 소비 신호"
+    },
+    {
+      "keyword": "건강기능식품",
+      "trend": "up",
+      "comment": "편의점 건강기능식품 매출 성장 보도가 이어져 일상 건강관리 수요 주목"
+    },
+    {
+      "keyword": "혼웰식",
+      "trend": "up",
+      "comment": "1인 식사와 웰니스를 결합한 간편·영양 포맷 관심 지속"
+    },
+    {
+      "keyword": "간편식",
+      "trend": "up",
+      "comment": "외식비 부담과 시간 절약 수요가 프리미엄 HMR 재편을 뒷받침"
+    },
+    {
+      "keyword": "외식",
+      "trend": "flat",
+      "comment": "신규 브랜드 진입과 가격 민감도가 함께 나타나 채널별 수요 분화"
+    }
+  ],
+  "foodrain_mentions": []
+}
