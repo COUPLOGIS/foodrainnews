@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-03",
+  "weekday": "목요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "치폴레, 서울에 아시아 첫 매장 개점",
+      "body": "치폴레가 서울에 아시아 첫 레스토랑을 열고 한국을 향후 아시아 확장의 레퍼런스 시장으로 제시했다. 멕시칸 패스트캐주얼 경쟁의 현지화·디지털 주문 경험 경쟁이 본격화될 전망이다.",
+      "source": "Chipotle Newsroom, 2026-09-02",
+      "source_url": "https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL"
+    },
+    {
+      "rank": 2,
+      "title": "편의점 4사, 식료품 수요 회복에 출점 재개",
+      "body": "국내 4대 편의점 체인이 매출 회복과 식료품 수요 확대를 배경으로 최근 6개월간 약 200개 점포를 순증했다. 제조사는 전용 신선식·간편식과 소용량 상품의 채널 협업 기회를 점검할 필요가 있다.",
+      "source": "Seoul Economic Daily, 2026-09-02",
+      "source_url": "https://en.sedaily.com/finance/2026/09/02/korean-convenience-stores-resume-expansion-after-store-cuts"
+    },
+    {
+      "rank": 3,
+      "title": "8월 농산물 물가 6.7% 하락, 축산물은 1.5% 상승",
+      "body": "농림축산식품부는 작황 호조로 8월 농산물 물가가 6.7% 하락했다고 밝혔다. 축산물은 1.5% 올랐지만 상승 폭은 둔화돼 신선 농산물과 축산 원료의 원가 관리를 구분할 필요가 있다.",
+      "source": "연합뉴스, 2026-09-02",
+      "source_url": "https://www.yna.co.kr/view/AKR20260902028300030"
+    },
+    {
+      "rank": 4,
+      "title": "상반기 식품제조업, K-푸드 수출이 성장 견인",
+      "body": "한국농촌경제연구원 분석에서 고환율과 원자재 부담으로 내수 성장세는 제한적이었지만 K-Food+ 상반기 수출은 70억5,000만 달러를 기록했다. 수출 SKU와 환율·원재료 연동 수익성 관리가 과제로 제시됐다.",
+      "source": "식품저널, 2026-09-02",
+      "source_url": "https://www.foodnews.co.kr/news/articleView.html?idxno=119969"
+    },
+    {
+      "rank": 5,
+      "title": "BBQ, AI·데이터 기반 글로벌 매장 혁신 제시",
+      "body": "제너시스BBQ는 창립 31주년 기념식에서 AI와 데이터 기반의 글로벌 매장 혁신을 성장 방향으로 제시했다. 해외 확장 경쟁은 출점 수뿐 아니라 수요예측과 운영 표준화 역량으로 이동하고 있다.",
+      "source": "식품음료신문, 2026-09-02",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201108"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "6,290.00",
+      "unit": "USD/T",
+      "daily": -4.28,
+      "monthly": 5.91,
+      "yoy": -15.85,
+      "comment": "9/2 TradingEconomics CFD 벤치마크 실측"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "18.70",
+      "unit": "USd/Lb",
+      "daily": 1.85,
+      "monthly": 24.58,
+      "yoy": 16.66,
+      "comment": "9/2 TradingEconomics CFD 벤치마크 실측"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "90.82",
+      "unit": "USD/BBL",
+      "daily": 5.90,
+      "monthly": 13.05,
+      "yoy": 38.47,
+      "comment": "9/1 TradingEconomics CFD 최신 확인값; 9/2 종가 미확인"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "297.35",
+      "unit": "USd/Lb",
+      "daily": -3.91,
+      "monthly": -2.41,
+      "yoy": -22.82,
+      "comment": "9/2 TradingEconomics 아라비카 CFD 실측"
+    },
+    {
+      "name": "밀 (CBOT SRW 9월물)",
+      "price": "7.56",
+      "unit": "USD/Bu",
+      "daily": -2.50,
+      "monthly": 0,
+      "yoy": 0,
+      "comment": "9/2 WSJ·AGSIST 인용 종가; 월간·전년비 미확인(0 표기)"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,366.55",
+    "jpykrw_per_100": "861.1",
+    "d7_pct": -1.0,
+    "d30_pct": -5.1,
+    "d60_pct": -10.5,
+    "yoy_pct": 0
+  },
+  "fao_insight": "코코아·설탕·커피는 9월 2일 TradingEconomics CFD 벤치마크 실측이다. WTI는 9월 2일 확정 종가를 확인하지 못해 9월 1일 최신 확인값을 유지했다. USD/KRW 1,366.55원은 9월 2일 기준 참고환율이며 7·60일 변화율은 공개 일별 비교값, 30일은 전일 대비 연장 추정이다. 전년비와 밀의 월간·전년비 0 표기는 미확인값이다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "설탕 강세와 고유가, 가공·물류 원가에 동시 압력",
+      "body": "설탕은 한 달 24.58% 상승했고 WTI 최신 확인값도 한 달 13.05% 높다. 제과·음료의 감미 원료와 냉장·배달 물류비를 SKU별로 분리 점검할 필요가 있다."
+    },
+    {
+      "rank": 2,
+      "title": "원화 강세가 달러 결제 원가를 일부 완충",
+      "body": "USD/KRW는 7일 기준 1.00%, 60일 기준 10.50% 하락한 참고값이다. 다만 원자재 달러가격 상승과 실제 결제환율·헤지 조건을 함께 반영해야 한다."
+    },
+    {
+      "rank": 3,
+      "title": "외식·편의점의 성장축은 데이터 운영과 식품 수요 흡수",
+      "body": "치폴레의 진입, 편의점 출점 재개, BBQ의 AI 전략은 외식 경쟁이 메뉴뿐 아니라 수요예측·운영 효율·근거리 식품 채널 역량으로 확장되고 있음을 보여준다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "고단백·식이섬유",
+      "trend": "up",
+      "comment": "포만감과 장 건강을 결합한 식사대용·스낵 수요"
+    },
+    {
+      "keyword": "장 건강",
+      "trend": "up",
+      "comment": "발효·프로바이오틱스·식이섬유 기능성 관심 확대"
+    },
+    {
+      "keyword": "건강한 간편식",
+      "trend": "up",
+      "comment": "1인분 한 그릇과 영양 설계를 결합한 HMR 기회"
+    },
+    {
+      "keyword": "가성비 PB",
+      "trend": "up",
+      "comment": "가격 민감도 속 품질·영양을 함께 제시하는 자체브랜드 수요"
+    },
+    {
+      "keyword": "레트로 풍미",
+      "trend": "flat",
+      "comment": "익숙한 맛의 재해석과 감각적 경험을 통한 차별화"
+    }
+  ],
+  "foodrain_mentions": []
+}
