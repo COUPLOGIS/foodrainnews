@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-04",
+  "weekday": "금요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "K-푸드 플러스 수출 160억달러 달성 목표에 정부 지원 확대",
+      "body": "정부가 K-푸드 플러스 수출 160억달러 목표 달성을 위해 지원을 강화한다는 계획이 보도됐다. 수출기업에는 현지 유통·인증·물류 대응을 함께 점검할 필요가 있다.",
+      "source": "식품음료신문, 2026-09-03",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201123"
+    },
+    {
+      "rank": 2,
+      "title": "농심, 인도 MZ세대 겨냥 신라면 마케팅 전개",
+      "body": "농심이 인도 MZ세대를 겨냥한 신라면 홍보에 나선다고 밝혔다. 인도 시장에서는 현지 취향과 디지털 접점을 결합한 K-라면 확장 전략이 관건이다.",
+      "source": "식품음료신문, 2026-09-03",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201119"
+    },
+    {
+      "rank": 3,
+      "title": "편의점 디저트, 방한 관광객·2030 수요 겨냥 경쟁",
+      "body": "편의점 업계가 외국인 관광객과 2030세대를 겨냥해 디저트 신상품 경쟁을 확대하고 있다. 한정 상품과 해외 인기 간식의 현지화가 구매 동력으로 제시됐다.",
+      "source": "조선비즈, 2026-09-03",
+      "source_url": "https://biz.chosun.com/distribution/channel/2026/09/03/DN56637SHRBYJJHZQMRW4P53UQ/"
+    },
+    {
+      "rank": 4,
+      "title": "식품·유통업계 불공정거래 제재 사례 지속",
+      "body": "가격 담합과 납품업체 비용 전가, 부당 반품 등 식품·유통업계의 공정거래 이슈가 이어지고 있다는 분석이 나왔다. 판촉비와 반품 조건 등 거래 관행의 사전 점검이 필요하다.",
+      "source": "에너지경제신문, 2026-09-03",
+      "source_url": "https://www.ekn.kr/web/view.php?key=20260903026499666"
+    },
+    {
+      "rank": 5,
+      "title": "추석 전 간편식·베이커리·논알코올 신제품 출시",
+      "body": "CJ제일제당, 대상, 오뚜기, 파리바게뜨, 롯데칠성음료 등이 간편식·소스·베이커리·논알코올 신제품을 선보였다. 명절 전 수요에는 소용량 식사 솔루션과 맛 차별화가 집중되고 있다.",
+      "source": "식품음료신문, 2026-09-03",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201116"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "6,140.00",
+      "unit": "USD/T",
+      "daily": -2.12,
+      "monthly": 3.65,
+      "yoy": -14.78,
+      "comment": "9/3 TradingEconomics CFD 벤치마크 실측"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "18.71",
+      "unit": "USd/Lb",
+      "daily": 1.91,
+      "monthly": 0,
+      "yoy": 0,
+      "comment": "9/3 Investing.com 인용가 추정; 월간·전년비 미확인(0 표기)"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "92.09",
+      "unit": "USD/BBL",
+      "daily": 0,
+      "monthly": 0,
+      "yoy": 0,
+      "comment": "9/3 Forbes 인용가 추정; 공식 정산·비교 변화율 미확인(0 표기)"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "300.00",
+      "unit": "USd/Lb",
+      "daily": 0,
+      "monthly": 0,
+      "yoy": 0,
+      "comment": "9/3 TradingEconomics 약 3달러/lb 인용가 추정; 비교 변화율 미확인"
+    },
+    {
+      "name": "밀 (CBOT SRW 9월물)",
+      "price": "7.29",
+      "unit": "USD/Bu",
+      "daily": 0,
+      "monthly": 0,
+      "yoy": 0,
+      "comment": "9/3 AGSIST 인용가 추정; 공식 정산·비교 변화율 미확인(0 표기)"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,358.20",
+    "jpykrw_per_100": "0",
+    "d7_pct": 0,
+    "d30_pct": 0,
+    "d60_pct": 0,
+    "yoy_pct": 0
+  },
+  "fao_insight": "원자재는 미국 9월 3일 기준 최신 확인치다. 코코아는 TradingEconomics CFD 실측이며 설탕·WTI·커피·밀은 검색 인용가 또는 범위 기반 추정이다. USD/KRW 1,358.20원은 9월 2일 확인 가능한 최신 참고값으로, 9월 4일 현물 및 기간 변화율은 검증하지 못해 0으로 표기했다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "수출 확대는 현지 유통·규제 실행력이 좌우",
+      "body": "K-푸드 수출 지원 확대와 농심의 인도 공략은 성장 기회를 넓힌다. 현지 소비자 데이터, 인증, 라스트마일 물류까지 포함한 국가별 실행 설계가 필요하다."
+    },
+    {
+      "rank": 2,
+      "title": "편의점 디저트는 관광 수요와 회전율을 함께 관리",
+      "body": "방한객·2030을 겨냥한 한정 디저트는 화제성을 만들 수 있다. 다만 짧은 판매기간의 폐기율과 생산 리드타임을 함께 관리해야 수익성을 확보할 수 있다."
+    },
+    {
+      "rank": 3,
+      "title": "원가 판단은 추정 시세와 실제 매입가를 분리",
+      "body": "코코아는 하락했지만 설탕·유가·커피·밀의 비교 변화율은 이번 확인 범위에서 충분히 검증되지 않았다. 원료 계약단가와 환율 헤지 기준을 별도 대조해 가격결정을 보수적으로 운영해야 한다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "편의점 디저트",
+      "trend": "up",
+      "comment": "관광객·2030을 겨냥한 한정 상품과 해외 인기 간식의 현지화"
+    },
+    {
+      "keyword": "제로슈거",
+      "trend": "up",
+      "comment": "저당·저칼로리 제품이 일상 편의식 선택지로 확대"
+    },
+    {
+      "keyword": "고식이섬유",
+      "trend": "up",
+      "comment": "장 건강·포만감·혈당 관리와 결합한 다음 건강식 키워드"
+    },
+    {
+      "keyword": "고단백",
+      "trend": "flat",
+      "comment": "단독 주장보다 식이섬유·포만감 등 복합 영양 설계로 확장"
+    },
+    {
+      "keyword": "건강 간편식",
+      "trend": "up",
+      "comment": "잡곡과 영양 설계를 결합한 빠른 한 끼 수요"
+    }
+  ],
+  "foodrain_mentions": []
+}
