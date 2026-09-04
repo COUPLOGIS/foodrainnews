@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-05",
+  "weekday": "토요일",
+  "issues": [
+    {
+      "rank": 1,
+      "title": "농식품부, K-푸드 수출 160억달러 목표 위한 5대 과제 제시",
+      "body": "농식품부가 민관 수출기획단 회의에서 전통주·김치·쌀가공식품 등 전략 품목과 해외 판촉을 포함한 5대 과제를 발표했다. 수출기업 지원의 현지 유통·인증·물류 실행력이 핵심 과제로 제시됐다.",
+      "source": "KJtimes, 2026-09-04",
+      "source_url": "https://www.kjtimes.com/news/article.html?no=80078"
+    },
+    {
+      "rank": 2,
+      "title": "aT, 중동·러시아 CIS 할랄시장 K-푸드 진출 전략 공유",
+      "body": "aT와 농식품부는 할랄시장 진출 확대 전략 세미나를 예고했다. 중동과 러시아·CIS의 소비 동향, 인증·통관·유통·마케팅 대응을 다룰 예정이다.",
+      "source": "뉴시스, 2026-09-04",
+      "source_url": "https://www.newsis.com/view/NISX20260904_0003776614"
+    },
+    {
+      "rank": 3,
+      "title": "미국 식품시장, 고단백·클린라벨·비초가공식품 중심 재편",
+      "body": "미국 시장에서 리얼 푸드 수요가 고단백·클린 라벨·비초가공식품 중심으로 재편되고 있다는 분석이 나왔다. K-푸드 수출 제품도 성분 단순화와 영양 설계 경쟁력이 중요해지고 있다.",
+      "source": "식품음료신문, 2026-09-04",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201104"
+    },
+    {
+      "rank": 4,
+      "title": "서울우유, 생성형 AI 브랜드 평가에서 품질 신뢰 강점 부각",
+      "body": "서울우유가 생성형 AI 브랜드 평가에서 높은 평가를 받았다고 밝혔다. 유제품 시장에서는 오랜 품질 신뢰를 디지털 채널의 검색·추천 접점으로 전환하는 경쟁이 이어질 전망이다.",
+      "source": "식품음료신문, 2026-09-04",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201125"
+    },
+    {
+      "rank": 5,
+      "title": "추석 수요 앞두고 소스·베이커리·하이볼 신제품 출시",
+      "body": "오뚜기, 삼립, 하이트진로가 살사 소스·베이커리·선물용 하이볼 신제품을 선보였다. 명절 전 선물·간편식 수요를 겨냥한 맛 차별화와 패키지 경쟁이 확대되고 있다.",
+      "source": "식품음료신문, 2026-09-04",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201124"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "6,175.00",
+      "unit": "USD/T",
+      "daily": 0.02,
+      "monthly": 4.98,
+      "yoy": -16.35,
+      "comment": "9/4 TradingEconomics CFD 벤치마크"
+    },
+    {
+      "name": "설탕 (Sugar #11)",
+      "price": "18.01",
+      "unit": "USd/Lb",
+      "daily": -0.33,
+      "monthly": 18.88,
+      "yoy": 15.83,
+      "comment": "9/4 TradingEconomics CFD 벤치마크"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "91.20",
+      "unit": "USD/BBL",
+      "daily": -0.11,
+      "monthly": 21.25,
+      "yoy": 47.41,
+      "comment": "9/4 TradingEconomics CFD 벤치마크"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "293.16",
+      "unit": "USd/Lb",
+      "daily": -0.74,
+      "monthly": -5.87,
+      "yoy": -23.97,
+      "comment": "9/4 TradingEconomics Coffee 벤치마크"
+    },
+    {
+      "name": "밀 (CBOT 참고)",
+      "price": "716.00",
+      "unit": "USd/Bu",
+      "daily": -2.72,
+      "monthly": 11.48,
+      "yoy": 42.91,
+      "comment": "9/4 TradingEconomics Wheat CFD 벤치마크"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,345.21",
+    "jpykrw_per_100": "865",
+    "d7_pct": 0,
+    "d30_pct": -5.36,
+    "d60_pct": 0,
+    "yoy_pct": -2.97
+  },
+  "fao_insight": "9월 5일은 토요일로 원자재는 9월 4일 거래 기준이다. 5개 품목은 TradingEconomics CFD 벤치마크이며 공식 특정 월물 정산가와 차이가 날 수 있다. USD/KRW는 9월 4일 1,345.21원이며 7일·60일 변화율은 동일 기준값을 확인하지 못해 0으로 표기했다. 100엔당 865원은 서로 다른 날짜의 USD/KRW와 USD/JPY를 조합한 추정치다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "수출은 할랄 인증과 현지 유통의 동시 설계가 필요",
+      "body": "K-푸드 수출 지원과 할랄시장 진출 논의가 이어지고 있다. 제품 현지화뿐 아니라 인증, 통관, 현지 유통 파트너까지 초기 기획에 반영해야 한다."
+    },
+    {
+      "rank": 2,
+      "title": "미국향 제품은 고단백과 클린라벨을 함께 점검",
+      "body": "미국 리얼 푸드 수요는 영양 기능과 단순한 원재료 표기를 동시에 요구한다. 수출 SKU는 단백질 설계, 첨가물 설명, 라벨 메시지의 일관성을 높일 필요가 있다."
+    },
+    {
+      "rank": 3,
+      "title": "설탕·유가 상승은 가공식품 원가에 시차 압력",
+      "body": "설탕은 한 달간 18.88%, WTI는 21.25% 상승한 반면 원화는 달러 대비 강세다. 원료와 물류비 상승이 환율 완화 효과를 상쇄하는지 품목별로 재점검해야 한다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "고단백",
+      "trend": "up",
+      "comment": "미국 리얼 푸드 시장의 핵심 영양 포지셔닝"
+    },
+    {
+      "keyword": "클린라벨",
+      "trend": "up",
+      "comment": "비초가공식품과 성분 단순화 요구 확산"
+    },
+    {
+      "keyword": "할랄 K-푸드",
+      "trend": "up",
+      "comment": "중동·러시아 CIS 진출 전략 논의 확대"
+    },
+    {
+      "keyword": "명절 선물식",
+      "trend": "up",
+      "comment": "추석 전 주류·베이커리·소스 패키지 출시"
+    },
+    {
+      "keyword": "개인화 추천",
+      "trend": "up",
+      "comment": "생성형 AI 기반 브랜드 검색·추천 접점 강화"
+    }
+  ],
+  "foodrain_mentions": []
+}
