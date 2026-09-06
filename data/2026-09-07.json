@@ -1,0 +1,27 @@
+{
+  "date":"2026-09-07",
+  "weekday":"월요일",
+  "issues":[],
+  "commodities":[
+    {"name":"코코아","price":"6,173.87","unit":"USD/T","daily":0,"monthly":4.96,"yoy":-16.37,"comment":"9/4 TradingEconomics CFD 최신 확인치; 주말 후 첫 거래 전 기준"},
+    {"name":"설탕 (Sugar #11)","price":"18.07","unit":"USd/Lb","daily":0,"monthly":19.27,"yoy":16.21,"comment":"9/4 TradingEconomics CFD 최신 확인치; 주말 후 첫 거래 전 기준"},
+    {"name":"WTI 원유","price":"84.45","unit":"USD/BBL","daily":1.26,"monthly":0,"yoy":0,"comment":"Investing.com 검색 인용 현재가 84.45달러·직전 종가 83.40달러 기준; 월간·전년비 미검증(0 표기)"},
+    {"name":"아라비카 커피","price":"312.42","unit":"USd/Lb","daily":0.89,"monthly":-4.11,"yoy":-21.28,"comment":"8/28 TradingEconomics CFD 확인치; 최신 거래일 수치 미확보"},
+    {"name":"밀 (CBOT SRW)","price":"7.16","unit":"USD/Bu","daily":0,"monthly":14.35,"yoy":26.79,"comment":"9/4 이전 확인 가능한 최근 종가 참고치; 일간 수치 미검증(0 표기)"}
+  ],
+  "exchange":{"usdkrw":"1,346.49","jpykrw_per_100":"0","d7_pct":-2.39,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "fao_insight":"9월 7일은 주말 뒤 첫 거래일로, 코코아·설탕은 9월 4일 최신 확인치, 커피는 8월 28일 확인치다. WTI만 검색 인용 현재가를 반영했다. USD/KRW는 9월 4일 1,346.49원 참고치를 유지했으며, 30일·60일·전년 변화율과 엔화는 검증하지 못해 0으로 표기했다.",
+  "insights":[
+    {"rank":1,"title":"당류 원가 압력은 여전히 높음","body":"설탕의 월간 상승률이 19.27%로 확인돼 음료·베이커리·디저트의 원가 부담이 이어진다. 판촉 SKU는 당류 투입량과 공급계약 시점을 우선 점검할 필요가 있다."},
+    {"rank":2,"title":"유가 변동은 물류비 재산정 변수","body":"WTI 검색 인용가는 직전 종가 대비 상승으로 나타났다. 검증된 월간 비교치는 없으므로 운송비·포장재 단가는 현물 급등을 전제로 확정하지 말고 실제 매입 조건을 재확인해야 한다."},
+    {"rank":3,"title":"검증 가능한 신규 업계 뉴스 부족","body":"RSS와 웹 검색에서 9월 6~7일에 발행일이 확인된 식품·외식·디저트 기사를 확보하지 못했다. 날짜 기준을 완화하지 않고 뉴스 항목은 공란으로 유지했다."}
+  ],
+  "keywords":[
+    {"keyword":"저당·고단백","trend":"flat","comment":"당일 검색량 급등은 검증되지 않아 건강지향 소비 모니터링 키워드로만 유지"},
+    {"keyword":"건강 간편식","trend":"flat","comment":"당일 지수 미확보; 식사 대용·영양 설계 상품군 관찰 필요"},
+    {"keyword":"외식 가성비","trend":"flat","comment":"당일 검색 추세 미검증; 가격 민감 수요 점검용 키워드"},
+    {"keyword":"K-푸드 수출","trend":"flat","comment":"당일 신규 기사 미확보; 해외 유통·인증 이슈 상시 관찰"},
+    {"keyword":"디저트 베이커리","trend":"flat","comment":"당일 검색 추세 미검증; 채널별 신제품 모니터링"}
+  ],
+  "foodrain_mentions":[]
+}
