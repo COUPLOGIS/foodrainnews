@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-08",
+  "weekday":"화요일",
+  "issues":[
+    {"rank":1,"title":"GS25, 도시락 전면 리뉴얼로 품질 경쟁 강화","body":"GS25가 고객 피드백과 구매 데이터를 반영해 도시락 메뉴 구성과 조리 공정을 개선한다. 편의점 간편식 경쟁이 가격·구색에서 반찬 품질로 이동하는 흐름이다.","source":"뉴스핌, 2026-09-07","source_url":"https://www.newspim.com/news/view/20260907000032"},
+    {"rank":2,"title":"BBQ, 멕시코 두 번째 매장 쿰브레스점 개점","body":"BBQ가 멕시코에서 두 번째 매장을 열었다. K-치킨의 중남미 현지 점포 확대와 운영모델 검증이 이어지는 사례다.","source":"식품음료신문, 2026-09-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201138"},
+    {"rank":3,"title":"CJ제일제당, 글로벌 조미소재 사업 확대","body":"CJ제일제당이 차세대 식품 조미소재의 글로벌 사업에 속도를 낸다고 밝혔다. 현지화 제품 확대에 따라 B2B 소재 경쟁력의 중요성이 커지고 있다.","source":"식품음료신문, 2026-09-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201136"},
+    {"rank":4,"title":"오뚜기, 강황 간편섭취 브랜드 하루강황 론칭","body":"오뚜기가 일상 섭취 편의성을 내세운 강황 브랜드를 선보였다. 건강지향 소재를 간편식·데일리 루틴으로 재구성하는 상품 기획이 이어진다.","source":"식품음료신문, 2026-09-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201137"},
+    {"rank":5,"title":"MZ 주류시장, 절제·무알콜·프리미엄으로 재편","body":"식품음료신문은 MZ 주류 소비가 음주량보다 경험·절제·프리미엄 가치 중심으로 이동한다고 분석했다. 무알코올과 저도주 포트폴리오의 채널별 제안이 중요해졌다.","source":"식품음료신문, 2026-09-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201144"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"6,174.90","unit":"USD/T","daily":-0.21,"monthly":4.09,"yoy":-13.41,"comment":"9/7 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"설탕 (Sugar #11)","price":"18.02","unit":"USd/Lb","daily":-0.28,"monthly":9.41,"yoy":15.29,"comment":"9/7 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"WTI 원유","price":"92.69","unit":"USD/BBL","daily":1.32,"monthly":12.86,"yoy":48.88,"comment":"9/7 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"292.88","unit":"USd/Lb","daily":-0.92,"monthly":-6.70,"yoy":-26.37,"comment":"9/7 ICE Coffee C 벤치마크 추종 CFD 확인치"},
+    {"name":"밀 (CBOT SRW)","price":"645.03","unit":"USd/Bu","daily":-9.91,"monthly":0.43,"yoy":28.75,"comment":"9/7 TradingEconomics 밀 CFD; CBOT 연속물 근사 추정"}
+  ],
+  "exchange":{"usdkrw":"1,375.39","jpykrw_per_100":"0","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "fao_insight":"원자재는 9월 7일 TradingEconomics 벤치마크 추종 CFD 기준이다. USD/KRW는 9월 8일 XE 미드마켓 확인치이며, 동일 산식의 7·30·60일 및 전년 비교값과 엔화 환산값은 확보하지 못해 0으로 표기했다.",
+  "insights":[
+    {"rank":1,"title":"당류·에너지 원가 동시 압력","body":"설탕은 월간 +9.41%, WTI는 월간 +12.86%로 나타났다. 음료·베이커리·냉장 유통 상품은 원료와 물류비를 분리해 매입·판촉 수익성을 점검할 필요가 있다."},
+    {"rank":2,"title":"간편식은 품질 신호를 강화","body":"GS25 도시락 개편은 편의점 HMR에서 반찬 완성도와 조리 품질이 구매 전환의 핵심이 될 수 있음을 보여준다. 가성비만으로는 차별화가 어려운 채널이다."},
+    {"rank":3,"title":"해외 확장과 소재 B2B 병행","body":"BBQ의 멕시코 출점과 CJ제일제당의 조미소재 확대는 K-푸드의 성장 경로가 완제품 점포와 현지 제조 파트너용 소재로 병행됨을 시사한다."}
+  ],
+  "keywords":[
+    {"keyword":"혼웰식","trend":"up","comment":"1인 가구의 편의성과 건강을 결합한 한 끼 상품 관찰"},
+    {"keyword":"가성비 HMR","trend":"up","comment":"외식 대비 비용·조리시간 절감 제안이 구매 요인"},
+    {"keyword":"무알코올","trend":"up","comment":"절제 소비와 프리미엄 경험 수요를 반영"},
+    {"keyword":"K-푸드 현지화","trend":"up","comment":"해외 전용 제품과 현지 점포 확장 사례 증가"},
+    {"keyword":"숏폼 푸드","trend":"flat","comment":"시각적 제품 경험과 UGC 확산을 지속 관찰"}
+  ],
+  "foodrain_mentions":[]
+}
