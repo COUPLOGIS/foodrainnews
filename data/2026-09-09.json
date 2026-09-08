@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-09",
+  "weekday":"수요일",
+  "issues":[
+    {"rank":1,"title":"편의점 4사, 추석 1인 가구 겨냥 간편식 경쟁","body":"GS25·CU·세븐일레븐·이마트24가 추석을 앞두고 도시락과 명절 메뉴 간편식을 확대하고 있다. 혼추족 수요를 겨냥한 소용량·즉석식 제안이 채널 경쟁의 중심이다.","source":"동아일보, 2026-09-08","source_url":"https://www.donga.com/news/Economy/article/all/20260908/134625255/1"},
+    {"rank":2,"title":"롯데웰푸드, 국내 내실·해외 확장 투트랙 제시","body":"롯데웰푸드는 상반기 영업이익 증가 실적과 함께 국내 사업 내실 및 해외 확장 전략을 제시했다. 수익성 관리와 해외 성장 투자 병행이 핵심 과제로 부각된다.","source":"식품음료신문, 2026-09-08","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201147"},
+    {"rank":3,"title":"CJ프레시웨이, 외식 식자재 프레시원 BI 리뉴얼","body":"CJ프레시웨이가 외식 식자재 브랜드 프레시원의 BI를 전면 개편했다. B2B 고객 접점에서 상품·물류 외에 파트너십 경험을 차별화하려는 움직임이다.","source":"식품음료신문, 2026-09-08","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201146"},
+    {"rank":4,"title":"곤충 단백질 제1호 산업 거점단지 준공","body":"곤충 단백질 소재의 대량생산 기반을 겨냥한 제1호 곤충산업 거점단지가 준공됐다. 대체단백 원료의 생산 규모화와 식품소재 사업화 가능성을 넓히는 사례다.","source":"식품음료신문, 2026-09-08","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201149"},
+    {"rank":5,"title":"CJ제일제당 증류주 jari, 미국 진출 신호","body":"CJ제일제당 프리미엄 증류주 jari가 세계 3대 품평회에서 전 제품 수상 성과를 냈다. 프리미엄 주류의 해외 인지도 확보와 미국 시장 진출 준비가 이어지고 있다.","source":"식품음료신문, 2026-09-08","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201151"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"6,634.61","unit":"USD/T","daily":7.48,"monthly":27.96,"yoy":-13.10,"comment":"8/28 TradingEconomics CFD 확인치; 최신 거래일 시차 유의"},
+    {"name":"설탕 (Sugar #11)","price":"17.55","unit":"USd/Lb","daily":-3.51,"monthly":21.04,"yoy":7.22,"comment":"8/28 TradingEconomics CFD 확인치; 최신 거래일 시차 유의"},
+    {"name":"WTI 원유","price":"92.37","unit":"USD/BBL","daily":0.97,"monthly":12.47,"yoy":47.49,"comment":"9/8 TradingEconomics WTI 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"279~314","unit":"USd/Lb","daily":0,"monthly":0,"yoy":0,"comment":"9/8 시장 전망 범위 추정; 9/4 이후 신뢰 가능한 정산가 미확보"},
+    {"name":"밀 (CBOT SRW)","price":"716.00","unit":"USd/Bu","daily":0,"monthly":0,"yoy":42.90,"comment":"9/4 CBOT 종가 확인치; 일간·월간 변화율 미확보"}
+  ],
+  "exchange":{"usdkrw":"1,340.50","jpykrw_per_100":"0","d7_pct":-2.06,"d30_pct":-4.93,"d60_pct":-11.22,"yoy_pct":-6.26},
+  "fao_insight":"원자재는 품목별 최신 확인 거래일이 다르다. WTI는 9월 8일 CFD 확인치이나 코코아·설탕은 8월 28일, 밀은 9월 4일 기준이며 커피는 전망 범위 추정치다. USD/KRW는 9월 7일 서울외환시장 마감 1,340.50원 기준; 장기 환율 변화율은 기사상 레벨로 산출한 근사치다.",
+  "insights":[
+    {"rank":1,"title":"환율 강세가 수입 원가 완충 여지를 제공","body":"원·달러 환율은 9월 7일 1,340.50원으로 1주 전보다 약 2.1% 낮아졌다. 달러 결제 원료의 원화 환산 부담은 완화되지만, 실제 매입단가는 계약환율·재고·운임의 시차를 함께 봐야 한다."},
+    {"rank":2,"title":"추석 수요는 1인분·즉시성 경쟁","body":"편의점의 명절 간편식 확대는 혼추족 수요가 도시락·소용량·즉석 조리형 상품으로 세분화되고 있음을 보여준다. 명절 한정 SKU는 가격뿐 아니라 보관성·구성 완성도가 중요하다."},
+    {"rank":3,"title":"B2B와 대체단백의 공급 기반 점검","body":"식자재 BI 개편과 곤충 단백질 거점단지 준공은 외식 B2B의 서비스 차별화와 신규 단백질 원료의 규모화가 동시에 진행되는 흐름이다. 원료 적용성·안전성·판로 검증을 분리해 관리할 필요가 있다."}
+  ],
+  "keywords":[
+    {"keyword":"혼추족 간편식","trend":"up","comment":"추석 1인 가구 대상 도시락·명절 메뉴 경쟁 확대"},
+    {"keyword":"외식 B2B 파트너십","trend":"up","comment":"식자재 유통에서 브랜드 경험과 고객 지원 강화"},
+    {"keyword":"대체단백 소재","trend":"up","comment":"곤충 단백질 대량생산 인프라 구축 사례"},
+    {"keyword":"건강지향 저감","trend":"up","comment":"저당·성분 투명성·체중관리 수요를 지속 관찰"},
+    {"keyword":"프리미엄 주류","trend":"flat","comment":"해외 품평회와 수출 준비를 통한 브랜드 신뢰 형성"}
+  ],
+  "foodrain_mentions":[]
+}
