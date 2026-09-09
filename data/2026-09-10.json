@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-10",
+  "weekday":"목요일",
+  "issues":[
+    {"rank":1,"title":"추석 농축산물 할인 지원 확대","body":"정부가 추석 민생안정 보완책으로 농축산물 할인 지원에 900억원을 추가 투입하고 9월 3~23일에는 1인당 할인 한도를 적용하지 않기로 했다. 가공식품 20개사의 4,765개 품목 할인과 성수품 공급 확대도 병행한다.","source":"서울경제, 2026-09-09","source_url":"https://m.sedaily.com/article/20088846"},
+    {"rank":2,"title":"SPC GFS, 상주 농특산물 유통·판로 협력","body":"SPC GFS가 상주시·농협유통과 손잡고 상주 농특산물의 유통과 판로 확대에 나선다. 지역 원물의 B2B 식자재·유통 채널 연결을 넓히는 협력 사례다.","source":"식품음료신문, 2026-09-09","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201153"},
+    {"rank":3,"title":"파리 K스트리트 페스티벌, K-푸드 현지 접점 확대","body":"aT가 프랑스 파리 K스트리트 페스티벌에서 한국 편의점 콘셉트의 NEXT K푸드 홍보관을 운영했다. 약 7만 명이 찾은 행사에서 체험과 쿠킹쇼로 현지 소비자 접점을 넓혔다.","source":"머니투데이, 2026-09-09","source_url":"https://www.mt.co.kr/policy/2026/09/09/2026090910252878994"},
+    {"rank":4,"title":"삼양사, 저당·기능성 식품소재 B2B 제안","body":"삼양사가 식품 제조사 연구원 약 200명을 초청해 당류 저감·기능성 소재의 적용 사례를 공유했다. 알룰로스와 식이섬유 등 스페셜티 소재 솔루션을 중심으로 B2B 사업 확대를 추진한다.","source":"푸드투데이, 2026-09-09","source_url":"https://www.ftoday.co.kr/news/articleView.html?idxno=365100"},
+    {"rank":5,"title":"GMO 완전표시제 표시 대상·범위 검토 필요","body":"식품업계에서는 GMO 완전표시제 시행을 앞두고 가공 단계와 품목별 특성을 고려한 표시 대상·범위 검토가 필요하다는 의견이 제기됐다. 원료 조달·표시·소비자 커뮤니케이션의 동시 점검이 과제로 꼽힌다.","source":"식품음료신문, 2026-09-09","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201157"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"5,937","unit":"USD/T","daily":0.41,"monthly":0.08,"yoy":-20.50,"comment":"9/9 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"설탕 (Sugar #11)","price":"18.35","unit":"USd/Lb","daily":1.38,"monthly":11.41,"yoy":15.51,"comment":"9/9 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"WTI 원유","price":"96.68","unit":"USD/BBL","daily":3.92,"monthly":17.71,"yoy":51.84,"comment":"9/9 TradingEconomics WTI 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"291.15","unit":"USd/Lb","daily":-0.05,"monthly":-7.25,"yoy":-26.74,"comment":"9/9 ICE Coffee C 연동 확인치"},
+    {"name":"밀 (CBOT)","price":"708.71","unit":"USd/Bu","daily":-2.95,"monthly":10.65,"yoy":37.61,"comment":"9/9 TradingEconomics CBOT 추종 CFD 확인치"}
+  ],
+  "exchange":{"usdkrw":"1,336.00","jpykrw_per_100":"0","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "fao_insight":"원자재는 모두 9월 9일 TradingEconomics 벤치마크 추종 CFD 기준 확인치이며 공식 거래소 정산가와 소폭 다를 수 있다. USD/KRW는 KoreaRoute의 9월 9일 약 1,336원 확인치를 사용했다. 동일 기준의 7·30·60일·전년 비교값은 이번 수집에서 검증되지 않아 대시보드 비교율은 0으로 표기했다.",
+  "insights":[
+    {"rank":1,"title":"추석 판촉은 가격·물량 관리가 동시 과제","body":"농축산물 할인 지원 확대와 가공식품 할인은 명절 수요를 겨냥한 단기 판매 기회다. 참여 기업은 할인 종료 후의 정상가격 전환과 공급 안정까지 함께 설계할 필요가 있다."},
+    {"rank":2,"title":"저당·기능성은 원료 솔루션 경쟁으로 확장","body":"저당과 식이섬유 수요는 완제품 마케팅을 넘어 맛·물성·원가를 동시에 맞추는 소재 역량의 경쟁으로 이동하고 있다. 연구개발 단계에서 원료 적용성과 표시 근거를 병행 검토해야 한다."},
+    {"rank":3,"title":"수출은 체험형 현지화와 유통 연결이 핵심","body":"파리 행사와 상주 농특산물 유통 협력은 소비자 체험과 실제 판로 연결을 함께 보여준다. K-푸드 수출은 일회성 홍보보다 현지 재구매 채널과 안정적 공급망 확보가 중요하다."}
+  ],
+  "keywords":[
+    {"keyword":"추석 할인","trend":"up","comment":"농축산물·가공식품 할인과 성수품 공급 확대"},
+    {"keyword":"저당·기능성 소재","trend":"up","comment":"알룰로스·식이섬유 적용 솔루션 수요"},
+    {"keyword":"K-푸드 체험 수출","trend":"up","comment":"파리 현지 체험형 홍보와 재구매 채널 확대"},
+    {"keyword":"지역농산물 유통","trend":"up","comment":"지자체·유통사·식자재사의 판로 협력"},
+    {"keyword":"GMO 표시 대응","trend":"up","comment":"표시 대상·범위와 원료 관리 점검 필요"}
+  ],
+  "foodrain_mentions":[]
+}
