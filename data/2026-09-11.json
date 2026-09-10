@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-11",
+  "weekday":"금요일",
+  "issues":[
+    {"rank":1,"title":"대한민국 식품제조 CEO 미래포럼 출범","body":"기후위기와 글로벌 무역장벽 대응, K-푸드 도약을 주제로 식품제조업 경영진 포럼이 출범했다. 산업 차원의 공급망·수출 대응 논의가 본격화될 전망이다.","source":"식품음료신문, 2026-09-10","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201171"},
+    {"rank":2,"title":"온라인 글루텐프리 부당광고 20건 적발","body":"온라인상 글루텐프리 표시와 관련한 거짓·과장 광고 20건이 적발됐다. 기능성·알레르겐 관련 표현의 근거와 표시 문구 점검 필요성이 커졌다.","source":"식품음료신문, 2026-09-10","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201168"},
+    {"rank":3,"title":"CJ 햇반 백미, 뉴욕 타임스퀘어 캠페인","body":"CJ가 햇반 백미를 미국 뉴욕 타임스퀘어 전광판에서 알렸다. 북미 즉석밥 시장에서 K-푸드 인지도와 현지 소비자 접점을 넓히는 활동이다.","source":"식품음료신문, 2026-09-10","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201167"},
+    {"rank":4,"title":"롯데월드몰에 나폴리 미식 레스토랑 신규 개점","body":"더 키친 일뽀르노가 잠실 롯데월드몰에 매장을 열었다. 복합쇼핑몰에서 정통 이탈리안 콘셉트로 외식 경험 수요를 겨냥한다.","source":"식품음료신문, 2026-09-10","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201162"},
+    {"rank":5,"title":"롯데칠성·오뚜기, 제로·면류 신제품 출시","body":"롯데칠성음료는 핫식스 더킹 프로즌 블루 제로를, 오뚜기는 크림진짬뽕을 선보였다. 제로 음료와 간편 면류의 세분화된 신제품 경쟁이 이어지고 있다.","source":"식품음료신문, 2026-09-10","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201163"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"6,188","unit":"USD/T","daily":0.23,"monthly":5.20,"yoy":-16.17,"comment":"9/4 TradingEconomics 벤치마크 추종 CFD 확인치; 최신 거래일 지연"},
+    {"name":"설탕 (Sugar #11)","price":"15.34","unit":"USd/Lb","daily":0,"monthly":1.24,"yoy":-4.26,"comment":"TradingEconomics 벤치마크 추종 CFD; 검색값의 거래일 미확인"},
+    {"name":"WTI 원유","price":"92.07","unit":"USD/BBL","daily":0.65,"monthly":12.11,"yoy":0,"comment":"9/7 TradingEconomics WTI 추종 CFD 확인치; 전년비 미확인"},
+    {"name":"아라비카 커피","price":"292.05","unit":"USd/Lb","daily":0.26,"monthly":-6.96,"yoy":-26.52,"comment":"9/9 TradingEconomics ICE Coffee C 연동 확인치"},
+    {"name":"밀 (CBOT)","price":"716.00","unit":"USd/Bu","daily":-2.72,"monthly":11.48,"yoy":0,"comment":"9/4 TradingEconomics 시카고 밀 추종 CFD 확인치; 전년비 미확인"}
+  ],
+  "exchange":{"usdkrw":"1,344.74","jpykrw_per_100":"876.70","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "fao_insight":"원자재는 TradingEconomics 벤치마크 추종 CFD의 검색 확인치다. 아라비카만 9월 9일 기준이며 코코아·WTI·밀은 각각 9월 4일·7일·4일 기준으로 지연돼 있다. 설탕 거래일과 USD/KRW 비교기간 변화율은 검증되지 않아 0으로 표기했다. USD/KRW는 XE의 9월 7일 1,344.74원 확인치이며, 100엔당 876.70원은 서로 다른 기준일의 USD/KRW·USD/JPY를 교차한 참고 추정치다.",
+  "insights":[
+    {"rank":1,"title":"표시 문구는 제품 혁신만큼 중요한 리스크 관리","body":"글루텐프리 부당광고 적발은 건강·알레르겐 메시지의 표현 기준을 다시 확인시킨다. 저당·기능성·프리 제품은 근거 자료, 원료 관리, 온라인 판매 문구를 출시 전 함께 검토해야 한다."},
+    {"rank":2,"title":"K-푸드 해외 확장은 인지도에서 재구매 설계로","body":"햇반의 뉴욕 현지 캠페인은 즉석밥을 현지 식사 조합에 연결하는 접점 확대 사례다. 홍보 이후에는 현지 유통 입점, 가격대, 조리 편의성까지 재구매 전환을 설계해야 한다."},
+    {"rank":3,"title":"원가 판단은 가격보다 데이터 신선도 관리가 우선","body":"코코아·설탕·원유 일부 지표가 최신 거래일과 차이가 있어 당일 원가 의사결정에 단독 사용하기 어렵다. 구매팀은 계약가격과 현물·선물 기준일을 분리하고, 변동성이 큰 품목은 재확인 주기를 짧게 가져갈 필요가 있다."}
+  ],
+  "keywords":[
+    {"keyword":"글루텐프리 표시","trend":"up","comment":"온라인 부당광고 적발로 근거·표시 관리 중요성 확대"},
+    {"keyword":"K-즉석밥","trend":"up","comment":"미국 현지 옥외 캠페인으로 소비자 접점 확대"},
+    {"keyword":"제로 음료","trend":"up","comment":"무설탕 음료 신제품 출시 지속"},
+    {"keyword":"간편 면류","trend":"up","comment":"크림 풍미 등 세분화된 간편식 신제품 경쟁"},
+    {"keyword":"미식 외식 경험","trend":"flat","comment":"복합쇼핑몰 중심의 콘셉트형 외식 매장 출점"}
+  ],
+  "foodrain_mentions":[]
+}
