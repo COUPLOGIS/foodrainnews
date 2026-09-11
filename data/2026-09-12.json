@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-12",
+  "weekday":"토요일",
+  "issues":[
+    {"rank":1,"title":"식품산업협회·에너지공단, 식품기업 ESG 이행 지원 협약","body":"한국식품산업협회와 한국에너지공단이 식품 제조·생산시설의 태양광 보급과 에너지 효율 개선을 지원하는 협약을 맺었다. 에너지 비용·탄소배출 관리와 K-푸드 수출 대응이 핵심이다.","source":"식품음료신문, 2026-09-11","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201176"},
+    {"rank":2,"title":"추석 선물세트, 실속형부터 프리미엄·미식 맞춤형까지 확대","body":"식품업계가 추석을 앞두고 가격대와 취향을 세분화한 선물 구성을 제안하고 있다. 프리미엄·미식 수요와 실속형 수요를 함께 겨냥하는 전략이다.","source":"식품음료신문, 2026-09-11","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201142"},
+    {"rank":3,"title":"가을·추석 시즌 식음료 신제품 출시 이어져","body":"스타벅스의 카스텔라 고구마 라떼 등 계절성을 반영한 식음료 신제품이 9월 11일 공개됐다. 시즌 한정 메뉴와 선물·간식 수요를 겨냥한 제품 경쟁이 이어진다.","source":"식품음료신문, 2026-09-11","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201175"},
+    {"rank":4,"title":"롯데칠성음료, 건설현장 온열질환 예방 캠페인 진행","body":"롯데칠성음료가 SK에코플랜트 건설현장에서 온열질환 예방 캠페인을 마쳤다. 기업의 현장 안전·사회책임 활동이 음료 브랜드 접점으로 활용됐다.","source":"식품음료신문, 2026-09-11","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201174"},
+    {"rank":5,"title":"셀렉스, 추석 맞이 근력단백질 특별전 전개","body":"매일유업 셀렉스가 현대홈쇼핑을 통해 근력단백질 특별전을 진행한다. 명절 선물·홈쇼핑 채널에서 건강기능 지향 단백질 제품의 수요를 공략한다.","source":"식품음료신문, 2026-09-11","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201172"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"6,188","unit":"USD/T","daily":0.23,"monthly":5.20,"yoy":-16.17,"comment":"9/4 TradingEconomics 벤치마크 추종 CFD 확인치; 9/11 기준 7일 지연"},
+    {"name":"설탕 (Sugar #11)","price":"18.01","unit":"USd/Lb","daily":-0.34,"monthly":18.87,"yoy":15.82,"comment":"9/4 TradingEconomics 벤치마크 추종 CFD 확인치; 9/11 기준 7일 지연"},
+    {"name":"WTI 원유","price":"102.98","unit":"USD/BBL","daily":0.48,"monthly":23.66,"yoy":64.26,"comment":"9/11 TradingEconomics WTI 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"284.07","unit":"USd/Lb","daily":-1.42,"monthly":-11.21,"yoy":-30.82,"comment":"9/11 TradingEconomics Coffee 추종 CFD 확인치"},
+    {"name":"밀 (CBOT)","price":"702.96","unit":"USd/Bu","daily":-2.80,"monthly":7.69,"yoy":34.28,"comment":"9/11 TradingEconomics Wheat 벤치마크 확인치"}
+  ],
+  "exchange":{"usdkrw":"1,341.53","jpykrw_per_100":"858.50","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "fao_insight":"WTI·아라비카·밀은 9월 11일 TradingEconomics 벤치마크 추종 CFD 확인치다. 코코아·설탕은 가격과 변화율을 함께 확인 가능한 가장 최근 레코드가 9월 4일로 7일 지연됐다. USD/KRW는 Forbes의 9월 11일 21:00 UTC 확인치이며, 비교기간 변화율은 동일 기준 일별 자료를 검증하지 못해 0으로 표기했다. 100엔당 원화는 USD/JPY 9월 6일 참고치 156.265를 적용한 추정값이다.",
+  "insights":[
+    {"rank":1,"title":"명절 수요는 가격대 이원화와 채널별 구성으로 대응","body":"실속형과 프리미엄·미식형 선물 수요가 동시에 제시되는 만큼, 동일 원료라도 용량·패키지·구성 차별화가 필요하다. 홈쇼핑은 건강 지향 단백질 제품의 묶음·선물 제안에 적합한 채널이다."},
+    {"rank":2,"title":"에너지 효율 투자는 수출 대응의 원가·ESG 과제","body":"제조시설 에너지 효율과 재생에너지 전환은 비용 절감뿐 아니라 글로벌 거래처의 ESG 요구 대응 수단이다. 설비 투자 우선순위는 전력 사용량과 수출 고객 요구를 함께 기준으로 잡아야 한다."},
+    {"rank":3,"title":"원가 판단에는 시세 기준일 분리가 필요","body":"WTI는 9월 11일 자료지만 코코아·설탕은 9월 4일 확인치여서 단일 시점 비교에 한계가 있다. 구매·상품기획 부서는 계약가격, 현물·선물 기준일, 환율 기준일을 분리해 관리할 필요가 있다."}
+  ],
+  "keywords":[
+    {"keyword":"추석 선물세트","trend":"up","comment":"실속형과 프리미엄·미식형 맞춤 구성 확대"},
+    {"keyword":"시즌 한정 음료","trend":"up","comment":"고구마 등 가을 소재 식음료 신제품 출시"},
+    {"keyword":"근력단백질","trend":"up","comment":"명절 홈쇼핑 특별전으로 건강 지향 수요 공략"},
+    {"keyword":"식품 ESG","trend":"up","comment":"제조시설 태양광·효율 개선 협약 체결"},
+    {"keyword":"현장 안전 캠페인","trend":"flat","comment":"온열질환 예방 등 기업 사회책임 활동 지속"}
+  ],
+  "foodrain_mentions":[]
+}
