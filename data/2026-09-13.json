@@ -1,0 +1,27 @@
+{
+  "date":"2026-09-13",
+  "weekday":"일요일",
+  "issues":[],
+  "commodities":[
+    {"name":"코코아","price":"5,961","unit":"USD/T","daily":-0.02,"monthly":4.12,"yoy":-19.66,"comment":"9/11 TradingEconomics 벤치마크 추종 CFD 확인치"},
+    {"name":"설탕 (Sugar #11)","price":"18.01","unit":"USd/Lb","daily":-0.34,"monthly":18.87,"yoy":15.82,"comment":"9/4 확인치로 9/11 대비 7일 지연; 최신 일간 변화율 미확인"},
+    {"name":"WTI 원유","price":"99.99","unit":"USD/BBL","daily":-2.43,"monthly":20.08,"yoy":59.50,"comment":"9/11 TradingEconomics WTI 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"284.07","unit":"USd/Lb","daily":-1.42,"monthly":-11.21,"yoy":-30.82,"comment":"9/11 TradingEconomics Coffee 추종 CFD 확인치"},
+    {"name":"밀 (CBOT)","price":"702.96","unit":"USd/Bu","daily":-2.80,"monthly":7.69,"yoy":34.28,"comment":"9/11 TradingEconomics Wheat 벤치마크 확인치"}
+  ],
+  "exchange":{"usdkrw":"1,341.25","jpykrw_per_100":"858.30","d7_pct":-0.8,"d30_pct":-5.42,"d60_pct":-10.0,"yoy_pct":-3.72},
+  "fao_insight":"일요일 리포트는 직전 거래일인 9월 11일 기준이다. 코코아와 WTI는 해당 일자 TradingEconomics 벤치마크 추종 CFD 확인치다. 설탕은 9월 4일 확인치로 지연됐으며, 아라비카와 밀은 전일 리포트의 9월 11일 확인값을 이어 썼다. USD/KRW는 9월 11일 1,341.25원이며 7일과 60일 변화율, 100엔당 원화는 교차 출처 추정치다.",
+  "insights":[
+    {"rank":1,"title":"검증 가능한 업계 뉴스 공백, 원가 기준일 관리가 우선","body":"허용 기간인 9월 12일 00:00부터 13일 07:01 KST까지 원문 URL과 발행일을 함께 확인한 식품·외식 뉴스는 확보하지 못했다. 주말에는 신규 기사 수를 억지로 늘리기보다 거래일 기준과 데이터 지연 여부를 명확히 관리해야 한다."},
+    {"rank":2,"title":"코코아와 유가의 방향이 엇갈려 원가 바스켓 점검 필요","body":"코코아는 9월 11일 보합권이지만 WTI는 일간 2.43% 하락했다. 초콜릿·음료·외식 사업자는 원료와 물류비의 기준일이 다른 만큼 품목별 헤지와 납품단가 반영 시점을 분리해 점검할 필요가 있다."},
+    {"rank":3,"title":"원화 강세는 수입 원가에 완충 요인","body":"USD/KRW는 한 달 기준 5.42% 하락한 것으로 확인돼 달러 결제 원료·포장재의 원화 환산 부담을 일부 낮춘다. 다만 7일·60일 변화율은 교차 출처 추정치이므로 실제 계약 환율과 구분해야 한다."}
+  ],
+  "keywords":[
+    {"keyword":"단백질","trend":"up","comment":"일반 건강식보다 구체적 기능성 포지셔닝 강화"},
+    {"keyword":"식이섬유·파이버맥싱","trend":"up","comment":"건강 관심이 단백질에서 식이섬유로 확장"},
+    {"keyword":"장 건강","trend":"up","comment":"소화·기능성 효익을 강조하는 수요"},
+    {"keyword":"인덜전스","trend":"down","comment":"상업 트렌드 지표에서 전년 대비 약세"},
+    {"keyword":"일반 건강식","trend":"down","comment":"포괄적 건강 표현보다 특정 기능성 주장 선호"}
+  ],
+  "foodrain_mentions":[]
+}
