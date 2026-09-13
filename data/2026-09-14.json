@@ -1,0 +1,35 @@
+{
+  "date":"2026-09-14",
+  "weekday":"월요일",
+  "issues":[
+    {
+      "rank":1,
+      "title":"미 외식업계, 가격 인상 피로와 예약 운영비 부담 동시 부각",
+      "body":"RestaurantNews.com은 외식 가격 인상에 대한 소비자 피로와 텍사스의 식당 폐업 증가 사례를 전했다. 노쇼 대응을 위한 선결제·취소 수수료·추첨식 예약 확산도 다뤘다.",
+      "source":"RestaurantNews.com, 2026-09-13",
+      "source_url":"https://www.restaurantnews.com/restaurant-news-bites-sacramentos-supper-clubs-restaurant-price-increases-the-state-with-the-most-restaurant-closures-and-more-091326/"
+    }
+  ],
+  "commodities":[
+    {"name":"코코아","price":"6,188","unit":"USD/T","daily":0.23,"monthly":5.2,"yoy":-16.17,"comment":"9/4 TradingEconomics CFD 확인치. 9/11 이후 갱신 지연으로 추정 표기"},
+    {"name":"설탕 (Sugar #11)","price":"18.01","unit":"USd/Lb","daily":-0.34,"monthly":18.87,"yoy":15.82,"comment":"9/4 TradingEconomics CFD 확인치. 최신 거래일 미반영으로 추정"},
+    {"name":"WTI 원유","price":"100.05","unit":"USD/BBL","daily":-2.37,"monthly":20.15,"yoy":59.59,"comment":"9/11 TradingEconomics WTI 추종 CFD 확인치"},
+    {"name":"아라비카 커피","price":"285.70","unit":"USd/Lb","daily":-0.85,"monthly":-10.7,"yoy":-30.43,"comment":"9/11 TradingEconomics Coffee 추종 CFD 확인치"},
+    {"name":"밀 (CBOT)","price":"707.00","unit":"USd/Bu","daily":-2.25,"monthly":8.31,"yoy":35.05,"comment":"9/11 TradingEconomics CFD와 USDA AMS 9월물 결제 교차 확인"}
+  ],
+  "exchange":{"usdkrw":"1,343.00","jpykrw_per_100":"875","d7_pct":-0.49,"d30_pct":-5.42,"d60_pct":-10.0,"yoy_pct":-3.72},
+  "fao_insight":"월요일 장 개장 전 기준으로 원자재는 직전 거래일 9월 11일 값을 우선 사용했다. 코코아·설탕은 9월 4일 소스 갱신치라 추정이며, USD/KRW 1,343원과 USD/JPY 153.495엔은 Wise 9월 14일 조회값이다. 30일·60일·전년 환율 변화율은 전일 리포트의 교차출처 추정치를 유지했다.",
+  "insights":[
+    {"rank":1,"title":"유가 급등이 물류 원가의 단기 상방 위험","body":"WTI는 9월 11일 기준 한 달 +20.15%, 전년 대비 +59.59%다. 외식·식품사는 유류할증과 냉장·배송비의 계약 반영 시점을 점검할 필요가 있다."},
+    {"rank":2,"title":"설탕은 높은 월간 상승률, 코코아는 데이터 지연 경계","body":"설탕의 한 달 변화율은 +18.87%로 제과·음료 원가 부담 신호다. 반면 코코아·설탕 수치는 9월 4일 확인치이므로 가격 협상에는 최신 거래소 호가를 별도 확인해야 한다."},
+    {"rank":3,"title":"외식 수요 방어에는 가격보다 예약·운영 경험도 중요","body":"미국 외식업계의 가격 피로와 노쇼 대응 사례는 한국 외식업에도 참고점이다. 예약금·취소 규정 도입은 고객 커뮤니케이션과 재방문 보상 설계를 함께 갖춰야 한다."}
+  ],
+  "keywords":[
+    {"keyword":"행사상품·가성비 식사","trend":"up","comment":"9/13 편의점 비교 데이터에서 가성비 한 끼 대체 상품 관심 상승"},
+    {"keyword":"신제품 식품","trend":"up","comment":"9/13 비교 TOP10에서 신규 진입 조합 확인"},
+    {"keyword":"브랜드 컬래버레이션","trend":"up","comment":"협업 신제품 중심의 상품 비교 수요 증가"},
+    {"keyword":"저당·영양성분 비교","trend":"up","comment":"가격과 당 함량을 함께 따지는 비교 행동 확대"},
+    {"keyword":"편의점 기타 카테고리","trend":"up","comment":"9/13 비교 TOP10에서 관련 상품 비중 확대"}
+  ],
+  "foodrain_mentions":[]
+}
