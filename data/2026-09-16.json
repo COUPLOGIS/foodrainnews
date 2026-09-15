@@ -1,0 +1,33 @@
+{
+  "date":"2026-09-16",
+  "weekday":"수요일",
+  "issues":[
+    {"rank":1,"title":"세계김치연구소·국립식량과학원, 발효 기반 미래식품 육성 협력","body":"양 기관이 식량작물과 발효과학을 접목한 미래식품 육성을 위해 협력하기로 했다. 발효 기술의 원료 다변화와 고부가가치화가 핵심 의제다.","source":"식품음료신문, 2026-09-15","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201200"},
+    {"rank":2,"title":"장류·소스·냉동 간편식, 미국 식자재 시장 공략 확대","body":"장류·소스류와 냉동 간편식을 중심으로 K-식자재의 미국 시장 공략이 본격화되고 있다. 현지 유통망과 B2B 식자재 채널 대응이 관건이다.","source":"식품음료신문, 2026-09-15","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201197"},
+    {"rank":3,"title":"콩·발효식품 섭취와 치매 위험 연구 주목","body":"세계 치매의 날을 앞두고 콩과 발효식품의 꾸준한 섭취가 치매 위험을 낮출 수 있다는 학계 연구가 조명됐다. 건강지향 식품의 근거 기반 커뮤니케이션 수요가 이어질 전망이다.","source":"식품음료신문, 2026-09-15","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201196"},
+    {"rank":4,"title":"남양유업, 카자흐스탄 K-밀크 페스티벌 참가","body":"남양유업이 카자흐스탄 K-밀크 페스티벌에 참여해 중앙아시아 시장 공략을 강화한다. 유제품의 현지 체험과 수출 접점 확대 사례다.","source":"식품음료신문, 2026-09-15","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201195"},
+    {"rank":5,"title":"추석 앞두고 간편식·베이커리·커피 신제품 출시","body":"냉동 간편식, 떡볶이, 베이커리, 피자, 커피 디저트 등 다양한 신제품이 출시됐다. 명절 전 간편 조리와 시즌성 맛 수요를 겨냥한 흐름이다.","source":"식품음료신문, 2026-09-15","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201194"}
+  ],
+  "commodities":[
+    {"name":"코코아","price":"5,921.84","unit":"USD/T","daily":-4.3,"monthly":-0.17,"yoy":-18.54,"comment":"TradingEconomics CFD 9/8 확인값. 9/16 종가 미확인으로 직전 확인치"},
+    {"name":"설탕 (Sugar #11)","price":"18.34","unit":"USd/Lb","daily":1.49,"monthly":11.35,"yoy":15.78,"comment":"TradingEconomics CFD 9/8 확인값. 9/16 종가 미확인으로 직전 확인치"},
+    {"name":"WTI 원유","price":"94.42","unit":"USD/BBL","daily":1.49,"monthly":14.96,"yoy":48.29,"comment":"TradingEconomics WTI 추종 CFD 9/9 확인값. 9/16 종가 미확인"},
+    {"name":"아라비카 커피","price":"292.88","unit":"USd/Lb","daily":-0.92,"monthly":-6.7,"yoy":-26.37,"comment":"TradingEconomics Coffee CFD 9/7 확인값. 9/16 종가 미확인"},
+    {"name":"밀 (CBOT 참고)","price":"739.37","unit":"USd/Bu","daily":3.26,"monthly":15.44,"yoy":42.12,"comment":"TradingEconomics 일반 참고 CFD 9/8 확인값. 공식 CBOT 정산가 아님"}
+  ],
+  "exchange":{"usdkrw":"1,341.90","jpykrw_per_100":"미확인","d7_pct":-0.49,"d30_pct":-5.42,"d60_pct":-10.0,"yoy_pct":-3.72},
+  "fao_insight":"USD/KRW는 Investing.com 검색 결과의 9/16 현재가 1,341.90원과 전일 종가 1,344.63원을 반영했다. 7·30·60일 및 전년 변화율은 당일 동일 기준 시계열을 검증하지 못해 9/15 리포트 추정치를 유지했다. 원자재는 9/7~9 확인 거래일 값이며 최신 9/16 종가가 아니다.",
+  "insights":[
+    {"rank":1,"title":"발효는 식품소재 차별화의 공통분모","body":"김치·콩 발효 연구와 미국 장류·소스 수요는 발효가 건강성과 맛, 수출 제품 차별화를 연결하는 소재임을 보여준다. 원료별 발효 스토리와 품질 표준화가 필요하다."},
+    {"rank":2,"title":"미국 공략은 품목보다 채널 설계가 중요","body":"냉동 간편식과 소스는 현지 소매뿐 아니라 식자재·외식 B2B 채널에서 반복 구매를 만들어야 한다. 규격, 보관, 메뉴 활용성을 함께 제안할 필요가 있다."},
+    {"rank":3,"title":"원가 지표는 상승 압력과 완화 요인이 혼재","body":"확인 시점 기준 설탕·WTI·밀은 월간 상승, 코코아·커피는 하락 흐름이다. 실제 조달은 품목별 계약 시점과 환율을 분리해 점검해야 한다."}
+  ],
+  "keywords":[
+    {"keyword":"발효식품","trend":"up","comment":"미래식품 협력 및 건강 연구 주목"},
+    {"keyword":"K-식자재 수출","trend":"up","comment":"미국 식자재 시장 공략 확대"},
+    {"keyword":"냉동 간편식","trend":"up","comment":"수출과 명절 전 신제품 양쪽에서 노출"},
+    {"keyword":"고단백","trend":"up","comment":"건강 관련 소비 관찰 키워드"},
+    {"keyword":"저당·제로슈거","trend":"flat","comment":"정량 검색지수 미확보, 지속 모니터링"}
+  ],
+  "foodrain_mentions":[]
+}
