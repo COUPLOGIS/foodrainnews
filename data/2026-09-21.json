@@ -1,0 +1,30 @@
+{
+  "date":"2026-09-21",
+  "weekday":"월요일",
+  "commodities":[
+    {"name":"코코아","price":"5,327","unit":"USD/T","daily":-7.71,"monthly":-11.67,"yoy":-26.45,"comment":"TradingEconomics CFD 벤치마크, 9/18 최신 확인 거래일. 주말 후 갱신 전 수치"},
+    {"name":"설탕","price":"17.36","unit":"US¢/Lb","daily":-0.34,"monthly":-1.08,"yoy":12.29,"comment":"TradingEconomics CFD 벤치마크, 9/18 최신 확인 거래일"},
+    {"name":"WTI 원유","price":"100.30","unit":"USD/BBL","daily":-1.58,"monthly":18.85,"yoy":60.74,"comment":"TradingEconomics WTI 추적 CFD 벤치마크, 9/18 최신 확인 거래일"},
+    {"name":"아라비카 커피","price":"280.50","unit":"US¢/Lb","daily":1.45,"monthly":-14.53,"yoy":-23.47,"comment":"TradingEconomics ICE 아라비카 추적 CFD 벤치마크, 9/18 최신 확인 거래일"},
+    {"name":"밀","price":"714.25","unit":"US¢/Bu","daily":-1.75,"monthly":4.81,"yoy":39.84,"comment":"TradingEconomics 밀 CFD 벤치마크. 9/20 표기는 휴장일 캐시 가능성이 있어 실제 신규 CBOT 정산으로는 미검증"}
+  ],
+  "exchange":{"usdkrw":"1,341.18","jpykrw_per_100":"미확인","d7_pct":-0.30,"d30_pct":-3.61,"d60_pct":-9.17,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"포항 푸드테크 연구지원센터 준공, 푸드로봇 상용화 지원","body":"대구경북경제자유구역청은 포항융합기술산업지구의 푸드테크연구지원센터 운영 시작을 알렸다. 센터는 푸드로봇 등 미래 식품기술의 개발과 상용화를 지원한다.","source":"경북매일, 2026-09-20","source_url":"https://www.kbmaeil.com/article/20260920500491"},
+    {"rank":2,"title":"농협, 미국 현지 계열사 점검하며 농식품 수출 확대 논의","body":"강호동 농협중앙회장이 로스앤젤레스 범농협 계열사를 방문해 사업 현황을 점검했다. 미국 시장 변화 대응과 농식품 수출 확대 방안을 논의했다.","source":"더퍼블릭, 2026-09-20","source_url":"https://www.thepublic.kr/news/articleView.html?idxno=319394"}
+  ],
+  "fao_insight":"월요일 리포트다. 원자재는 주말 직전인 9/18 거래일의 TradingEconomics CFD 벤치마크를 사용했다. USD/KRW는 XE 미드마켓 1,341.18원 기준이며 1년 변화율과 JPY/KRW는 동일 기준 수치를 확인하지 못해 각각 0과 미확인으로 표시했다.",
+  "insights":[
+    {"rank":1,"title":"푸드로봇 실증 인프라가 외식 자동화 도입의 관문","body":"포항 연구 거점은 제조·외식 현장의 조리 자동화와 검증 비용을 낮출 수 있다. 운영 인력 부족 업장은 표준 메뉴와 위생 데이터 확보 가능성을 우선 검토할 만하다."},
+    {"rank":2,"title":"K-푸드 수출은 현지 계열사 기반의 운영 역량이 핵심","body":"농협의 미국 현장 점검은 단순 판촉보다 현지 유통·종자·사료 등 밸류체인 대응에 초점이 있다. 수출 기업은 인증과 유통 파트너의 재고·판매 데이터 연계를 강화할 필요가 있다."},
+    {"rank":3,"title":"원유 고가가 물류와 포장 원가를 압박","body":"WTI 벤치마크는 배럴당 100달러대다. 환율 하락은 수입 원료 부담을 일부 덜 수 있으나 에너지 민감 SKU는 운송·용기 단가를 별도 점검해야 한다."}
+  ],
+  "keywords":[
+    {"keyword":"고단백·기능성 간식","trend":"up","comment":"단백질·식이섬유·장 건강 기능성 수요 신호"},
+    {"keyword":"식이섬유·장 건강","trend":"up","comment":"발효와 기능성 원료 중심의 상품 기획 확대"},
+    {"keyword":"저당·저염·혈당관리","trend":"up","comment":"명확한 영양 근거를 갖춘 건강형 SKU 선호"},
+    {"keyword":"건강형 HMR","trend":"up","comment":"간편성에 영양 보강을 결합한 식사 수요"},
+    {"keyword":"무차별 건강 표방 간식","trend":"down","comment":"구체적 기능 근거 없는 포괄적 건강 메시지는 약세"}
+  ],
+  "foodrain_mentions":[]
+}
