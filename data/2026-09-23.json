@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-23",
+  "weekday": "수요일",
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "5,418.14",
+      "unit": "USD/T",
+      "daily": 1.25,
+      "monthly": -8.86,
+      "yoy": -22.51,
+      "comment": "TradingEconomics CFD 벤치마크, 2026-09-22 거래일 확인"
+    },
+    {
+      "name": "설탕",
+      "price": "18.56",
+      "unit": "US¢/Lb",
+      "daily": 0.92,
+      "monthly": 5.16,
+      "yoy": 18.52,
+      "comment": "TradingEconomics ICE No.11 추적 CFD, 2026-09-22 거래일 확인"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "89.87",
+      "unit": "USD/BBL",
+      "daily": -2.7,
+      "monthly": 5.72,
+      "yoy": 41.73,
+      "comment": "TradingEconomics WTI 추적 CFD, 2026-09-22 거래일 확인; Convex 현물 인용과 가격 수준 교차 확인"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "271.77",
+      "unit": "US¢/Lb",
+      "daily": -1.68,
+      "monthly": -20.45,
+      "yoy": -22.39,
+      "comment": "TradingEconomics ICE Coffee C 추적 CFD, 2026-09-22 거래일 확인"
+    },
+    {
+      "name": "밀",
+      "price": "716.07",
+      "unit": "US¢/Bu",
+      "daily": -1.47,
+      "monthly": 5.03,
+      "yoy": 37.57,
+      "comment": "TradingEconomics CBOT SRW 밀 추적 CFD, 2026-09-22 거래일 확인"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,389.00",
+    "jpykrw_per_100": "미확인",
+    "d7_pct": 0,
+    "d30_pct": -0.01,
+    "d60_pct": 0,
+    "yoy_pct": -0.63
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "title": "웅진식품, 음료 약 20종 가격 평균 7% 인상 예고",
+      "body": "웅진식품은 10월 1일부터 하늘보리·아침햇살 등을 포함한 약 20개 음료 품목의 가격을 평균 7% 올릴 계획이다. 편의점 판매가부터 인상이 적용될 예정이다.",
+      "source": "조선비즈, 2026-09-22",
+      "source_url": "https://biz.chosun.com/distribution/food/2026/09/22/5M5EHSWW6RENPPGHTTMCEOOCZI/"
+    },
+    {
+      "rank": 2,
+      "title": "CJ제일제당, 뉴욕에 K-증류주 자리 출시",
+      "body": "CJ제일제당은 프리미엄 증류주 브랜드 자리를 뉴욕에 출시하고 현지 한식 다이닝과 바 등으로 판매처를 확대할 계획이다. K-푸드와의 페어링을 통한 미식 경험 확산을 목표로 제시했다.",
+      "source": "연합뉴스, 2026-09-22",
+      "source_url": "https://www.yna.co.kr/view/AKR20260922034600030"
+    },
+    {
+      "rank": 3,
+      "title": "동원산업·부산시·수협, 국산 참다랑어 팝업 추진",
+      "body": "동원산업은 부산시·대형선망수협과 협력해 9월 26일부터 10월 1일까지 현대백화점 판교점에서 K-수산물 팝업을 연다. 국내산 참다랑어를 매일 현장에서 해체해 판매한다.",
+      "source": "연합뉴스, 2026-09-22",
+      "source_url": "https://www.yna.co.kr/view/AKR20260922029500030"
+    },
+    {
+      "rank": 4,
+      "title": "북미 현지 생산 확대, K-푸드 경쟁의 새 변수",
+      "body": "기꼬만·닛신·아지노모토 등 일본 식품기업이 북미 현지 생산을 확대하면서 현지 공장을 기반으로 성장해 온 K-푸드 기업과의 경쟁이 부각됐다. 현지 생산·물류·제품 현지화가 핵심 변수로 제시됐다.",
+      "source": "조선비즈, 2026-09-22",
+      "source_url": "https://biz.chosun.com/distribution/food/2026/09/22/RDNFGR5YQJGT5FUQ6D7VBYP4BY/"
+    },
+    {
+      "rank": 5,
+      "title": "이랜드이츠, 가성비 뷔페 성장으로 외식 확대 기대",
+      "body": "이랜드이츠는 애슐리퀸즈 성장에 힘입어 지난해 매출 5,685억원과 영업이익 450억원을 기록했다. 가격 경쟁력과 통합 식자재 조달이 성장 배경으로 언급됐다.",
+      "source": "쿠키뉴스, 2026-09-22",
+      "source_url": "https://m.kukinews.com/article/view/kuk202609160158"
+    }
+  ],
+  "fao_insight": "원자재는 모두 9월 22일 TradingEconomics CFD 벤치마크로 가격·일간·월간·전년 변동률을 확인했다. USD/KRW는 9월 18일 TradingEconomics가 보도한 1,389원 수준이며, 30일 -0.01%·전년 -0.63%만 동일 출처로 확인됐다. 7일·60일 변화율의 0은 대시보드 숫자 필수 스키마를 위한 미확인 표기값으로 해석하지 않는다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "음료 가격 인상은 편의점 판가와 대체재 경쟁을 자극",
+      "body": "10월 인상 적용 전 판촉·묶음판매 수요가 앞당겨질 수 있다. 제조사와 유통사는 PB·저가 대체재와의 가격 간격, 행사 비용을 함께 점검할 필요가 있다."
+    },
+    {
+      "rank": 2,
+      "title": "K-푸드 수출은 제품에서 미식 경험 포트폴리오로 확장",
+      "body": "증류주와 한식 다이닝의 결합은 식품 단품 수출보다 높은 객단가와 브랜드 경험을 만들 수 있다. 북미에서는 현지 생산능력·물류·현지화가 경쟁력의 동반 조건이다."
+    },
+    {
+      "rank": 3,
+      "title": "원가 리스크는 밀·설탕 상승과 에너지 급락을 분리해 관리",
+      "body": "밀과 설탕의 전년 상승폭은 여전히 크지만 WTI는 전일 하락했다. 베이커리·음료·외식은 원료와 물류비의 상반된 움직임을 품목별 계약과 판가에 분리 반영해야 한다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "식품",
+      "trend": "down",
+      "comment": "고물가로 실질 식품 소비 약세가 이어지는 신호"
+    },
+    {
+      "keyword": "외식",
+      "trend": "down",
+      "comment": "가격 민감도와 배달·외식 비용 부담이 지속"
+    },
+    {
+      "keyword": "디저트",
+      "trend": "up",
+      "comment": "카페 주문과 비주얼형 디저트 소비 접점이 확대"
+    },
+    {
+      "keyword": "건강식",
+      "trend": "up",
+      "comment": "저당·고단백 등 효익이 명확한 웰니스 제품 선호"
+    },
+    {
+      "keyword": "간편식",
+      "trend": "up",
+      "comment": "1인가구와 외식비 부담에 따른 고품질 HMR 수요"
+    }
+  ],
+  "foodrain_mentions": []
+}
