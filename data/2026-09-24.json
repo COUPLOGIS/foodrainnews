@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-24",
+  "weekday": "목요일",
+  "commodities": [
+    {
+      "name": "코코아",
+      "price": "5,518.14",
+      "unit": "USD/T",
+      "daily": 2.15,
+      "monthly": -7.18,
+      "yoy": -21.71,
+      "comment": "TradingEconomics CFD 벤치마크, 2026-09-23 최신 거래일"
+    },
+    {
+      "name": "설탕",
+      "price": "18.83",
+      "unit": "US¢/Lb",
+      "daily": 1.45,
+      "monthly": 6.69,
+      "yoy": 20.4,
+      "comment": "TradingEconomics ICE No.11 추적 CFD, 2026-09-23 최신 거래일"
+    },
+    {
+      "name": "WTI 원유",
+      "price": "92.67",
+      "unit": "USD/BBL",
+      "daily": 2.37,
+      "monthly": 9.01,
+      "yoy": 42.59,
+      "comment": "TradingEconomics WTI 추적 CFD, 2026-09-23 거래일; 외부 지연시세와 교차 확인"
+    },
+    {
+      "name": "아라비카 커피",
+      "price": "274.95",
+      "unit": "US¢/Lb",
+      "daily": 0.97,
+      "monthly": -19.52,
+      "yoy": -25.23,
+      "comment": "TradingEconomics ICE Coffee C 추적 CFD, 2026-09-23 최신 거래일"
+    },
+    {
+      "name": "밀",
+      "price": "707.23",
+      "unit": "US¢/Bu",
+      "daily": -1.4,
+      "monthly": 3.74,
+      "yoy": 36.14,
+      "comment": "TradingEconomics CBOT SRW 밀 추적 CFD, 2026-09-23 최신 거래일"
+    }
+  ],
+  "exchange": {
+    "usdkrw": "1,356.84",
+    "jpykrw_per_100": "미확인",
+    "d7_pct": 0,
+    "d30_pct": 0,
+    "d60_pct": 0,
+    "yoy_pct": 0
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "title": "경북도, 푸드테크 전담 조직으로 식품한류 산업 육성 추진",
+      "body": "경상북도는 K-푸드 세계화와 미래 식품산업 육성을 위해 전담 조직을 신설하고 지역 농축수임산물과 첨단기술을 연계하는 협력 기반을 추진한다.",
+      "source": "국제뉴스, 2026-09-24",
+      "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3705157"
+    },
+    {
+      "rank": 2,
+      "title": "롯데웰푸드, 군위 사과 활용 과자 15종 출시",
+      "body": "롯데웰푸드는 군위 사과를 활용한 과자 15종을 선보이며 지역 특산물 기반 상생 프로젝트를 이어간다. 지역 원료를 제품화하는 사례다.",
+      "source": "식품음료신문, 2026-09-23",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201262"
+    },
+    {
+      "rank": 3,
+      "title": "농심, 대한항공 라운지에 라면 라이브러리 제품 단독 공급",
+      "body": "농심은 대한항공 라운지에 라면 라이브러리 제품을 단독 공급한다. 프리미엄 이동 경험을 활용한 브랜드 접점 확대 사례다.",
+      "source": "식품음료신문, 2026-09-23",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201257"
+    },
+    {
+      "rank": 4,
+      "title": "식품외식업계, 추석 귀성길과 식단 관리 수요 대응",
+      "body": "식품외식업계가 추석을 앞두고 귀성길 안전, 외식, 식단 관리 수요를 겨냥한 활동을 전개하고 있다. 명절 직전 채널별 판촉 경쟁이 예상된다.",
+      "source": "식품음료신문, 2026-09-23",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201259"
+    },
+    {
+      "rank": 5,
+      "title": "식중독균 99.9% 이상 제거 과일 안전 기술 소개",
+      "body": "과일 표면의 식중독균을 99.9% 이상 제거하는 안전 기술이 소개됐다. 신선식품의 위생 관리와 소비자 신뢰 확보가 핵심 과제로 부각된다.",
+      "source": "식품음료신문, 2026-09-23",
+      "source_url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201263"
+    }
+  ],
+  "fao_insight": "원자재는 모두 2026-09-23 TradingEconomics CFD 최신 거래일 기준이다. 설탕과 WTI는 일간 및 월간 상승으로 제조원가와 물류비 부담을 높이는 반면 코코아와 아라비카는 월간 약세다. USD/KRW는 9월 24일 1,356.84원으로 확인했으나 동일 출처의 7일·30일·60일·전년 비교값은 검증하지 못해 대시보드 숫자 필수값 0은 변화 없음의 사실 주장으로 해석하지 않는다.",
+  "insights": [
+    {
+      "rank": 1,
+      "title": "명절 수요는 가격보다 상황별 상품 구성 경쟁",
+      "body": "추석 직전에는 귀성·선물·간편식 수요가 동시에 움직인다. 편의점과 외식업체는 소용량, 이동 중 취식, 식단관리 상품을 구분해 재고와 판촉을 설계할 필요가 있다."
+    },
+    {
+      "rank": 2,
+      "title": "설탕과 에너지 비용의 동반 상승에 음료·베이커리 주의",
+      "body": "설탕의 월간 상승과 WTI 강세가 포장음료, 디저트, 외식 물류비에 함께 압력을 줄 수 있다. 원료 계약단가와 판촉 할인 폭을 분리해 점검해야 한다."
+    },
+    {
+      "rank": 3,
+      "title": "지역 원료와 푸드테크가 차별화의 결합점",
+      "body": "군위 사과 제품화와 경북 푸드테크 육성은 지역 원료의 스토리텔링을 기술·유통과 연결하는 흐름이다. 지역 한정 제품은 검증 후 상시 SKU와 수출형 상품으로 확장할 여지가 있다."
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "온라인 식품 구매",
+      "trend": "up",
+      "comment": "온라인 식품 거래 비중 확대 흐름이 이어져 명절 배송·예약 수요 대응이 중요"
+    },
+    {
+      "keyword": "간편식",
+      "trend": "up",
+      "comment": "시간 절약과 명절 이동 수요가 HMR과 즉석식품의 선택을 뒷받침"
+    },
+    {
+      "keyword": "건강기능식품",
+      "trend": "up",
+      "comment": "개인화 건강관리와 효익이 명확한 제품 중심의 수요가 유지"
+    },
+    {
+      "keyword": "친환경 가치소비",
+      "trend": "up",
+      "comment": "건강·안전·지속가능성을 함께 고려하는 식품 구매 기준이 확대"
+    },
+    {
+      "keyword": "외식 지출",
+      "trend": "down",
+      "comment": "고물가와 소비심리 둔화로 가격 민감도가 높은 상태"
+    }
+  ],
+  "foodrain_mentions": []
+}
