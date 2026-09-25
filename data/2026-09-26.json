@@ -1,0 +1,30 @@
+{
+  "date":"2026-09-26",
+  "weekday":"토요일",
+  "commodities":[
+    {"name":"코코아","price":"5,600.17","unit":"USD/T","daily":0.18,"monthly":-3.96,"yoy":-18.93,"comment":"Trading Economics CFD, 2026-09-25 금요일 기준"},
+    {"name":"설탕","price":"18.52","unit":"US¢/Lb","daily":-0.48,"monthly":5.29,"yoy":13.07,"comment":"Trading Economics CFD, 2026-09-25 금요일 기준"},
+    {"name":"WTI 원유","price":"93.59","unit":"USD/BBL","daily":-1.08,"monthly":13.81,"yoy":42.4,"comment":"Trading Economics Crude Oil CFD; 개별 WTI 월물 공식 종가가 아닌 지표 스냅샷, 2026-09-25"},
+    {"name":"아라비카 커피","price":"278.16","unit":"US¢/Lb","daily":1.02,"monthly":-13.66,"yoy":-26.42,"comment":"Trading Economics Coffee CFD; 아라비카 특정 월물은 미확인, 2026-09-25"},
+    {"name":"밀","price":"703.73","unit":"US¢/Bu","daily":-0.46,"monthly":-3.66,"yoy":35.4,"comment":"Trading Economics Wheat CFD; CBOT 특정 월물 공식 정산가는 미확인, 2026-09-25"}
+  ],
+  "exchange":{"usdkrw":"1,386.04","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"식품업계, 소용량·초저가 상품 기획 확대","body":"다이소의 상반기 가공식품 매출이 전년 대비 30% 증가한 가운데 식품업계가 가격 부담을 낮춘 소용량·초저가 제품 기획을 확대하고 있다. 고물가 환경에서 가격 민감 소비자 대응이 핵심이다.","source":"조선비즈, 2026-09-25","source_url":"https://biz.chosun.com/distribution/food/2026/09/25/L26PB5GRSVFPPJIT32VX6RVEWM/"},
+    {"rank":2,"title":"태극당, 헤리티지 기반 글로벌 확장 전략 제시","body":"태극당 3세 경영진은 유행 추종보다 장기간 축적한 제품과 브랜드 정체성을 유지해 온 전략을 소개했다. K-헤리티지를 바탕으로 글로벌 확장을 추진한다는 방향도 제시했다.","source":"조선비즈, 2026-09-25","source_url":"https://biz.chosun.com/distribution/food/2026/09/25/Z4YMQFEZLRERJM3WHJPCLZFAUE/"},
+    {"rank":3,"title":"커피 시장, 커피믹스 방어와 캡슐 확장 투트랙","body":"분말커피 시장이 전년 대비 5.7% 감소한 상황에서 업계는 아이스·고단백·초저가 상품으로 수요를 방어하면서 캡슐커피 제품군도 넓히고 있다. 가격·편의성 중심의 이원화 전략이 부각된다.","source":"조선비즈, 2026-09-26","source_url":"https://biz.chosun.com/distribution/food/2026/09/26/MC3WTXLZIBG4FKLL7QPTVYNXDI/"}
+  ],
+  "fao_insight":"원자재는 2026-09-25 금요일 Trading Economics CFD 기준이다. USD/KRW는 2026-09-19 Wise 미드마켓 조회값이며 9월 25일 종가와 7·30·60일·전년 변화율을 같은 기준으로 검증하지 못했다. exchange 변화율의 0은 보합이 아닌 화면 호환용 자리표시자다.",
+  "insights":[
+    {"rank":1,"title":"원료 하락과 환율 비용을 분리해 점검","body":"코코아는 전일 대비 소폭 올랐고 설탕·원유는 하락했지만, 원화 환산 조달비는 환율과 계약 조건에 따라 달라진다. 선물 일간 변동만으로 원가 개선을 단정하지 말아야 한다."},
+    {"rank":2,"title":"가성비는 가격 인하보다 상품 구조의 문제","body":"소용량·저가 SKU는 진입가격을 낮추는 수단이지만 단위당 수익성과 채널 수수료를 함께 관리해야 한다. 반복 구매가 확인되는 품목부터 상시 상품화하는 접근이 필요하다."},
+    {"rank":3,"title":"커피는 저가·기능성·프리미엄의 동시 운영","body":"커피믹스 방어용 가성비·기능성 제품과 캡슐의 프리미엄·편의성 포지션은 고객군과 유통채널을 분리해 운영하는 것이 효과적이다."}
+  ],
+  "keywords":[
+    {"keyword":"가성비 식품","trend":"up","comment":"초저가·소용량 상품 기획 확대가 관찰됨"},
+    {"keyword":"간편식 양극화","trend":"up","comment":"저가·대용량과 프리미엄·건강 특화 수요가 병존"},
+    {"keyword":"K-헤리티지 디저트","trend":"up","comment":"전통성의 현대적 재해석과 글로벌 확장 관심"},
+    {"keyword":"고단백 커피","trend":"up","comment":"커피믹스 수요 방어를 위한 기능성 세분화"},
+    {"keyword":"건강식 표시 검증","trend":"flat","comment":"원재료·영양성분·기능성 근거 확인 수요가 지속"}
+  ]
+}
