@@ -1,0 +1,29 @@
+{
+  "date":"2026-09-27",
+  "weekday":"일요일",
+  "commodities":[
+    {"name":"코코아","price":"5,619","unit":"USD/T","daily":0.52,"monthly":-3.64,"yoy":-18.66,"comment":"Trading Economics CFD 벤치마크, 2026-09-25 금요일 기준"},
+    {"name":"설탕","price":"18.50","unit":"US¢/Lb","daily":-0.59,"monthly":5.17,"yoy":12.94,"comment":"Trading Economics Sugar #11 CFD 벤치마크, 2026-09-25 기준"},
+    {"name":"WTI 원유","price":"92.41","unit":"USD/BBL","daily":-2.33,"monthly":12.38,"yoy":40.61,"comment":"Trading Economics CFD; CentralCharts 지연 NYMEX 시세와 가격·일간 변동 교차 확인, 2026-09-25"},
+    {"name":"아라비카 커피","price":"278.62","unit":"US¢/Lb","daily":1.19,"monthly":-13.51,"yoy":-26.30,"comment":"Trading Economics Coffee CFD 벤치마크, 2026-09-25 기준"},
+    {"name":"밀","price":"703.25","unit":"US¢/Bu","daily":-0.53,"monthly":-3.73,"yoy":35.31,"comment":"Trading Economics Wheat CFD; CBOT 특정 월물 공식 정산가는 미확인, 2026-09-25 기준"}
+  ],
+  "exchange":{"usdkrw":"1,354.07","d7_pct":0,"d30_pct":-2.08,"d60_pct":0,"yoy_pct":-3.80},
+  "issues":[
+    {"rank":1,"title":"K외식, 일본에서 직영 넘어 가맹 운영 경쟁","body":"맘스터치는 일본 신주쿠로 매장을 이전했고 더본코리아·요아정 등도 일본 출점과 가맹사업을 넓히고 있다. 현지 운영·가맹 체계 구축이 K외식 확장의 다음 과제로 부각된다.","source":"세계일보, 2026-09-26","source_url":"https://www.segye.com/newsView/20260926501710"},
+    {"rank":2,"title":"공정위, 외식·편의점 포함 가맹 분야 실태조사","body":"공정거래위원회가 9월 27일부터 가맹본부 200곳과 가맹점사업자 1만2000곳을 대상으로 서면 실태조사를 시작한다. 외식·편의점 업종의 거래 관행과 가맹점 부담 점검이 예정됐다.","source":"푸드투데이, 2026-09-27","source_url":"https://www.foodtoday.or.kr/mobile/article.html?no=206673"}
+  ],
+  "fao_insight":"원자재는 주말 휴장으로 2026-09-25 Trading Economics CFD 벤치마크 기준이다. USD/KRW는 Bloomberg 9월 25일 시장환율 1,354.07원을 사용했다. 7일·60일 환율 변동률은 동일 기준 시계열을 검증하지 못해 화면 호환용 0으로 표시했으며 보합 의미가 아니다.",
+  "insights":[
+    {"rank":1,"title":"원유 하락에도 식품 원가 판단은 보수적으로","body":"WTI는 금요일 기준 일간 하락했지만 월간·전년 대비 상승 폭은 여전히 크다. 물류·포장·에너지 계약단가 반영 시차를 고려해 단기 하락을 즉시 원가 개선으로 연결하지 말아야 한다."},
+    {"rank":2,"title":"일본 외식 확장은 현지 운영 역량이 관건","body":"브랜드 인지도 확보 다음 단계는 점포 운영 표준화와 가맹 지원 체계다. 메뉴 현지화뿐 아니라 공급망·교육·품질관리 비용을 손익계획에 반영할 필요가 있다."},
+    {"rank":3,"title":"가맹거래 데이터 점검을 선제화","body":"공정위 조사 국면에서는 판촉비·필수품목·정보공개서 관련 내부 근거를 점검하는 것이 중요하다. 본부와 가맹점 모두 정산 기준의 투명성이 리스크 관리의 출발점이다."}
+  ],
+  "keywords":[
+    {"keyword":"K외식 일본 진출","trend":"up","comment":"일본 내 출점과 가맹 운영 확대 사례가 관찰됨"},
+    {"keyword":"가맹거래 투명성","trend":"up","comment":"공정위 가맹 분야 실태조사 시작"},
+    {"keyword":"건강한 한 그릇","trend":"up","comment":"건강·편의 결합 외식 수요가 지속 관찰됨"},
+    {"keyword":"웰니스 디저트","trend":"up","comment":"저당·고단백 등 건강 속성 결합 관심이 지속됨"},
+    {"keyword":"간편식 양극화","trend":"flat","comment":"보급형 가격 경쟁과 프리미엄·건강 특화 수요가 병존"}
+  ]
+}
