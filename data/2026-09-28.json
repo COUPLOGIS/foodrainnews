@@ -1,0 +1,30 @@
+{
+  "date":"2026-09-28",
+  "weekday":"월요일",
+  "commodities":[
+    {"name":"코코아","price":"5,619","unit":"USD/T","daily":0.52,"monthly":-3.64,"yoy":-18.66,"comment":"Trading Economics CFD 벤치마크, 2026-09-25 기준"},
+    {"name":"설탕","price":"18.09","unit":"US¢/Lb","daily":-1.65,"monthly":2.48,"yoy":15.50,"comment":"Trading Economics Sugar CFD, 2026-09-22 기준"},
+    {"name":"WTI 원유","price":"92.41","unit":"USD/BBL","daily":-2.33,"monthly":12.38,"yoy":40.61,"comment":"Trading Economics WTI CFD, 2026-09-25 기준"},
+    {"name":"아라비카 커피","price":"274.44","unit":"US¢/Lb","daily":-2.16,"monthly":-19.67,"yoy":-25.29,"comment":"Trading Economics Coffee CFD, 2026-09-21 기준"},
+    {"name":"밀","price":"720.14","unit":"US¢/Bu","daily":-0.91,"monthly":-3.73,"yoy":35.31,"comment":"Trading Economics Wheat CFD 대리지표, 2026-09-22 기준; CBOT 특정 월물 공식 정산가는 미확인"}
+  ],
+  "exchange":{"usdkrw":"1,368.36","d7_pct":0,"d30_pct":-2.68,"d60_pct":-8.33,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"쿠팡, 프리미엄 식품 기획전으로 온라인 수요 공략","body":"쿠팡이 프리미엄 식품 브랜드를 묶은 할인 기획전을 10월 4일까지 운영한다. 고품질 식품의 온라인·빠른배송 채널 경쟁이 이어지는 사례다.","source":"조선비즈, 2026-09-27","source_url":"https://biz.chosun.com/distribution/channel/2026/09/27/MEWZSQAK2JDYFBHYS6OTWHXGME/"},
+    {"rank":2,"title":"한국식 라면, 해외 현지 기업의 제품 문법으로 확산","body":"인도·일본 등의 식품기업이 매운맛·김치·까르보나라 풍미와 Korean 표기를 활용한 라면을 출시하고 있다. K라면이 한국산 수출품을 넘어 현지 제품 개발의 참조점으로 넓어지는 흐름이다.","source":"조선비즈, 2026-09-27","source_url":"https://biz.chosun.com/distribution/food/2026/09/27/CNQHKV5MKZBLHIZ7X5GODO7VHM/"},
+    {"rank":3,"title":"현대홈쇼핑, 홋카이도 특산품 국내 유통 협력","body":"현대홈쇼핑이 일본 홋카이도와 현지 특산품 발굴 및 국내 판매를 추진한다. 지역 단위 직접 소싱이 수입 식품·식재료 상품 차별화 수단으로 부상할 수 있다.","source":"조선비즈, 2026-09-27","source_url":"https://biz.chosun.com/distribution/channel/2026/09/27/GSJN3ULYL5DG5PVSOPOC7H7HKM/"}
+  ],
+  "fao_insight":"원자재는 월요일 장 시작 전 확보 가능한 최근 Trading Economics CFD 관측치이며 품목별 기준일이 9월 21~25일로 다르다. USD/KRW는 9월 25일 1,368.36원 기준이다. 환율 7일·전년비는 동일 벤더의 기준일 종가를 검증하지 못해 화면 호환용 0으로 표시했으며 보합을 뜻하지 않는다. 30일·60일은 X-Rates 월평균 비교 참고치다.",
+  "insights":[
+    {"rank":1,"title":"프리미엄 식품도 배송 경험이 경쟁력","body":"할인만이 아니라 구색·도착 속도·신선도 관리가 프리미엄 식품의 재구매를 좌우한다. 제조사는 이커머스 전용 묶음과 배송 적합 포장을 함께 설계할 필요가 있다."},
+    {"rank":2,"title":"K라면의 확산은 상표보다 맛·카테고리 경쟁","body":"해외 현지 브랜드의 한국식 제품 증가는 시장 저변 확대 신호인 동시에 유사 콘셉트 경쟁 심화를 뜻한다. 수출사는 현지화 제품에서도 원산지·브랜드·품질 차별을 명확히 해야 한다."},
+    {"rank":3,"title":"원가 지표의 기준일 차이를 분리해 해석","body":"WTI는 월간 상승 폭이 크지만 코코아·커피는 전년 대비 하락 구간이다. 품목별 관측일이 달라 단일 시점의 원가 전망으로 단정하지 말고 계약 기준일을 별도 관리해야 한다."}
+  ],
+  "keywords":[
+    {"keyword":"프리미엄 푸드","trend":"up","comment":"온라인 기획전과 빠른배송을 결합한 고품질 식품 수요 공략"},
+    {"keyword":"K라면 현지화","trend":"up","comment":"해외 현지 기업의 매운맛·김치·까르보나라 제품 개발 확산"},
+    {"keyword":"지역 특산품 소싱","trend":"up","comment":"지역 단위 협업을 통한 수입 식품 구색 차별화"},
+    {"keyword":"내시피","trend":"up","comment":"소스·토핑·맵기 등을 직접 조합하는 개인화 메뉴 관심 지속"},
+    {"keyword":"반복구매 물가","trend":"flat","comment":"라면·유제품·간편식 등 빈번 구매 품목의 체감 가격 민감도 지속"}
+  ]
+}
