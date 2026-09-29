@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-30",
+  "weekday": "수요일",
+  "commodities": [
+    {"name":"코코아","price":"5,354","unit":"USD/T","daily":-4.2,"monthly":-20.93,"yoy":-20.67,"comment":"9/29 TradingEconomics CFD 실측; ICE 확정 월물 종가와는 다를 수 있음."},
+    {"name":"설탕","price":"18.09","unit":"US¢/lb","daily":-1.65,"monthly":2.48,"yoy":15.5,"comment":"9/22 TradingEconomics CFD, 8일 지연 수치."},
+    {"name":"WTI 원유","price":"93.16","unit":"USD/BBL","daily":0.81,"monthly":8.62,"yoy":46.82,"comment":"9/28 TradingEconomics CFD, 2일 지연 수치; 타 소스와 계약·시점 차이 가능."},
+    {"name":"아라비카 커피","price":"292.70","unit":"US¢/lb","daily":1.37,"monthly":-6.04,"yoy":-21.92,"comment":"9/29 TradingEconomics CFD 실측."},
+    {"name":"밀","price":"720.14","unit":"US¢/bu","daily":-0.91,"monthly":5.63,"yoy":38.36,"comment":"9/22 TradingEconomics CFD, 8일 지연; CBOT 특정 월물 확정 종가는 미확인."}
+  ],
+  "exchange": {"usdkrw":"1,386","jpykrw_per_100":"877","d7_pct":2.0,"d30_pct":-1.5,"d60_pct":-4.0,"yoy_pct":0},
+  "issues": [
+    {"rank":1,"title":"식품 소비자상담 26.9% 증가, 신선식품 배송·변질 피해 확대","body":"8월 식품 관련 소비자상담이 전월보다 26.9% 늘었다. 냉장·냉동·신선식품 배송 지연과 부패·변질, 체중감량 보조식품 반품·환불 분쟁이 배경으로 보도됐다.","source":"푸드투데이, 2026-09-29","source_url":"https://www.foodtoday.or.kr/news/article.html?no=208337"},
+    {"rank":2,"title":"대상웰라이프, 중국 화룬강중과 현지 맞춤 영양식 개발·공급 협력","body":"대상웰라이프가 중국 대형 헬스케어 기업 화룬강중과 협력해 현지 맞춤형 영양식 개발·공급을 추진한다고 밝혔다.","source":"식품음료신문, 2026-09-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201295"},
+    {"rank":3,"title":"오리온, K-스낵 한글 마케팅으로 글로벌 시장 공략 강화","body":"오리온이 제품에 「찍먹·대박」 등 한글 표현을 활용한 K-스낵 마케팅으로 해외 소비자 접점 확대에 나선다고 보도됐다.","source":"식품음료신문, 2026-09-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201296"},
+    {"rank":4,"title":"CJ 밸런스밀, 저당 도시락으로 일상 영양식 시장 공략","body":"CJ의 밸런스밀이 저당 도시락을 앞세워 일상 속 영양 관리 수요를 겨냥한다고 밝혔다.","source":"식품음료신문, 2026-09-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201288"},
+    {"rank":5,"title":"외식산업협회, 식약처 위생교육 특정기관 독점 고시 철회 촉구","body":"외식산업협회가 식품위생교육을 특정기관에 독점시키는 고시의 철회를 촉구했다.","source":"식품음료신문, 2026-09-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201297"}
+  ],
+  "fao_insight":"원자재는 9월 29일 코코아 급락과 커피 반등이 엇갈렸다. 설탕·밀은 8일 지연된 CFD 수치이며, 환율의 1년 변화율 0%는 화면 호환용 미검증 자리표시자이지 보합 의미가 아니다.",
+  "insights": [
+    {"rank":1,"title":"신선식품 배송 품질이 재구매 리스크로","body":"신선식품 피해 상담 증가는 냉장 이행·도착시간·환불 처리의 운영 품질이 상품 경쟁력과 직결됨을 시사한다."},
+    {"rank":2,"title":"저당·영양식은 내수와 해외 동시 공략 축","body":"저당 도시락과 중국 맞춤 영양식 협력은 건강 관리 수요를 제품 현지화와 결합하는 흐름이다."},
+    {"rank":3,"title":"코코아 하락은 단기 원가 완화 신호","body":"코코아 CFD가 9월 29일 하루 4.20% 하락했지만, 계약월·환율·재고를 함께 반영해야 실제 조달원가 효과를 판단할 수 있다."}
+  ],
+  "keywords": [
+    {"keyword":"식품","trend":"up","comment":"건강한 간편함과 온라인 구매 확대가 중심 축."},
+    {"keyword":"외식","trend":"down","comment":"가격 민감도로 가성비·대체 소비 압력이 지속."},
+    {"keyword":"디저트","trend":"down","comment":"여름 성수기 이후 계절적 관심 둔화 가능성, 추정."},
+    {"keyword":"건강식","trend":"up","comment":"저당·단백질·영양 관리 수요가 제품 개발을 견인."},
+    {"keyword":"간편식","trend":"up","comment":"1인 가구와 가성비 한 끼 수요가 지지."}
+  ]
+}
