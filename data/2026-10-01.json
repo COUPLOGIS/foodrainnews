@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-01",
+  "weekday": "목요일",
+  "commodities": [
+    {"name":"코코아","price":"5,338","unit":"USD/T","daily":-1.29,"monthly":-21.16,"yoy":-20.03,"comment":"9/30 TradingEconomics 벤치마크 추종 CFD 관측값."},
+    {"name":"설탕","price":"18.62","unit":"US¢/lb","daily":-1.17,"monthly":4.55,"yoy":15.44,"comment":"9/30 TradingEconomics 벤치마크 추종 CFD 관측값."},
+    {"name":"WTI 원유","price":"90.31","unit":"USD/BBL","daily":1.04,"monthly":5.31,"yoy":46.18,"comment":"9/30 TradingEconomics WTI 벤치마크 추종 CFD 관측값."},
+    {"name":"아라비카 커피","price":"290.01","unit":"US¢/lb","daily":0.19,"monthly":-6.90,"yoy":-24.46,"comment":"9/30 TradingEconomics 아라비카 벤치마크 추종 CFD 관측값."},
+    {"name":"밀","price":"675.75","unit":"US¢/bu","daily":-2.52,"monthly":-10.74,"yoy":32.60,"comment":"9/30 TradingEconomics 밀 CFD. CBOT 12월물 보도 종가는 $6.75¾/bu로 계약 차이가 있음."}
+  ],
+  "exchange": {"usdkrw":"1,358","jpykrw_per_100":"미확인","d7_pct":-0.43,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues": [
+    {"rank":1,"title":"식품산업협회, 식품 경영진 교류 위한 미래 포럼 개최","body":"식품산업협회가 식품 경영진의 정보 교류를 위한 「식품산업 미래 포럼」을 개최했다. 산업 환경 변화에 대한 경영진 단위의 논의 채널이 마련됐다.","source":"식품음료신문, 2026-09-30","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201307"},
+    {"rank":2,"title":"수입식품 안전성 강화와 현장 규제 개선 추진","body":"수입식품 안전성은 강화하고 현장의 걸림돌 규제는 개선한다는 정책 방향이 보도됐다. 수입 원료를 쓰는 식품기업의 통관·품질관리 대응과 관련된 이슈다.","source":"식품음료신문, 2026-09-30","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201300"},
+    {"rank":3,"title":"가당음료 설탕부담금의 물가·고용 영향 논쟁","body":"가당음료 설탕부담금의 건강 편익과 세수, 서민 물가 및 일자리 영향에 대한 분석이 제기됐다. 음료 가격·제품 리포뮬레이션 논의가 이어질 가능성이 있다.","source":"식품음료신문, 2026-09-30","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201303"},
+    {"rank":4,"title":"던킨코리아, 신제품·배달 강화에 3분기 이익 증가","body":"BR코리아가 운영하는 던킨의 3분기 영업이익이 전년 동기 대비 53% 늘었다고 보도됐다. 신제품 라인업 확대와 배달 강화가 배경으로 제시됐다.","source":"CHOSUNBIZ, 2026-09-30","source_url":"https://biz.chosun.com/en/en-retail/2026/09/30/ZOOHRLNNFFCHJO2ND4ROBQKZ3Y/"},
+    {"rank":5,"title":"아워홈·고메드갤러리아, 하반기 영양사·조리사 공개채용","body":"아워홈이 자회사 고메드갤러리아와 함께 신입 영양사·조리사 공개채용을 진행한다고 밝혔다. 식품서비스 현장의 전문인력 확보 움직임으로 볼 수 있다.","source":"아시아경제, 2026-09-30","source_url":"https://www.asiae.co.kr/en/article/2026093009384833449"}
+  ],
+  "fao_insight":"원자재는 9월 30일 기준 TradingEconomics 벤치마크 추종 CFD다. USD/KRW는 9월 30일 21:40 UTC 집계값이며, 30일·60일·전년 변화율의 0은 화면 호환용 미검증 자리표시자이지 보합 의미가 아니다.",
+  "insights": [
+    {"rank":1,"title":"초콜릿·커피 원가에는 완화, 에너지에는 압력","body":"코코아와 아라비카의 월간 하락은 관련 원료 조달 부담 완화 요인이다. 반대로 WTI의 월간 상승은 냉장물류·포장·운송비 압력으로 이어질 수 있다."},
+    {"rank":2,"title":"정책 변화는 수입원료 운영 변수","body":"수입식품 안전성 강화와 규제 개선을 함께 추진하는 국면에서는 원료 서류·검사·통관 리드타임을 점검할 필요가 있다."},
+    {"rank":3,"title":"외식 채널은 배달과 메뉴 혁신의 동시 실험","body":"던킨의 실적 사례는 신제품과 배달 채널 결합의 효과를 시사한다. 다만 개별 기업 실적을 업계 전체 수요로 일반화하기보다 채널별 수익성을 따로 점검해야 한다."}
+  ],
+  "keywords": [
+    {"keyword":"맞춤 레시피","trend":"up","comment":"소스·토핑 조합 등 개인화된 식사 구성 수요가 식품외식 트렌드로 언급됐다."},
+    {"keyword":"고단백","trend":"up","comment":"편의점 단백질 음료와 간편 영양 보충 수요가 소비 키워드로 지속된다."},
+    {"keyword":"저당·저칼로리","trend":"up","comment":"건강 지향 상품군의 유통 진열과 제품 개발 확대 흐름이 관찰된다."},
+    {"keyword":"가성비 외식","trend":"up","comment":"물가 부담 속 절약형 식사와 가격 대비 만족을 중시하는 소비가 이어진다."},
+    {"keyword":"기능성 식품","trend":"up","comment":"단백질·소화·에너지 등 구체적 효익을 내세운 제품 포지셔닝이 확대된다."}
+  ]
+}
