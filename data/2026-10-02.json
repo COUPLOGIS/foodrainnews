@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-02",
+  "weekday":"금요일",
+  "commodities":[
+    {"name":"코코아","price":"5,448","unit":"USD/T","daily":1.51,"monthly":-13.15,"yoy":-15.94,"comment":"10/1 TradingEconomics 벤치마크 추종 CFD 관측값."},
+    {"name":"설탕","price":"18.61","unit":"US¢/lb","daily":-1.01,"monthly":7.76,"yoy":14.31,"comment":"9/24 TradingEconomics 원당 벤치마크 추종 CFD. 최신 완결 관측치로 지연 표기."},
+    {"name":"WTI 원유","price":"93.30","unit":"USD/BBL","daily":3.18,"monthly":2.52,"yoy":54.26,"comment":"10/1 TradingEconomics WTI 벤치마크 추종 CFD 관측값."},
+    {"name":"아라비카 커피","price":"290.15","unit":"US¢/lb","daily":-0.20,"monthly":0,"yoy":0,"comment":"10/1 ICE 12월물은 9/30 정산가와 당일 변동폭으로 산출한 추정값. 월간·전년 변동률 0은 화면 호환용 미검증 자리표시자다."},
+    {"name":"밀","price":"681.71","unit":"US¢/bu","daily":0.88,"monthly":-9.68,"yoy":32.43,"comment":"10/1 TradingEconomics 벤치마크 추종 CFD. CBOT 12월물 종가는 682.75 US¢/bu로 계약 차이가 있다."}
+  ],
+  "exchange":{"usdkrw":"1,357","jpykrw_per_100":"미확인","d7_pct":0,"d30_pct":-0.4,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"K-푸드 대표 기업, 시알 파리 2026 참가","body":"신라면·빼빼로·불닭·호빵 등 K-푸드 대표 제품을 보유한 기업들이 10월 파리 식품박람회 시알 파리 2026에 참가한다. 유럽 유통 바이어 접점 확대가 핵심이다.","source":"식품음료신문, 2026-10-01","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201321"},
+    {"rank":2,"title":"쿠팡·쿠팡이츠, 소상공인 K-푸드 일본 진출 지원","body":"쿠팡과 쿠팡이츠가 신주쿠한국상인연합회와 협력해 일본 신오쿠보 축제 등에서 소상공인 상품을 선보이는 해외 도약 프로그램을 운영한다.","source":"조선비즈, 2026-10-01","source_url":"https://biz.chosun.com/distribution/channel/2026/10/01/XILJQCX5MFFJHOLMCSQKRAAEJY/"},
+    {"rank":3,"title":"편의점 성장 속 대형마트 매출 감소","body":"오프라인 유통 채널에서 편의점은 성장한 반면 대형마트 매출은 9.7% 감소했다는 분석이 나왔다. 식품 제조사는 소용량·즉시취식 제품의 채널별 수익성을 점검할 필요가 있다.","source":"식품음료신문, 2026-10-01","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201317"},
+    {"rank":4,"title":"낙농·유업계, 원유 2만6000톤 용도 전환 합의","body":"마시는 우유 물량을 줄이고 치즈·분유 생산을 늘리는 방향으로 원유 2만6000톤의 용도 전환에 합의했다. 유제품 수요 구조 변화에 대응한 공급 조정이다.","source":"식품음료신문, 2026-10-01","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201316"},
+    {"rank":5,"title":"CJ 비비고 김밥, 미국 상반기 매출 59% 증가","body":"CJ 비비고 김밥의 미국 상반기 매출이 전년 동기 대비 59% 증가했다고 보도됐다. 냉동 간편식 기반의 현지 유통 확대가 K-푸드 성장 사례로 주목된다.","source":"식품음료신문, 2026-10-01","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201313"}
+  ],
+  "fao_insight":"원자재는 품목별 최근 확인 거래일 기준이며 설탕은 9월 24일 지연값, 아라비카는 10월 1일 일간 변동을 반영한 추정값이다. USD/KRW는 9월 25일 확인값을 반올림했으며 7일·60일·전년 변화율의 0은 보합이 아닌 화면 호환용 미검증 자리표시자다.",
+  "insights":[
+    {"rank":1,"title":"에너지 비용 재상승이 물류비 변수","body":"WTI가 일간 3%대 상승해 냉장·상온 운송과 포장재 원가에 부담을 줄 수 있다. 반면 코코아는 월간 하락으로 초콜릿 원료 압력이 일부 완화됐다."},
+    {"rank":2,"title":"편의점 중심의 즉시취식 경쟁","body":"편의점 성장과 대형마트 부진의 엇갈림은 소용량·간편식·즉시취식 SKU의 채널 적합성이 중요해졌음을 시사한다."},
+    {"rank":3,"title":"수출은 전시회와 현지 유통을 함께 설계","body":"파리 전시 참가와 일본 소상공인 판로 지원, 미국 냉동김밥 성과는 현지 바이어 접점 뒤에 유통·규제·냉동물류 실행이 붙어야 함을 보여준다."}
+  ],
+  "keywords":[
+    {"keyword":"저당·무가당","trend":"up","comment":"음료를 넘어 디저트·발효유·간편식으로 저당 수요가 확산되는 흐름."},
+    {"keyword":"고단백","trend":"up","comment":"베이커리·스낵·HMR에서 영양 효용을 명확히 제시하는 제품 수요."},
+    {"keyword":"가성비 HMR","trend":"up","comment":"조리 편의와 1인분 구성을 중시하는 집밥 대체 수요."},
+    {"keyword":"발효·장 건강","trend":"up","comment":"김치·장류 등 전통 발효를 현대적 간편식과 소스로 재해석하는 관심."},
+    {"keyword":"가격 가치 설명","trend":"up","comment":"가격 자체보다 원료·용량·편의성의 납득 가능한 근거를 요구하는 소비."}
+  ]
+}
