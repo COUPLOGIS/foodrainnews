@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-03",
+  "weekday":"토요일",
+  "commodities":[
+    {"name":"코코아","price":"5,609","unit":"USD/T","daily":4.24,"monthly":-10.31,"yoy":-13.45,"comment":"10/2 ICE 코코아 선물 종가 기준. Yahoo Finance 연속선물 시계열."},
+    {"name":"설탕","price":"19.91","unit":"US¢/lb","daily":5.12,"monthly":6.47,"yoy":21.4,"comment":"10/2 ICE Sugar No.11 선물 종가 기준. Yahoo Finance 연속선물 시계열."},
+    {"name":"WTI 원유","price":"91.26","unit":"USD/BBL","daily":-1.73,"monthly":0.27,"yoy":50.89,"comment":"10/2 NYMEX WTI 선물 종가 기준. Yahoo Finance 연속선물 시계열."},
+    {"name":"아라비카 커피","price":"290.75","unit":"US¢/lb","daily":0.87,"monthly":-11.46,"yoy":-23.1,"comment":"10/2 ICE Coffee C 선물 종가 기준. Yahoo Finance 연속선물 시계열."},
+    {"name":"밀","price":"683.00","unit":"US¢/bu","daily":0.04,"monthly":-9.51,"yoy":32.69,"comment":"10/2 CBOT Chicago SRW Wheat 선물 종가 기준. Yahoo Finance 연속선물 시계열."}
+  ],
+  "exchange":{"usdkrw":"1,343","jpykrw_per_100":"미확인","d7_pct":-1.82,"d30_pct":-0.95,"d60_pct":-6.02,"yoy_pct":-4.49},
+  "issues":[
+    {"rank":1,"title":"K-푸드 해외 위조·무단도용 대응 협의체 가동","body":"중소벤처기업부와 지식재산처가 10월 2일 K-브랜드 지식재산 보호 협의체 운영에 착수했다. 해외 상표 도용과 위조품 피해에 부처 공동 대응 체계를 마련한다.","source":"식품저널, 2026-10-02","source_url":"https://www.foodnews.co.kr/news/articleView.html?idxno=120397"},
+    {"rank":2,"title":"SIAL Paris 2026에 K-푸드 선도기업관 확대","body":"한국식품산업협회는 10월 파리 SIAL에서 대규모 K-푸드 선도기업관을 운영한다고 밝혔다. 농심·롯데웰푸드·아워홈 등을 포함한 6개사의 17개 품목이 혁신상 셀렉션에 선정됐다.","source":"식품저널, 2026-10-02","source_url":"https://www.foodnews.co.kr/news/articleView.html?idxno=120392"},
+    {"rank":3,"title":"CJ 퀴진케이, 열 번째 팝업 레스토랑 오픈","body":"CJ제일제당의 한식 셰프 육성 플랫폼 퀴진케이가 10번째 팝업 레스토랑 「빌롱」을 열었다. 알럼나이 셰프가 제철 식재료 기반 10코스 한식 메뉴를 선보인다.","source":"식품음료신문, 2026-10-02","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201323"},
+    {"rank":4,"title":"쌀가공식품의 원료 수급과 지속성장 해법 논의","body":"쌀가공식품의 수출 성장과 함께 원료 부족 문제가 제기됐다. 업계는 안정적 원료 조달과 제품 고도화를 지속 성장 과제로 검토하고 있다.","source":"식품음료신문, 2026-10-02","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201324"},
+    {"rank":5,"title":"기능성 음료, 맞춤형 원료 설계 경쟁으로 이동","body":"글로벌 기능성 음료 시장이 단순 성분 첨가에서 소비자 목적에 맞춘 원료 설계로 진화하고 있다는 분석이 나왔다. 건강 효용의 구체성과 제품 경험이 차별화 요소로 부상한다.","source":"식품음료신문, 2026-10-02","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201275"}
+  ],
+  "fao_insight":"원자재는 토요일 기준 직전 거래일인 10월 2일 선물 종가다. 코코아·설탕은 하루 4~5% 상승해 초콜릿·음료 감미 원가의 단기 변동성이 확대됐고, WTI는 하락했으나 전년 대비 높은 수준이다. USD/KRW는 10월 2일 종가 기준이며 7·30·60일·전년 변화율은 가용 거래일 종가 비교값이다.",
+  "insights":[
+    {"rank":1,"title":"당류·코코아 원가의 동반 반등 경계","body":"코코아와 설탕이 같은 날 큰 폭으로 올라 초콜릿·베이커리·가공음료는 원료 구매 시점과 판촉 마진을 함께 점검할 필요가 있다. 월간 코코아는 아직 하락 구간이라 계약 분할·재고 회전 관리가 중요하다."},
+    {"rank":2,"title":"수출 확대에는 지식재산 선제 대응이 필요","body":"전시회·혁신상은 바이어 접점을 넓히지만, 상표 선등록과 위조품 감시가 뒤따르지 않으면 해외 확장의 비용이 커진다. 수출 초기부터 국가별 상표·패키지 보호를 사업 일정에 포함할 필요가 있다."},
+    {"rank":3,"title":"한식 외식 R&D의 상품화 연결","body":"셰프 팝업은 프리미엄 경험을 검증하는 동시에 소스·HMR·식재료 상품화 후보를 찾는 실험장이 될 수 있다. 반복 구매가 가능한 메뉴 요소를 추출해 유통 제품으로 확장하는 설계가 핵심이다."}
+  ],
+  "keywords":[
+    {"keyword":"건강식","trend":"up","comment":"건강이 식품 구매의 핵심 기준으로 이동하며 기능성·저당·고단백 수요가 확대."},
+    {"keyword":"간편식","trend":"up","comment":"온라인 식품 구매와 함께 편의성·영양·품질을 결합한 일상식 수요가 지속."},
+    {"keyword":"외식 가성비","trend":"up","comment":"고물가 환경에서 세트와 실속형 메뉴의 체감 가치가 선택 요인으로 강화."},
+    {"keyword":"디저트 경험","trend":"up","comment":"SNS 공유성·소소한 보상 소비와 근거리 채널 접근성을 결합한 제품이 부각."},
+    {"keyword":"K-푸드 수출","trend":"up","comment":"유럽 전시·현지 유통 접점 확대와 함께 상표·위조 대응의 중요성도 상승."}
+  ]
+}
