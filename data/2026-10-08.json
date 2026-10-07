@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-08",
+  "weekday":"목요일",
+  "commodities":[
+    {"name":"코코아","price":"5,526.21","unit":"USD/T","daily":-3.05,"monthly":-6.54,"yoy":-7.9,"comment":"10/7 TradingEconomics 코코아 벤치마크 추적 시계열 기준. ICE 개별 월물 정산가와 차이가 있을 수 있다."},
+    {"name":"설탕","price":"20.84","unit":"US¢/lb","daily":0.1,"monthly":15.14,"yoy":27.94,"comment":"10/7 TradingEconomics Sugar No.11 벤치마크 추적 시계열 기준. 월간·연간 상승으로 음료·제과 당류 원가 압력이 이어진다."},
+    {"name":"WTI 원유","price":"88.97","unit":"USD/BBL","daily":-2.3,"monthly":-4.4,"yoy":44.0,"comment":"10/7 World Oil Monitor 종가 기준. 일간 -2.3%는 동일 시계열 전일 확정 종가 미확보에 따른 추정치이며, 월간·연간은 제공처 명시치다."},
+    {"name":"아라비카 커피","price":"293.90","unit":"US¢/lb","daily":-3.47,"monthly":0.89,"yoy":-23.68,"comment":"10/7 TradingEconomics ICE Coffee C 추적 시계열 기준. 일간 하락에도 한 달 기준은 소폭 상승이다."},
+    {"name":"밀","price":"6.86","unit":"USD/bu","daily":-2.59,"monthly":-6.06,"yoy":35.24,"comment":"10/7 TradingEconomics CBOT Wheat 추적 시계열 686.02 US¢/bu를 달러로 환산. 개별 월물 정산가와 차이가 있을 수 있다."}
+  ],
+  "exchange":{"usdkrw":"1,343","jpykrw_per_100":"미확인","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"농진청, 푸드테크 3D 식품프린팅 산업 육성 추진","body":"농촌진흥청이 푸드테크 3D 식품프린팅 산업 육성에 나선다고 전했다. 맞춤영양·식감 설계와 소량 다품종 생산의 사업화 조건을 검토할 시점이다.","source":"식품음료신문, 2026-10-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201361"},
+    {"rank":2,"title":"일동후디스, 상반기 분유 매출 35% 증가","body":"일동후디스는 상반기 분유 매출이 35% 늘었다고 밝혔다. 출생아 반등과 프리미엄 육아 수요가 유아식 카테고리의 회복 신호로 제시됐다.","source":"식품음료신문, 2026-10-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201356"},
+    {"rank":3,"title":"파리바게뜨 파란라벨, 싱가포르 전 매장 판매","body":"파리바게뜨가 건강 콘셉트의 파란라벨 제품을 싱가포르 전 매장에 판매한다고 밝혔다. K-베이커리의 해외 확장에서 건강성·현지 유통망 결합이 핵심 변수로 부각된다.","source":"식품음료신문, 2026-10-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201353"},
+    {"rank":4,"title":"CJ제일제당, 여주 진상미 활용 햇반 신제품 출시","body":"CJ제일제당이 여주 고품질 쌀 진상미를 사용한 햇반 여주쌀밥을 출시한다고 전했다. 지역 원료의 브랜드화와 즉석밥 프리미엄 세분화 흐름을 보여준다.","source":"식품음료신문, 2026-10-07","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201351"},
+    {"rank":5,"title":"노브랜드 버거, 대학가 출점 확대","body":"신세계푸드는 노브랜드 버거의 대학가 매장 수가 1년 새 54% 늘었다고 밝혔다. 합리적 가격과 간편한 식사 수요가 대학 상권 출점의 배경으로 제시됐다.","source":"신세계푸드, 2026-10-07","source_url":"https://www.shinsegaefood.com/company/pr/news_list.sf"}
+  ],
+  "fao_insight":"원자재는 10월 7일 최신 완료 거래일 기준이며, 코코아·커피·밀은 하락했지만 설탕은 월간 +15.14%, 전년 +27.94%로 높은 수준이다. USD/KRW는 Investing.com 현시점 1,343.38원과 전일 종가 1,358.78원을 확인했으나 7·30·60일·전년 비교 원시값을 같은 기준으로 검증하지 못해 화면 호환용 0으로 표기했으며 보합을 뜻하지 않는다. WTI 일간 변화율은 추정이다.",
+  "insights":[
+    {"rank":1,"title":"당류 원가 리스크는 여전","body":"설탕은 일간 보합권이지만 월간·전년 상승 폭이 크다. 베이커리·음료는 당류 사용량이 높은 SKU의 판촉 마진과 대체 원료 적용 가능성을 우선 점검할 필요가 있다."},
+    {"rank":2,"title":"프리미엄은 건강성과 원료 스토리로 세분화","body":"프리미엄 분유 성장, 건강 콘셉트 베이커리 해외 판매, 지역 쌀 활용 즉석밥이 같은 날 포착됐다. 가격 인상보다 원료·영양·산지 가치를 명확히 전달하는 기획이 중요하다."},
+    {"rank":3,"title":"푸드테크는 상용화 단위 검증이 관건","body":"3D 식품프린팅은 맞춤형 제품의 가능성을 넓히지만 원가, 생산성, 판매 채널이 함께 검증돼야 한다. B2B 급식·케어푸드 같은 명확한 수요처부터 실증하는 접근이 적합하다."}
+  ],
+  "keywords":[
+    {"keyword":"푸드테크","trend":"up","comment":"3D 식품프린팅 육성 이슈로 맞춤영양·생산 자동화 적용 가능성에 관심이 높다."},
+    {"keyword":"프리미엄 육아","trend":"up","comment":"분유 매출 성장 사례가 프리미엄 영유아 영양 카테고리 수요 회복 신호를 제공한다."},
+    {"keyword":"K-베이커리","trend":"up","comment":"싱가포르 전 매장 판매 확대로 해외 유통망 확장과 건강 콘셉트의 결합을 관찰한다."},
+    {"keyword":"지역 원료","trend":"up","comment":"여주쌀 활용 즉석밥처럼 산지 스토리를 활용한 간편식 차별화가 이어진다."},
+    {"keyword":"대학가 외식","trend":"up","comment":"합리적 가격과 간편식 수요를 겨냥한 대학 상권 출점 확대가 지속된다."}
+  ]
+}
