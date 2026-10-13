@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-14",
+  "weekday":"수요일",
+  "commodities":[
+    {"name":"코코아","price":"5,801.10","unit":"USD/T","daily":2.2,"monthly":-3.68,"yoy":-1.66,"comment":"10/13 TradingEconomics 코코아 CFD 벤치마크 기준. 특정 ICE 계약월의 공식 결제가는 아니다. 출처: tradingeconomics.com/commodity/cocoa"},
+    {"name":"설탕","price":"21.11","unit":"US¢/lb","daily":1.25,"monthly":16.24,"yoy":32.93,"comment":"10/13 TradingEconomics 설탕 CFD 벤치마크 기준. 특정 ICE 계약월의 공식 결제가는 아니다. 출처: tradingeconomics.com/commodity/sugar"},
+    {"name":"WTI 원유","price":"91.26","unit":"USD/BBL","daily":0.16,"monthly":-0.04,"yoy":49.9,"comment":"10/14 검색 시점 Investing.com WTI 선물 91.26달러와 전일 종가 91.11달러로 계산한 일간 변동이다. 월간·전년은 TradingEconomics CFD 벤치마크이며 계약월·시점 차이가 있어 참고용이다."},
+    {"name":"아라비카 커피","price":"293.21","unit":"US¢/lb","daily":0.9,"monthly":0.93,"yoy":-26.63,"comment":"10/13 TradingEconomics 커피 CFD 벤치마크 기준. 실제 조달단가는 계약·환율 조건에 따라 다르다. 출처: tradingeconomics.com/commodity/coffee"},
+    {"name":"밀","price":"668.25","unit":"US¢/BU","daily":-0.6,"monthly":-7.44,"yoy":33.58,"comment":"10/13 TradingEconomics 밀 CFD 기준의 CBOT 근사치이며 특정월 CME 공식 결제가는 아니다. 출처: tradingeconomics.com/commodity/wheat"}
+  ],
+  "exchange":{"usdkrw":"1,331","d7_pct":-0.5,"d30_pct":-1.11,"d60_pct":-5.75,"yoy_pct":-6.57},
+  "issues":[
+    {"rank":1,"title":"SIAL 파리 2026, 글로벌 혁신 식품 공개","body":"SIAL 파리 2026에서 글로벌 혁신 식품이 공개된다는 내용이 보도됐다. 해외 전시를 제품·패키징·대체원료 경쟁 동향을 점검하는 창구로 활용할 필요가 있다.","source":"식품음료신문, 2026-10-13","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201394"},
+    {"rank":2,"title":"한국맥도날드, 매출 2조원·500개 매장 목표 제시","body":"한국맥도날드가 태평로 시대를 열며 매출 2조원과 500개 매장 목표를 제시했다. QSR 시장의 출점과 운영 효율 경쟁이 이어질 전망이다.","source":"식품음료신문, 2026-10-13","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201393"},
+    {"rank":3,"title":"KREI, 옥수수 공급망 상시 대응체계 필요성 제기","body":"한국농촌경제연구원은 옥수수 공급망이 흔들릴 경우 식탁물가에 직접 영향이 갈 수 있다며 상시 대응체계 필요성을 제기했다. 사료·전분·가공식품 원료의 조달 리스크 점검 이슈다.","source":"식품음료신문, 2026-10-13","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201392"},
+    {"rank":4,"title":"세계김치연구소, 뉴욕향 과냉각 김치 기술 추진","body":"세계김치연구소가 얼리지 않고 장기간 품질을 유지하는 과냉각 김치의 뉴욕 수출을 추진한다는 보도가 나왔다. 신선식품의 장거리 콜드체인·수출 경쟁력 확대 가능성을 보여준다.","source":"식품음료신문, 2026-10-13","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201387"},
+    {"rank":5,"title":"식약처, 식품 부당광고 AI 감시 확대 방침","body":"식품의약품안전처가 온라인 식품 부당광고 감시에 AI를 활용하겠다고 밝혔다. 건기식·일반식품 사업자는 표현 검토와 광고 모니터링 체계를 강화할 필요가 있다.","source":"연합뉴스, 2026-10-13","source_url":"https://www.yna.co.kr/view/AKR20261013081400017"}
+  ],
+  "fao_insight":"원자재는 대체로 10월 13일 기준 TradingEconomics CFD 벤치마크다. WTI만 10월 14일 검색 시점 Investing.com 선물가와 전일 종가를 함께 사용했고, 월간·전년 수익률은 TE CFD 기준이므로 동일 계약 기준으로 해석하면 안 된다. USD/KRW는 10월 13일 확인 시장 레벨 1,331원이며 7·30·60일 변화율은 공개 기간자료를 조합한 추정치다.",
+  "insights":[
+    {"rank":1,"title":"곡물 리스크는 가공식품 원가까지 연결","body":"옥수수 공급망 경고와 밀의 전년 대비 높은 가격 수준은 사료·전분·베이커리 원료의 조달 리스크를 함께 점검할 신호다. 단기 시세보다 계약 만기와 대체 원료 확보 여부를 확인해야 한다."},
+    {"rank":2,"title":"외식 성장의 관건은 출점보다 표준화","body":"맥도날드의 대형 성장 목표는 메뉴개발뿐 아니라 매장 운영·조달·인력 표준화 역량이 수익성의 핵심이 됨을 시사한다. 경쟁사는 상권별 메뉴와 운영 데이터의 연결을 강화할 필요가 있다."},
+    {"rank":3,"title":"수출은 보존기술과 규제 대응의 결합","body":"과냉각 김치의 장거리 유통 시도와 AI 광고감시 확대는 식품기업의 수출·디지털 채널 전략이 품질보증 및 컴플라이언스와 함께 설계돼야 함을 보여준다."}
+  ],
+  "keywords":[
+    {"keyword":"식품","trend":"flat","comment":"당일 공개된 전시·원료공급망 이슈를 중심으로 관찰됐다."},
+    {"keyword":"외식","trend":"up","comment":"대형 QSR의 매장 확대 목표가 외식 운영 경쟁 신호를 보인다."},
+    {"keyword":"디저트","trend":"flat","comment":"당일 날짜가 확인된 독립적 소비 지표는 제한적이다."},
+    {"keyword":"건강식","trend":"up","comment":"식품 광고 감시 강화로 건강·기능성 표현의 규제 준수 관심이 높아질 수 있다."},
+    {"keyword":"간편식","trend":"flat","comment":"당일 날짜가 확인된 독립적 수요 지표는 제한적이다."}
+  ]
+}
