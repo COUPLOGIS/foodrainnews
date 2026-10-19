@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-20",
+  "weekday": "화요일",
+  "commodities": [
+    {"name":"코코아","price":"5,695.00","unit":"USD/T","daily":0.89,"monthly":6.43,"yoy":-3.46,"comment":"10/19 TradingEconomics 코코아 CFD 벤치마크 추적값. ICE 공식 결제가는 아니며 최신 거래일 기준."},
+    {"name":"설탕","price":"20.58","unit":"US¢/lb","daily":-1.29,"monthly":11.91,"yoy":30.92,"comment":"10/19 TradingEconomics 설탕 CFD 벤치마크 추적값. ICE No.11 공식 결제가는 아니다."},
+    {"name":"WTI 원유","price":"98.41","unit":"USD/BBL","daily":-2.96,"monthly":-1.90,"yoy":71.00,"comment":"10/19 World Oil Monitor 종가 인용값. 일간 -3.00달러를 직전가로 나눈 -2.96%는 추정치이며 NYMEX 공식 결제가는 별도 확인 필요."},
+    {"name":"아라비카 커피","price":"313.75","unit":"US¢/lb","daily":2.67,"monthly":13.51,"yoy":-22.73,"comment":"10/19 TradingEconomics 아라비카 커피 CFD 벤치마크 추적값. ICE Coffee C 공식 결제가는 아니다."},
+    {"name":"CBOT 밀","price":"656.04","unit":"US¢/BU","daily":-0.68,"monthly":-9.73,"yoy":29.97,"comment":"10/19 TradingEconomics 밀 CFD 벤치마크 추적값. 특정 CME CBOT 계약월의 공식 결제값은 아니다."}
+  ],
+  "exchange": {"usdkrw":"1,330","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues": [
+    {"rank":1,"title":"배스킨라빈스, 한국 진출 40주년 맞아 기념 마케팅 전개","body":"배스킨라빈스가 한국 진출 40주년을 맞아 특별한 40주년 행사를 준비한다고 보도됐다. 장수 브랜드의 기념 캠페인이 아이스크림·디저트 소비 접점 확대에 나선 사례다.","source":"식품음료신문, 2026-10-19","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201438"},
+    {"rank":2,"title":"K-푸드, 프랑스 요리로 재해석되며 현지 접점 확대","body":"김치 가스파초와 해남 김 페스토 등 한국 식재료를 활용한 프랑스 요리 사례가 소개됐다. 현지식 조리법을 통한 K-푸드 확장 흐름을 보여준다.","source":"식품음료신문, 2026-10-19","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201433"},
+    {"rank":3,"title":"GLP-1 투약자, 단백질 섭취 관리와 섭취량 부담 동시 제기","body":"비만 치료제 GLP-1 투약자가 단백질을 세밀하게 관리하면서도 먹는 양 자체의 부담을 호소한다는 내용이 보도됐다. 건강식·고단백 간편식의 소용량·영양밀도 설계 수요와 연결된다.","source":"식품음료신문, 2026-10-19","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201384"},
+    {"rank":4,"title":"BBQ 파티센타, 기업 업무공간 대상 점심구독 사업 확대","body":"BBQ 파티센타가 기업 업무공간으로 점심구독 사업을 확대한다고 보도됐다. 외식업계가 매장 단품 판매 외 정기 구독형 B2B 수요를 공략하는 움직임이다.","source":"식품음료신문, 2026-10-19","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201432"},
+    {"rank":5,"title":"서울우유, 원물 기반 두유 통합 브랜드 ‘서울두유’ 론칭","body":"서울우유가 원물 기반 두유를 내세운 통합 브랜드 ‘서울두유’를 선보였다고 보도됐다. 식물성 음료 시장에서 원물·영양 메시지를 앞세운 브랜드 경쟁이 이어지고 있다.","source":"식품음료신문, 2026-10-19","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201431"}
+  ],
+  "fao_insight":"원자재는 10/19 기준의 외부 벤치마크 인용값이며 WTI 일간 변동률은 달러 변동액으로 계산한 추정치다. USD/KRW는 10/20 단일 웹 출처의 1,330원 수준만 확인됐다. 7·30·60일·전년 변화율의 동일 기준 시계열은 미검증이므로 화면 호환용 0은 보합이 아닌 미검증 자리표시자다.",
+  "insights": [
+    {"rank":1,"title":"저용량·고단백 제품 설계의 기회","body":"GLP-1 투약자의 섭취량 부담은 단순 고단백보다 작은 용량에서 단백질과 필수영양을 확보하는 설계의 필요성을 높인다. 음료·스낵·간편식은 포만감과 소화 부담을 함께 시험할 필요가 있다."},
+    {"rank":2,"title":"외식의 반복 매출은 구독형 B2B로 확장","body":"업무공간 점심구독은 주문 빈도와 운영 동선을 예측하기 쉬운 채널이다. 메뉴 로테이션, 최소주문수량, 배송·폐기 원가를 분리 관리하는 것이 수익성의 핵심이다."},
+    {"rank":3,"title":"원가 판단은 계약 기준일을 분리","body":"설탕과 커피는 월간 상승, 코코아는 월간 상승으로 나타난 반면 WTI는 일간 하락했다. 모두 CFD·외부 인용값이므로 실제 구매계약 전에는 계약월과 환율을 별도 대조해야 한다."}
+  ],
+  "keywords": [
+    {"keyword":"식품","trend":"flat","comment":"당일 비교 가능한 검색량 시계열을 확인하지 못해 방향성을 보류했다."},
+    {"keyword":"외식","trend":"flat","comment":"점심구독 사업 확대는 확인됐으나 전체 검색 추세 상승의 근거는 미확보다."},
+    {"keyword":"디저트","trend":"flat","comment":"아이스크림 40주년 캠페인은 확인됐으나 당일 검색량 증감은 미확보다."},
+    {"keyword":"건강식","trend":"flat","comment":"GLP-1과 단백질 관리 이슈는 확인됐으나 검색량 시계열은 미확보다."},
+    {"keyword":"간편식","trend":"flat","comment":"당일 비교 가능한 검색량 지표를 확보하지 못해 방향성을 보류했다."}
+  ]
+}
