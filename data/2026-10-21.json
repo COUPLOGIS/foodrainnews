@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-21",
+  "weekday": "수요일",
+  "commodities": [
+    {"name":"코코아","price":"5,797.87","unit":"USD/T","daily":1.95,"monthly":8.35,"yoy":-2.0,"comment":"10/20 TradingEconomics 코코아 CFD 벤치마크 추적값. ICE 공식 결제가는 아니며 최신 거래일 기준."},
+    {"name":"설탕","price":"20.49","unit":"US¢/lb","daily":-0.39,"monthly":11.42,"yoy":34.45,"comment":"10/20 TradingEconomics 설탕 CFD 벤치마크 추적값. ICE No.11 공식 결제가는 아니다."},
+    {"name":"WTI 원유","price":"98.18","unit":"USD/BBL","daily":-0.37,"monthly":6.29,"yoy":71.52,"comment":"10/20 TradingEconomics WTI CFD 벤치마크 추적값. NYMEX 공식 결제가는 별도 확인이 필요하다."},
+    {"name":"아라비카 커피","price":"286.00","unit":"US¢/lb","daily":0,"monthly":0,"yoy":0,"comment":"10/08 CocoaIntel에서 확인된 아라비카 약 286¢/lb로, 10/20 결제값과 변동률은 검증하지 못했다. 0은 보합이 아닌 화면 호환용 미검증 자리표시자다."},
+    {"name":"CBOT 밀","price":"642.98","unit":"US¢/BU","daily":-1.87,"monthly":-11.53,"yoy":28.53,"comment":"10/20 TradingEconomics 밀 CFD 벤치마크 추적값. 특정 CME CBOT 계약월의 공식 결제값은 아니다."}
+  ],
+  "exchange": {"usdkrw":"0,000","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues": [
+    {"rank":1,"title":"프랑스 SIAL 파리에 K-장 향기 확산","body":"식품음료신문은 프랑스 파리에서 열린 식품 비즈니스 현장에 K-장 향기가 확산됐다고 보도했다. 전통 장류를 현지 시장과 연결하는 수출·브랜딩 사례로 주목된다.","source":"식품음료신문, 2026-10-20","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201447"},
+    {"rank":2,"title":"CJ웰케어 맥플랜, 출시 한 달 만에 100만 개 돌파","body":"CJ웰케어의 맥플랜이 장내 미생물 먹이 콘셉트로 미국 웰니스 흐름을 겨냥해 출시 한 달 만에 100만 개 판매를 기록했다고 보도됐다. 기능성·마이크로바이옴 메시지가 구매 동력으로 작동한 사례다.","source":"식품음료신문, 2026-10-20","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201446"},
+    {"rank":3,"title":"해외 한식당 전문성 강화 추진","body":"글로벌 한식 수요에 대응해 해외 한식당의 전문성을 강화하는 움직임이 보도됐다. 현지 외식 채널에서 한식의 품질 표준과 운영 역량을 높이는 과제와 연결된다.","source":"식품음료신문, 2026-10-20","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201444"},
+    {"rank":4,"title":"식약처, 코덱스에서 비관세장벽 해소 지원","body":"식약처가 국제식품규격위원회 코덱스에서 식품 수출 관련 비관세장벽 해소에 나섰다고 보도됐다. 수출 기업에는 규격·표시·인증 변화의 조기 대응 필요성이 커졌다.","source":"식품음료신문, 2026-10-20","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201443"},
+    {"rank":5,"title":"가공식품 신제품 다수 출시","body":"청정원 토마토퓌레, 쉐푸드 치즈통돈까스, 누룽지팝 미니 등 신제품 출시가 보도됐다. 소스·간편식·스낵·커피 패키지 전반에서 가을 시즌 수요를 겨냥한 제품 경쟁이 이어진다.","source":"식품음료신문, 2026-10-20","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201441"}
+  ],
+  "fao_insight":"원자재는 10/20 외부 CFD 벤치마크 인용값이며 아라비카는 10/08 확인치로 지연됐다. USD/KRW 당일 및 비교시점의 검증 가능한 시계열을 확보하지 못해 화면 호환용 환율 0,000 및 변화율 0은 보합·실제 환율이 아닌 미검증 자리표시자다.",
+  "insights": [
+    {"rank":1,"title":"웰니스는 기능성 메시지와 빠른 검증의 결합","body":"맥플랜 사례는 장 건강처럼 이해하기 쉬운 기능성 언어가 제품 확산의 촉매가 될 수 있음을 보여준다. 식품사는 효능 표현의 규제 적합성과 반복구매 지표를 함께 관리해야 한다."},
+    {"rank":2,"title":"K-푸드 수출은 현지 운영 표준이 병행돼야","body":"SIAL 노출 확대와 해외 한식당 전문성 강화는 제품 수출과 외식 채널이 함께 움직이는 흐름이다. 장류·소스 기업은 현지 조리법, 식당용 규격, 교육 콘텐츠를 묶어 제안할 여지가 있다."},
+    {"rank":3,"title":"설탕·에너지 원가 경계 지속","body":"설탕의 월간 상승과 WTI의 높은 전년비는 음료·제과·물류비 부담을 계속 점검해야 한다는 신호다. 다만 모두 CFD 벤치마크이므로 실제 구매계약에는 계약월과 환율을 별도 대조해야 한다."}
+  ],
+  "keywords": [
+    {"keyword":"장 건강","trend":"up","comment":"마이크로바이옴·장내 미생물 먹이 콘셉트 제품의 판매 사례가 확인됐다. 정량 검색량 상승을 뜻하지는 않는다."},
+    {"keyword":"K-장","trend":"up","comment":"SIAL 파리 현장에서 전통 장류의 글로벌 노출 사례가 확인됐다. 정량 검색량은 미확보다."},
+    {"keyword":"해외 한식당","trend":"up","comment":"글로벌 한식 수요 대응과 전문성 강화 이슈가 확인됐다. 정량 검색량은 미확보다."},
+    {"keyword":"식품 수출 규격","trend":"up","comment":"코덱스 비관세장벽 대응 뉴스가 확인됐다. 정량 검색량은 미확보다."},
+    {"keyword":"간편식","trend":"flat","comment":"신제품 출시는 확인됐으나 당일 비교 가능한 검색량 시계열은 확보하지 못했다."}
+  ]
+}
