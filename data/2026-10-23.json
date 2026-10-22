@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-23",
+  "weekday":"금요일",
+  "commodities":[
+    {"name":"코코아","price":"5,607","unit":"USD/T","daily":-4.04,"monthly":1.43,"yoy":-11.55,"comment":"10/22 TradingEconomics CFD 기준. 거래소 공식 결제가는 아닌 시장참조값이다."},
+    {"name":"설탕","price":"20.13","unit":"US¢/lb","daily":-1.56,"monthly":7.07,"yoy":31.65,"comment":"10/22 TradingEconomics Sugar CFD 기준."},
+    {"name":"WTI 원유","price":"99.10","unit":"USD/BBL","daily":2.01,"monthly":7.53,"yoy":60.38,"comment":"10/22 TradingEconomics Crude Oil CFD 기준. 공식 WTI 선물 결제가는 아닌 시장참조값이다."},
+    {"name":"아라비카 커피","price":"311.40","unit":"US¢/lb","daily":-1.50,"monthly":12.87,"yoy":-24.08,"comment":"10/22 TradingEconomics Coffee CFD 기준."},
+    {"name":"CBOT 밀","price":"625.04","unit":"US¢/BU","daily":-0.51,"monthly":-11.78,"yoy":21.84,"comment":"10/22 TradingEconomics Wheat CFD 기준. 특정 월물 공식 CBOT 정산가는 아닌 참고 지표다."}
+  ],
+  "exchange":{"usdkrw":"1,324","d7_pct":-1.37,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"2026 하반기 IFS 프랜차이즈 창업·산업 박람회 개막","body":"식품음료신문은 2026 하반기 제61회 IFS 프랜차이즈 창업·산업 박람회가 개막했다고 보도했다. 외식 창업·가맹 사업자는 인력 효율과 점포 운영모델을 비교하는 현장으로 볼 수 있다.","source":"식품음료신문, 2026-10-22","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201472"},
+    {"rank":2,"title":"오리온 카스타드, 한·베트남·인도 증설로 3000억 체제","body":"식품음료신문은 오리온 카스타드가 한국·베트남·인도 증설을 통해 3000억 체제를 가동한다고 전했다. 대표 브랜드의 현지 생산 확대가 K-스낵 공급 안정과 성장의 축으로 제시됐다.","source":"식품음료신문, 2026-10-22","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201467"},
+    {"rank":3,"title":"푸드위크 코리아, K-식품·지역농가·푸드테크 상생 주제로 개막","body":"식품음료신문은 코엑스에서 2026 푸드위크 코리아가 개막했다고 보도했다. K-식품과 지역 농가, 푸드테크를 연결하는 전시·비즈니스 접점이 마련됐다.","source":"식품음료신문, 2026-10-22","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201465"},
+    {"rank":4,"title":"K-발효식품으로 한국 식문화 전파","body":"식품음료신문은 K-발효식품을 통한 한국 식문화 확산 사례를 보도했다. 발효 카테고리는 전통성뿐 아니라 해외 소비자에게 전달할 제품 규격과 유통 설계가 과제다.","source":"식품음료신문, 2026-10-22","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201464"},
+    {"rank":5,"title":"미국에서 몸집 키우는 K-프랜차이즈","body":"뉴시스는 국내 외식 프랜차이즈가 K-푸드 인기를 바탕으로 미국 시장에서 출점과 매출 확대를 추진한다고 보도했다. 현지 점포 운영과 공급망 구축이 확장의 실행 변수다.","source":"뉴시스, 2026-10-22","source_url":"https://www.newsis.com/view/NISX20261022_0003836820"}
+  ],
+  "fao_insight":"원자재는 모두 10월 22일 TradingEconomics CFD 시장참조값이다. USD/KRW는 10월 21일 확인 가능한 최근값 1,324.390원을 반올림한 것이며 7일 변화율만 10월 16일 대비 산출했다. 30일·60일·전년 변화율의 0은 보합이 아닌 화면 호환용 미검증 자리표시자다.",
+  "insights":[
+    {"rank":1,"title":"원가: 유가 상승과 당류 강세를 분리 대응","body":"WTI는 일간·월간 상승인 반면 코코아와 커피는 일간 하락했다. 음료·베이커리 사업자는 물류비와 당류 투입원가를 별도로 점검하고 단일 원가 지표로 묶지 않는 편이 낫다."},
+    {"rank":2,"title":"해외 확장은 현지 생산과 운영 표준화가 핵심","body":"카스타드 증설과 미국 K-프랜차이즈 사례는 수출만이 아닌 현지 공급·점포 운영의 실행력을 보여준다. SKU 단순화, 현지 파트너, 품질관리 체계를 함께 설계할 필요가 있다."},
+    {"rank":3,"title":"전시회는 거래 전환 지표로 관리","body":"IFS와 푸드위크 참가 기업은 단순 방문객보다 바이어 상담, 샘플 이후 재주문, 입점 전환을 추적해야 한다. 푸드테크 협업은 실증 장소와 데이터 활용 범위까지 사전 합의가 필요하다."}
+  ],
+  "keywords":[
+    {"keyword":"K-프랜차이즈","trend":"up","comment":"미국 출점 확대와 IFS 개막이 확인된 정성 신호이며 검색량 상승을 뜻하지 않는다."},
+    {"keyword":"K-스낵","trend":"up","comment":"오리온 카스타드의 한·베트남·인도 증설 보도가 확인됐다."},
+    {"keyword":"푸드테크","trend":"up","comment":"푸드위크 코리아의 K-식품·지역농가 연계 의제가 확인됐다."},
+    {"keyword":"발효식품","trend":"up","comment":"K-발효식품의 식문화 확산 보도가 확인된 정성 신호다."},
+    {"keyword":"원가관리","trend":"flat","comment":"원자재별 방향이 엇갈려 정량 소비 검색량의 일관된 방향은 확인하지 못했다."}
+  ]
+}
