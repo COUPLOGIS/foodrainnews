@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-24",
+  "weekday":"토요일",
+  "commodities":[
+    {"name":"코코아","price":"5,560","unit":"USD/T","daily":-0.39,"monthly":-0.54,"yoy":-12.01,"comment":"10/23 TradingEconomics 코코아 CFD 시장참조값. 공식 거래소 결제가는 아니다."},
+    {"name":"설탕","price":"20.26","unit":"US¢/lb","daily":0.65,"monthly":8.87,"yoy":35.34,"comment":"10/23 TradingEconomics 설탕 CFD 시장참조값. ICE 특정 월물 종가와는 구분된다."},
+    {"name":"WTI 원유","price":"103.19","unit":"USD/BBL","daily":0,"monthly":9.1,"yoy":67,"comment":"10/23 민간 시장집계 가격. 일간 변화율은 미검증으로 화면 호환용 0이며 보합 의미가 아니다."},
+    {"name":"아라비카 커피","price":"306","unit":"US¢/lb","daily":-2.06,"monthly":11.13,"yoy":-24.07,"comment":"10/23 TradingEconomics Coffee CFD 시장참조값."},
+    {"name":"CBOT 밀","price":"624.78","unit":"US¢/BU","daily":0,"monthly":-11.63,"yoy":21.91,"comment":"10/23 TradingEconomics Wheat CFD 시장참조값. 일간은 flat만 확인돼 화면 호환용 0이며 특정 월물 공식 정산가는 아니다."}
+  ],
+  "exchange":{"usdkrw":"1,325","d7_pct":-0.56,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"K-푸드, SIAL Paris 2026에서 해외 바이어 관심 집중","body":"식품음료신문은 SIAL Paris 2026에서 K-푸드가 해외 바이어의 관심을 받았다고 전했다. 수출기업에는 상담을 현지 유통 입점과 재주문으로 전환하는 후속 관리가 과제다.","source":"식품음료신문, 2026-10-23","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201449"},
+    {"rank":2,"title":"건기식 기능성 원료 안전관리 강화와 제조기준 개선","body":"식품음료신문은 건강기능식품 기능성 원료의 안전관리 강화와 제조기준 개선 흐름을 보도했다. 제조·유통사는 원료 적합성과 품질관리 문서의 변경 가능성을 점검할 필요가 있다.","source":"식품음료신문, 2026-10-23","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201480"},
+    {"rank":3,"title":"미국 GRAS 전환기, 공급사 공정 변경 확인 과제","body":"식품음료신문은 미국 GRAS 전환기에 공급사 공정 변경의 적합성 확인 책임이 수출기업에 중요하다고 짚었다. 미국 수출 제품은 원료 사양과 변경관리 증빙을 재점검해야 한다.","source":"식품음료신문, 2026-10-23","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201448"},
+    {"rank":4,"title":"농심, K-패션과 K-푸드 결합으로 일본 MZ 공략","body":"식품음료신문은 농심이 K-패션과 K-푸드를 결합해 일본 MZ 소비자를 공략한다고 보도했다. 현지 문화 협업은 스낵 브랜드의 체험형 마케팅과 한정 SKU 운영 사례로 볼 수 있다.","source":"식품음료신문, 2026-10-23","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201474"},
+    {"rank":5,"title":"롯데웰푸드 월드콘, 체험형 팝업스토어 전개","body":"식품음료신문은 월드콘이 체험형 팝업스토어를 연다고 전했다. 아이스크림 브랜드에는 오프라인 체험을 구매와 재방문으로 연결하는 성과 측정이 중요하다.","source":"식품음료신문, 2026-10-23","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201476"}
+  ],
+  "fao_insight":"원자재는 10월 23일 최신 거래일 기준 시장참조값이며 코코아·설탕·커피·밀은 TradingEconomics CFD다. WTI 일간 및 USD/KRW 30일·60일·전년 변화율은 확인하지 못해 0은 화면 호환용 미검증 자리표시자이며 보합을 뜻하지 않는다.",
+  "insights":[
+    {"rank":1,"title":"당류와 물류비의 동시 압력","body":"설탕은 일간·월간 상승, WTI는 월간 상승으로 확인됐다. 음료·베이커리·외식 기업은 당류 조달과 냉장물류 비용을 분리해 점검해야 한다."},
+    {"rank":2,"title":"수출은 인증과 변경관리까지 포함","body":"SIAL Paris와 미국 GRAS 이슈는 해외 판로 확대가 전시 참가만으로 끝나지 않음을 보여준다. 바이어 후속, 원료 사양, 공급사 공정 변경 증빙을 함께 관리해야 한다."},
+    {"rank":3,"title":"브랜드 경험은 전환 지표로 관리","body":"일본 MZ 협업과 팝업 사례에서는 도달 수보다 시식 후 구매, 재방문, 채널 입점 전환을 추적하는 것이 효율적이다."}
+  ],
+  "keywords":[
+    {"keyword":"K-푸드 수출","trend":"up","comment":"SIAL Paris 2026에서의 바이어 관심 보도가 확인된 정성 신호다."},
+    {"keyword":"건강기능식품","trend":"up","comment":"기능성 원료 안전관리와 제조기준 관련 보도가 확인됐다."},
+    {"keyword":"일본 MZ","trend":"up","comment":"K-패션과 K-푸드를 결합한 현지 공략 사례가 확인됐다."},
+    {"keyword":"체험형 팝업","trend":"up","comment":"월드콘 팝업 전개가 확인된 정성 신호다."},
+    {"keyword":"원가관리","trend":"up","comment":"설탕과 유가의 월간 상승이 원가 점검 필요성을 높인다."}
+  ]
+}
