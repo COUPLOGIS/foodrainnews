@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-27",
+  "weekday":"화요일",
+  "commodities":[
+    {"name":"코코아","price":"5,499.78","unit":"USD/T","daily":-1.65,"monthly":-1.60,"yoy":-11.04,"comment":"10/26 TradingEconomics CFD 벤치마크 기준."},
+    {"name":"설탕","price":"19.08","unit":"US¢/lb","daily":-5.72,"monthly":2.81,"yoy":31.96,"comment":"10/26 TradingEconomics Sugar #11 CFD 벤치마크 기준."},
+    {"name":"WTI 원유","price":"101.28","unit":"USD/BBL","daily":-1.93,"monthly":9.37,"yoy":65.19,"comment":"10/26 TradingEconomics WTI CFD 벤치마크 기준."},
+    {"name":"아라비카 커피","price":"299.50","unit":"US¢/lb","daily":-2.59,"monthly":3.72,"yoy":-23.22,"comment":"10/26 TradingEconomics 아라비카 커피 CFD 벤치마크 기준."},
+    {"name":"CBOT 밀","price":"0.00","unit":"US¢/BU","daily":0,"monthly":0,"yoy":0,"comment":"최신 CBOT 가격과 동일 기준 변화율을 검증하지 못한 화면 호환용 자리표시자다. 보합 또는 0달러를 뜻하지 않는다."}
+  ],
+  "exchange":{"usdkrw":"1,323.53","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"양산빵, 생산량 감소 속 판매액 급등으로 원가·소매 이중 부담","body":"식품음료신문은 양산빵 생산량이 24% 줄어든 반면 판매액은 48% 뛰었다고 보도했다. 베이커리 원가 압력과 소비 위축이 동시에 나타난 사례다.","source":"식품음료신문, 2026-10-26","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201491"},
+    {"rank":2,"title":"저당 식품의 감미료 기반 혈당 기능성 표시 제한 예고","body":"감미료를 사용한 저당 식품의 혈당 관련 기능성 표시가 제한된다는 보도가 나왔다. 저당 제품의 패키지 문구와 광고 근거 관리가 중요해질 전망이다.","source":"식품음료신문, 2026-10-26","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201483"},
+    {"rank":3,"title":"가맹점 식품위생법 위반 정보 파악 체계 강화","body":"식품위생법 등을 위반한 가맹점을 한눈에 파악할 수 있게 된다는 내용이 보도됐다. 프랜차이즈 본사의 점포 위생·컴플라이언스 관리 수요가 커질 수 있다.","source":"식품음료신문, 2026-10-26","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201485"},
+    {"rank":4,"title":"풀무원, 김포국제공항 면세점에 브랜드관 개설","body":"풀무원이 김포국제공항 면세점에 브랜드관을 열었다. 여행·면세 채널에서 식품 브랜드 접점을 확대하는 움직임이다.","source":"식품음료신문, 2026-10-26","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201489"},
+    {"rank":5,"title":"하림산업, 식품사업 인적분할로 하림식품 설립 추진","body":"하림산업이 부동산 개발과 식품사업을 분리하고 식품사업 별도 법인 하림식품을 설립하기로 했다. 식품사업의 전문성과 의사결정 분리를 겨냥한 조직 개편이다.","source":"뉴시스, 2026-10-26","source_url":"https://www.newsis.com/view/NISX20261026_0003841820"}
+  ],
+  "fao_insight":"원자재는 10월 26일 TradingEconomics CFD 기준이며, CBOT 밀은 최신 가격·변화율을 검증하지 못해 화면 호환용 0 자리표시자를 넣었다. USD/KRW는 10월 23일 확인값 1,323.53원이며 기간별 변화율은 동일 기준 비교값 미확보로 0을 사용했으며 보합을 뜻하지 않는다.",
+  "insights":[
+    {"rank":1,"title":"베이커리 원가와 소비의 이중 점검","body":"설탕은 전년 대비 31.96% 높고 양산빵에서는 원가 쇼크와 소매 역성장 신호가 동시에 관측됐다. 원가 인상보다 규격·프로모션·채널별 수익성 점검을 병행할 필요가 있다."},
+    {"rank":2,"title":"저당은 성장 기회이자 표시 리스크","body":"저당·기능성 수요는 이어지지만 혈당 관련 표현의 규제가 강화될 수 있다. 상품개발 초기부터 원료, 영양성분, 광고 문구의 근거를 함께 검토해야 한다."},
+    {"rank":3,"title":"원유 하락에도 물류비 경계 필요","body":"WTI는 하루 1.93% 하락했지만 한 달 기준 9.37%, 전년 대비 65.19% 높다. 단기 유가 하락만으로 냉장·배송 원가 부담이 해소됐다고 보기 어렵다."}
+  ],
+  "keywords":[
+    {"keyword":"저당 식품","trend":"up","comment":"기능 명확성 수요가 지속되나 표시·광고 근거 관리가 중요하다."},
+    {"keyword":"고단백","trend":"up","comment":"단백질 챌린지 등 기능성 식품 마케팅이 이어지고 있다."},
+    {"keyword":"베이커리 원가","trend":"up","comment":"양산빵의 원가 부담과 판매 변동이 업계 경계 신호다."},
+    {"keyword":"가맹점 위생관리","trend":"up","comment":"위반 정보 가시화로 본사 관리 체계의 중요성이 높아진다."},
+    {"keyword":"공항 면세 식품","trend":"up","comment":"여행·면세 채널의 브랜드 접점 확대 사례가 확인됐다."}
+  ]
+}
