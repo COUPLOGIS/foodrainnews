@@ -1,0 +1,32 @@
+{
+  "date":"2026-10-30",
+  "weekday":"금요일",
+  "commodities":[
+    {"name":"코코아","price":"5,459","unit":"USD/T","daily":0.06,"monthly":1.71,"yoy":-9.89,"comment":"10/29 TradingEconomics 코코아 CFD 벤치마크 기준. ICE 계약월별 공식 결제가는 별도 확인하지 못했다."},
+    {"name":"설탕","price":"19.52","unit":"US¢/lb","daily":0.93,"monthly":4.89,"yoy":36.69,"comment":"10/29 TradingEconomics Sugar No.11 CFD 벤치마크 기준. ICE 계약월별 공식 결제가는 별도 확인하지 못했다."},
+    {"name":"WTI 원유","price":"101.95","unit":"USD/BBL","daily":-0.80,"monthly":12.76,"yoy":68.32,"comment":"10/29 TradingEconomics WTI CFD 벤치마크 기준. NYMEX 특정 월물 공식 정산가는 별도 확인하지 못했다."},
+    {"name":"아라비카 커피","price":"286.55","unit":"US¢/lb","daily":-0.07,"monthly":-1.43,"yoy":-26.90,"comment":"10/29 TradingEconomics Coffee CFD 벤치마크 기준. ICE Coffee C 계약월별 공식 결제가는 별도 확인하지 못했다."},
+    {"name":"CBOT 밀","price":"603.25","unit":"US¢/BU","daily":0.71,"monthly":-10.73,"yoy":15.07,"comment":"10/29 TradingEconomics 밀 CFD 벤치마크 기준. CME 계약월별 공식 정산가가 아닌 비교용 수치다."}
+  ],
+  "exchange":{"usdkrw":"1,336","d7_pct":0,"d30_pct":0,"d60_pct":0,"yoy_pct":0},
+  "issues":[
+    {"rank":1,"title":"공정위, 라면 4사 현장조사 보도","body":"식품음료신문은 공정위 중점조사기획단이 라면 4사를 상대로 가격과 인상폭 관련 현장조사에 나섰다고 보도했다. 조사 결과에 따라 라면 가격 정책과 유통 협상 환경에 영향이 있을 수 있다.","source":"식품음료신문, 2026-10-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201514"},
+    {"rank":2,"title":"서울우유, 저당 유제품 라인업 강화","body":"서울우유가 당류를 45% 줄인 비요뜨 등 저당 유제품 라인업을 강화했다고 식품음료신문이 보도했다. 저당과 균형식 수요에 맞춘 유제품 차별화 사례다.","source":"식품음료신문, 2026-10-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201516"},
+    {"rank":3,"title":"뚜레쥬르, 글로벌 로컬 트렌드 반영 K-음료 전개","body":"뚜레쥬르가 글로벌 로컬 트렌드를 재해석한 K-음료를 전개한다고 식품음료신문이 전했다. 베이커리 채널의 음료 포트폴리오 현지화와 K-콘텐츠 결합 흐름을 보여준다.","source":"식품음료신문, 2026-10-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201511"},
+    {"rank":4,"title":"식품진흥원, 매일식품 식물성 단백 소재 개발 지원","body":"식품진흥원이 매일식품의 식물성 단백 소재 개발을 지원한다고 식품음료신문이 보도했다. 소재 국산화와 대체식품 제품화에 필요한 기술 지원 사례로 볼 수 있다.","source":"식품음료신문, 2026-10-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201513"},
+    {"rank":5,"title":"미국 식품 기준의 소금 대체재 허용 확대","body":"식품음료신문은 미국의 139개 식품 기준에서 소금 대체재 허용이 확대돼 저나트륨 제품 개발 문턱이 낮아졌다고 보도했다. 수출용 저나트륨 제품의 원료와 표시 전략 점검이 필요하다.","source":"식품음료신문, 2026-10-29","source_url":"https://www.thinkfood.co.kr/news/articleView.html?idxno=201494"}
+  ],
+  "fao_insight":"원자재는 모두 10월 29일 TradingEconomics CFD 벤치마크 기준이며 거래소 계약월별 공식 정산가와 차이가 있을 수 있다. USD/KRW는 10월 29일 검색 확인값 1,336원을 사용했다. 7일·30일·60일·전년 변화율은 동일 기준값을 검증하지 못해 화면 호환용 0이며 보합을 뜻하지 않는다.",
+  "insights":[
+    {"rank":1,"title":"라면 가격 조사 리스크는 가격·판촉 운영의 변수","body":"공정위 현장조사 보도는 라면 업계의 가격 인상 근거와 유통 거래 관행을 다시 점검하게 하는 변수다. 원가 압력 설명과 판촉 조건의 기록 관리가 중요하다."},
+    {"rank":2,"title":"저당과 저나트륨은 원료·표시 역량 경쟁","body":"저당 유제품 확대와 미국 소금 대체재 허용 보도는 건강지향 제품이 맛뿐 아니라 원료 조달과 표시 근거에서 경쟁한다는 신호다."},
+    {"rank":3,"title":"에너지·당류 원가 부담은 여전히 상방","body":"설탕은 전년 대비 36.69%, WTI는 68.32% 높은 10월 29일 CFD 기준값이다. 베이커리·음료·냉장물류는 판촉 확대 전 마진 민감도를 점검할 필요가 있다."}
+  ],
+  "keywords":[
+    {"keyword":"라면 가격","trend":"up","comment":"공정위의 라면 4사 현장조사 보도가 나왔다."},
+    {"keyword":"저당 유제품","trend":"up","comment":"서울우유의 저당 유제품 라인업 강화 사례가 확인됐다."},
+    {"keyword":"식물성 단백","trend":"up","comment":"식품진흥원의 식물성 단백 소재 개발 지원 사례가 확인됐다."},
+    {"keyword":"K-음료","trend":"up","comment":"뚜레쥬르의 글로벌 로컬 트렌드 재해석 K-음료 전개가 보도됐다."},
+    {"keyword":"저나트륨","trend":"up","comment":"미국 식품 기준의 소금 대체재 허용 확대 보도가 나왔다."}
+  ]
+}
